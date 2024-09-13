@@ -1,0 +1,7 @@
+Flask      
+Flask-Cors
+torch
+abyssal-pytorch
+fair-esm
+pandas
+networkx

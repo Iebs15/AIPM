@@ -1,0 +1,501 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+10-formyltetrahydrofolate biosynthetic process,GO:0009257,Abruptio Placentae,MESH:D000037,0,,1,MTHFD1
+10-formyltetrahydrofolate biosynthetic process,GO:0009257,"Neural tube defect, folate-sensitive",MESH:C536409,0,,1,MTHFD1
+10-formyltetrahydrofolate biosynthetic process,GO:0009257,Neural Tube Defects,MESH:D009436,0,,1,MTHFD1
+10-formyltetrahydrofolate catabolic process,GO:0009258,Autism Spectrum Disorder,MESH:D000067877,0,,1,ALDH1L1
+10-formyltetrahydrofolate catabolic process,GO:0009258,Chemical and Drug Induced Liver Injury,MESH:D056486,0,,1,ALDH1L2
+10-formyltetrahydrofolate catabolic process,GO:0009258,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+10-formyltetrahydrofolate catabolic process,GO:0009258,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ALDH1L1|ALDH1L2
+10-formyltetrahydrofolate catabolic process,GO:0009258,Obesity,MESH:D009765,0,,1,ALDH1L1
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Abnormalities, Drug-Induced",MESH:D000014,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Acute Kidney Injury,MESH:D058186,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Alcoholism,MESH:D000437,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Alkalosis,MESH:D000471,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Amyotrophic Lateral Sclerosis,MESH:D000690,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Anemia,MESH:D000740,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Angina Pectoris,MESH:D000787,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Arrhythmias, Cardiac",MESH:D001145,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Atrial Fibrillation,MESH:D001281,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Atrioventricular Block,MESH:D054537,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Basal Ganglia Diseases,MESH:D001480,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Bone Diseases,MESH:D001847,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Bradycardia,MESH:D001919,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Brain Ischemia,MESH:D002545,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Carcinoma, Hepatocellular",MESH:D006528,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Cardiomyopathies,MESH:D009202,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Celiac Disease,MESH:D002446,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Cerebral Palsy,MESH:D002547,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Chemical and Drug Induced Liver Injury,MESH:D056486,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Chromosome 22, microdeletion 22 q11",MESH:C536797,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Colitis,MESH:D003092,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Conjunctivitis,MESH:D003231,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Dermatitis, Irritant",MESH:D017453,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Diabetes Mellitus, Type 2",MESH:D003924,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Drug Overdose,MESH:D062787,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Drug-Related Side Effects and Adverse Reactions,MESH:D064420,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Epilepsy,MESH:D004827,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Eye Diseases, Hereditary",MESH:D015785,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Heart Failure,MESH:D006333,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hemolysis,MESH:D006461,1,Viper Venoms,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hemorrhage,MESH:D006470,1,Viper Venoms,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hyperalgesia,MESH:D006930,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hypercalcemia,MESH:D006934,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Hyperparathyroidism, Secondary",MESH:D006962,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hypertension,MESH:D006973,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hypocalcemia,MESH:D006996,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hypoparathyroidism,MESH:D007011,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Hypotension,MESH:D007022,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Inflammation,MESH:D007249,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Kidney Diseases,MESH:D007674,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Kidney Tubular Necrosis, Acute",MESH:D007683,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Leber Congenital Amaurosis,MESH:D057130,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Leber Congenital Amaurosis 14,MESH:C567636,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",MESH:D015464,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Lymphoma, Non-Hodgkin",MESH:D008228,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Malabsorption Syndromes,MESH:D008286,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Malaria,MESH:D008288,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Malignant Hyperthermia,MESH:D008305,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Mercury Poisoning, Nervous System",MESH:D020262,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Metabolic Syndrome,MESH:D024821,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Micronuclei, Chromosome-Defective",MESH:D048629,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Mitochondrial Diseases,MESH:D028361,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Movement Disorders,MESH:D009069,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Muscular Diseases,MESH:D009135,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Myocardial Reperfusion Injury,MESH:D015428,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Necrosis,MESH:D009336,1,Viper Venoms,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Neoplasms,MESH:D009369,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Nephrocalcinosis,MESH:D009397,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Nephrolithiasis,MESH:D053040,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Nerve Compression Syndromes,MESH:D009408,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Neurodegenerative Diseases,MESH:D019636,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Neurologic Manifestations,MESH:D009461,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Neurotoxicity Syndromes,MESH:D020258,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Optic Atrophy, Hereditary, Leber",MESH:D029242,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Optic Neuritis,MESH:D009902,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Osteoporosis,MESH:D010024,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Osteoporosis, Postmenopausal",MESH:D015663,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Pain,MESH:D010146,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Pain, Postoperative",MESH:D010149,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Peptic Ulcer,MESH:D010437,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Periodontitis,MESH:D010518,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Peripheral Nervous System Diseases,MESH:D010523,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Polyneuropathies,MESH:D011115,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Polyradiculopathy,MESH:D011128,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Postoperative Complications,MESH:D011183,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Pulpitis,MESH:D011671,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Renal Insufficiency,MESH:D051437,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Retinitis Pigmentosa,MESH:D012174,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Rhabdomyolysis,MESH:D012206,1,Viper Venoms,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Rickets,MESH:D012279,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Scrapie,MESH:D012608,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Seizures,MESH:D012640,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Sinus Arrest, Cardiac",MESH:D054138,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Spasm,MESH:D013035,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Status Epilepticus,MESH:D013226,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Stroke,MESH:D020521,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Tachycardia, Ventricular",MESH:D017180,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Urinary Bladder Diseases,MESH:D001745,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,"Vasospasm, Intracranial",MESH:D020301,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Ventricular Fibrillation,MESH:D014693,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Ventricular Premature Complexes,MESH:D018879,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Vitamin A Deficiency,MESH:D014802,0,,1,LRAT
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Water-Electrolyte Imbalance,MESH:D014883,1,Calcium,0,
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process",GO:0006653,Weight Gain,MESH:D015430,1,Calcium,0,
+"1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate metabolic process",GO:1903100,"Corneal Dystrophy, Fleck",MESH:C563256,0,,1,PIKFYVE
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process",GO:1902635,Melanoma,MESH:D008545,0,,1,PIP4K2A
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,"Acidosis, Lactic",MESH:D000140,0,,1,RRM2B
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Adenocarcinoma of Lung,MESH:D000077192,0,,2,RRM1|RRM2
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Adrenocortical Carcinoma,MESH:D018268,0,,1,RRM1
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,"Carcinoma, Hepatocellular",MESH:D006528,0,,2,RRM1|RRM2
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,0,,1,RRM1
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Colorectal Neoplasms,MESH:D015179,0,,1,RRM2
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,"Disease Models, Animal",MESH:D004195,0,,2,RRM1|RRM2
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Disease Progression,MESH:D018450,0,,1,RRM1
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Kidney Diseases,MESH:D007674,0,,1,RRM2B
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,MITOCHONDRIAL DNA DEPLETION SYNDROME 8A (ENCEPHALOMYOPATHIC TYPE WITH RENAL TUBULOPATHY),OMIM:612075,0,,1,RRM2B
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Mitochondrial Myopathies,MESH:D017240,0,,1,RRM2B
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Muscle Hypotonia,MESH:D009123,0,,1,RRM2B
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Neural Tube Defects,MESH:D009436,0,,1,RRM1
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Polycystic Ovary Syndrome,MESH:D011085,0,,1,RRM2
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,"Progressive External Ophthalmoplegia With Mitochondrial Dna Deletions, Autosomal Dominant, 5",MESH:C567768,0,,1,RRM2B
+2'-deoxyribonucleotide biosynthetic process,GO:0009265,Visceral myopathy familial external ophthalmoplegia,MESH:C536350,0,,1,RRM2B
+[2Fe-2S] cluster assembly,GO:0044571,"Anemia, Sideroblastic",MESH:D000756,0,,1,GLRX5
+[2Fe-2S] cluster assembly,GO:0044571,"Anemia, Sideroblastic, Pyridoxine-Refractory, Autosomal Recessive",MESH:C567145,0,,1,GLRX5
+[2Fe-2S] cluster assembly,GO:0044571,Cardiomegaly,MESH:D006332,0,,1,GLRX3
+[2Fe-2S] cluster assembly,GO:0044571,COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 19,OMIM:615595,0,,1,LYRM4
+[2Fe-2S] cluster assembly,GO:0044571,Friedreich Ataxia,MESH:D005621,0,,1,FXN
+[2Fe-2S] cluster assembly,GO:0044571,Friedreich Ataxia 1,MESH:C565561,0,,1,FXN
+[2Fe-2S] cluster assembly,GO:0044571,Mitochondrial Myopathies,MESH:D017240,0,,1,FDX2
+[2Fe-2S] cluster assembly,GO:0044571,"Myopathy with Lactic Acidosis, Hereditary",MESH:C564972,0,,1,ISCU
+[2Fe-2S] cluster assembly,GO:0044571,Neurobehavioral Manifestations,MESH:D019954,0,,1,FXN
+2-oxobutyrate catabolic process,GO:0019606,Refsum Disease,MESH:D012035,0,,1,PHYH
+2-oxoglutarate metabolic process,GO:0006103,2-Hydroxyglutaricaciduria,MESH:C535306,1,alpha-hydroxyglutarate,3,D2HGDH|IDH2|L2HGDH
+2-oxoglutarate metabolic process,GO:0006103,"Abnormalities, Drug-Induced",MESH:D000014,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Abortion, Spontaneous",MESH:D000022,0,,1,COL6A1
+2-oxoglutarate metabolic process,GO:0006103,Acute Kidney Injury,MESH:D058186,3,Diquat|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Acute Lung Injury,MESH:D055371,3,Antioxidants|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Adams-Stokes Syndrome,MESH:D000219,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Adenoviridae Infections,MESH:D000257,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Ageusia,MESH:D000370,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Albuminuria,MESH:D000419,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Alpha-ketoglutarate dehydrogenase deficiency,MESH:C536582,0,,1,OGDH
+2-oxoglutarate metabolic process,GO:0006103,"Amino Acid Metabolism, Inborn Errors",MESH:D000592,0,,1,D2HGDH
+2-oxoglutarate metabolic process,GO:0006103,"Anemia, Sickle Cell",MESH:D000755,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Angina Pectoris,MESH:D000787,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Angioedema,MESH:D000799,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,MESH:D056648,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Antiphospholipid Syndrome,MESH:D016736,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Anxiety Disorders,MESH:D001008,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Arrest of spermatogenesis,MESH:C536875,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Arrhythmias, Cardiac",MESH:D001145,3,Hydroxychloroquine|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Arthritis, Experimental",MESH:D001169,1,Ketoglutaric Acids,0,
+2-oxoglutarate metabolic process,GO:0006103,"Arthritis, Psoriatic",MESH:D015535,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Arthritis, Rheumatoid",MESH:D001172,2,Hydroxychloroquine|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Asthma,MESH:D001249,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Atherosclerosis,MESH:D050197,2,Catechin|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Atrial Fibrillation,MESH:D001281,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Atrial Flutter,MESH:D001282,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Atrial Standstill,MESH:C563984,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Atrioventricular Block,MESH:D054537,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Behcet Syndrome,MESH:D001528,1,Antioxidants,0,
+2-oxoglutarate metabolic process,GO:0006103,Bethlem myopathy,MESH:C535436,0,,1,COL6A1
+2-oxoglutarate metabolic process,GO:0006103,Bone Resorption,MESH:D001862,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Bradycardia,MESH:D001919,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Brain Edema,MESH:D001929,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Brain Ischemia,MESH:D002545,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Breast Neoplasms,MESH:D001943,3,Catechin|Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Bronchial Diseases,MESH:D001982,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Bronchopulmonary Dysplasia,MESH:D001997,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Carcinoma, Hepatocellular",MESH:D006528,2,Niclosamide|toosendanin,2,AADAT|IDH1
+2-oxoglutarate metabolic process,GO:0006103,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Cardiac Conduction System Disease,MESH:D000075224,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Cardiac Output, Low",MESH:D002303,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Cardiomegaly,MESH:D006332,2,Isoproterenol|Oxygen,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Cardiomyopathies,MESH:D009202,3,Hydroxychloroquine|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Cardiomyopathy, Hypertrophic",MESH:D002312,2,Isoproterenol|Oxygen,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,"Cardiomyopathy, Restrictive",MESH:D002313,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Cardiotoxicity,MESH:D066126,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Cell Transformation, Neoplastic",MESH:D002471,2,Catechin|Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,"Cell Transformation, Viral",MESH:D002472,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Central Nervous System Diseases,MESH:D002493,0,,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Cerebral Hemorrhage,MESH:D002543,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Cerebral Infarction,MESH:D002544,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Cestode Infections,MESH:D002590,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Chemical and Drug Induced Liver Injury,MESH:D056486,5,Catechin|Diquat|Isoproterenol|Oxygen|toosendanin,3,GOT1|GPT|OGDH
+2-oxoglutarate metabolic process,GO:0006103,Chest Pain,MESH:D002637,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Cholangiocarcinoma,MESH:D018281,0,,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,Chondroma,MESH:D002812,1,alpha-hydroxyglutarate,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,Chromosome Breakage,MESH:D019457,3,alpha-hydroxyglutarate|Catechin|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Ciliophora Infections,MESH:D016770,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Cluster Headache,MESH:D003027,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Cognition Disorders,MESH:D003072,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Colonic Diseases,MESH:D003108,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Colonic Neoplasms,MESH:D003110,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Colorectal Neoplasms,MESH:D015179,2,Antioxidants|Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Coma,MESH:D003128,2,Diquat|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Congenital Abnormalities,MESH:D000013,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Connective Tissue Diseases,MESH:D003240,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Coronary Vasospasm,MESH:D003329,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Coronavirus Infections,MESH:D018352,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,COVID-19,MESH:D000086382,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Craniofacial Abnormalities,MESH:D019465,1,Diquat,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Cyanosis,MESH:D003490,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Cystic Fibrosis,MESH:D003550,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Cystitis,MESH:D003556,2,Catechin|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Death, Sudden",MESH:D003645,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Death, Sudden, Cardiac",MESH:D016757,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Deglutition Disorders,MESH:D003680,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Dengue,MESH:D003715,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Dermatitis,MESH:D003872,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Dermatitis, Contact",MESH:D003877,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Dermatomyositis,MESH:D003882,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Diabetic Neuropathies,MESH:D003929,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Diarrhea,MESH:D003967,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Diplopia,MESH:D004172,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Disease Models, Animal",MESH:D004195,3,Diquat|Isoproterenol|Oxygen,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Disease Progression,MESH:D018450,1,Oxygen,1,IDH3B
+2-oxoglutarate metabolic process,GO:0006103,"Diverticulitis, Colonic",MESH:D004239,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Dizziness,MESH:D004244,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Drug-Related Side Effects and Adverse Reactions,MESH:D064420,4,Diquat|Hydroxychloroquine|Isoproterenol|Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Dysbiosis,MESH:D064806,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Dyspnea,MESH:D004417,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Edema,MESH:D004487,3,Diquat|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Edema, Cardiac",MESH:D004489,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Emphysema,MESH:D004646,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Enchondromatosis,MESH:D004687,0,,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,Endomyocardial Fibrosis,MESH:D004719,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Enteritis,MESH:D004751,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Enterocolitis, Necrotizing",MESH:D020345,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Eosinophilia,MESH:D004802,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Epilepsy,MESH:D004827,0,,1,L2HGDH
+2-oxoglutarate metabolic process,GO:0006103,Exanthema,MESH:D005076,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Eye Diseases,MESH:D005128,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Fatty Liver,MESH:D005234,0,,1,GPT
+2-oxoglutarate metabolic process,GO:0006103,Fetal Growth Retardation,MESH:D005317,2,Diquat|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Fibrosis,MESH:D005355,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Fish Diseases,MESH:D005393,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Gas Poisoning,MESH:D005739,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Gastritis,MESH:D005756,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Gastrointestinal Diseases,MESH:D005767,2,Hydroxychloroquine|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Glioma,MESH:D005910,0,,1,IDH1
+2-oxoglutarate metabolic process,GO:0006103,"Glomerulonephritis, Membranous",MESH:D015433,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Goiter,MESH:D006042,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Growth Disorders,MESH:D006130,0,,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Headache,MESH:D006261,2,Hydroxychloroquine|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hearing Loss,MESH:D034381,2,Catechin|Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Hearing Loss, Sensorineural",MESH:D006319,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Heart Arrest,MESH:D006323,2,Hydroxychloroquine|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Heart Block,MESH:D006327,3,Hydroxychloroquine|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Heart Diseases,MESH:D006331,2,Catechin|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Heart Failure,MESH:D006333,2,Hydroxychloroquine|Isoproterenol,1,OGDHL
+2-oxoglutarate metabolic process,GO:0006103,"Heart Failure, Diastolic",MESH:D054144,0,,1,COL6A1
+2-oxoglutarate metabolic process,GO:0006103,"Heart Failure, Systolic",MESH:D054143,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Heart Injuries,MESH:D006335,2,Catechin|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Helminthiasis,MESH:D006373,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Hemangioma,MESH:D006391,1,alpha-hydroxyglutarate,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,Hematuria,MESH:D006417,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hemolysis,MESH:D006461,1,Catechin,0,
+2-oxoglutarate metabolic process,GO:0006103,Hemorrhage,MESH:D006470,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hepatic Insufficiency,MESH:D048550,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hepatitis,MESH:D006505,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,HIV Infections,MESH:D015658,1,Catechin,0,
+2-oxoglutarate metabolic process,GO:0006103,HTLV-I Infections,MESH:D015490,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Hydronephrosis,MESH:D006869,0,,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Hyperalgesia,MESH:D006930,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Hyperemia,MESH:D006940,2,Diquat|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Hyperglycemia,MESH:D006943,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Hyperhomocysteinemia,MESH:D020138,1,Catechin,0,
+2-oxoglutarate metabolic process,GO:0006103,Hyperoxia,MESH:D018496,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hyperplasia,MESH:D006965,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Hypertension,MESH:D006973,3,Antioxidants|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Hypertension, Portal",MESH:D006975,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Hypertension, Pulmonary",MESH:D006976,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hypertrophy,MESH:D006984,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Hypertrophy, Left Ventricular",MESH:D017379,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Hypertrophy, Right Ventricular",MESH:D017380,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hypocalcemia,MESH:D006996,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Hypogonadism,MESH:D007006,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hypokalemia,MESH:D007008,2,Hydroxychloroquine|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Hyponatremia,MESH:D007010,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Hypotension,MESH:D007022,3,Hydroxychloroquine|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Hypoxia,MESH:D000860,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,IgA Vasculitis,MESH:D011695,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Immunoblastic Lymphadenopathy,MESH:D007119,0,,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,"Infant, Newborn, Diseases",MESH:D007232,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Infarction,MESH:D007238,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Infarction, Middle Cerebral Artery",MESH:D020244,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Infertility, Female",MESH:D007247,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Infertility, Male",MESH:D007248,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Inflammation,MESH:D007249,3,Isoproterenol|Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Insulin Resistance,MESH:D007333,2,Catechin|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Intellectual Disability,MESH:D008607,0,,1,L2HGDH
+2-oxoglutarate metabolic process,GO:0006103,Intestinal Diseases,MESH:D007410,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Ischemia,MESH:D007511,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Ischemic Attack, Transient",MESH:D002546,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Kidney Diseases,MESH:D007674,2,Diquat|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Kyphosis,MESH:D007738,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,"Lactic Acidosis, Congenital Infantile, Due To LAD Deficiency",MESH:C573012,0,,1,DLD
+2-oxoglutarate metabolic process,GO:0006103,Learning Disabilities,MESH:D007859,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Leukemia, Myeloid",MESH:D007951,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,"Leukemia, Myeloid, Acute",MESH:D015470,0,,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,"Leukemia, Promyelocytic, Acute",MESH:D015473,1,toosendanin,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,Leukostasis,MESH:D018921,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Liver Cirrhosis,MESH:D008103,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,AADAT|ADHFE1|COL6A1|GOT1|GPT
+2-oxoglutarate metabolic process,GO:0006103,Liver Diseases,MESH:D008107,2,Catechin|Oxygen,1,GPT
+2-oxoglutarate metabolic process,GO:0006103,"Liver Failure, Acute",MESH:D017114,3,Catechin|Hydroxychloroquine|Oxygen,1,IDH1
+2-oxoglutarate metabolic process,GO:0006103,Liver Neoplasms,MESH:D008113,1,Catechin,0,
+2-oxoglutarate metabolic process,GO:0006103,"Liver Neoplasms, Experimental",MESH:D008114,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Long QT Syndrome,MESH:D008133,2,Hydroxychloroquine|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Lordosis,MESH:D008141,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Lung Injury,MESH:D055370,5,Antioxidants|Catechin|Diquat|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Lung Neoplasms,MESH:D008175,1,Oxygen,1,COL6A1
+2-oxoglutarate metabolic process,GO:0006103,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Lupus Erythematosus, Discoid",MESH:D008179,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Lupus Erythematosus, Systemic",MESH:D008180,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Lupus Nephritis,MESH:D008181,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,"Lymphoma, T-Cell, Peripheral",MESH:D016411,0,,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Macular Degeneration,MESH:D008268,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Malaria,MESH:D008288,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Mammary Neoplasms, Experimental",MESH:D008325,1,Catechin,0,
+2-oxoglutarate metabolic process,GO:0006103,Manganese Poisoning,MESH:D020149,1,Antioxidants,0,
+2-oxoglutarate metabolic process,GO:0006103,Massive Hepatic Necrosis,MESH:D047508,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Melanoma,MESH:D008545,2,Antioxidants|Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Memory Disorders,MESH:D008569,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Mesenteric Ischemia,MESH:D065666,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Mitochondrial Diseases,MESH:D028361,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Mitral Valve Insufficiency,MESH:D008944,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Mixed Connective Tissue Disease,MESH:D008947,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Movement Disorders,MESH:D009069,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Muscle Weakness,MESH:D018908,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Muscular Diseases,MESH:D009135,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Muscular Dystrophies,MESH:D009136,0,,1,COL6A1
+2-oxoglutarate metabolic process,GO:0006103,Musculoskeletal Diseases,MESH:D009140,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Myocardial Infarction,MESH:D009203,3,Catechin|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Myocardial Ischemia,MESH:D017202,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Myocardial Reperfusion Injury,MESH:D015428,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Myocarditis,MESH:D009205,2,Hydroxychloroquine|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Nausea,MESH:D009325,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Necrosis,MESH:D009336,3,Isoproterenol|Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Neoplasm Invasiveness,MESH:D009361,4,Hydroxychloroquine|Isoproterenol|Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Neoplasm Metastasis,MESH:D009362,3,Catechin|Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Neoplasm Recurrence, Local",MESH:D009364,0,,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,Neoplasms,MESH:D009369,2,Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Neoplasms, Experimental",MESH:D009374,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,"Neovascularization, Pathologic",MESH:D009389,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Nephritis, Interstitial",MESH:D009395,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Nephrosclerosis,MESH:D009400,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Nephrotic Syndrome,MESH:D009404,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Nerve Degeneration,MESH:D009410,3,Catechin|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Nervous System Diseases,MESH:D009422,1,Antioxidants,0,
+2-oxoglutarate metabolic process,GO:0006103,Nervous System Malformations,MESH:D009421,0,,1,L2HGDH
+2-oxoglutarate metabolic process,GO:0006103,Neurobehavioral Manifestations,MESH:D019954,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Neurodegenerative Diseases,MESH:D019636,2,Antioxidants|Catechin,0,
+2-oxoglutarate metabolic process,GO:0006103,NEURODEVELOPMENTAL DISORDER WITH SPASTIC PARAPLEGIA AND MICROCEPHALY,OMIM:616281,0,,1,GPT2
+2-oxoglutarate metabolic process,GO:0006103,Neurologic Manifestations,MESH:D009461,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Neuromuscular Manifestations,MESH:D020879,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GPT
+2-oxoglutarate metabolic process,GO:0006103,Ocular Hypertension,MESH:D009798,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Oligodendroglioma,MESH:D009837,0,,2,IDH1|IDH2
+2-oxoglutarate metabolic process,GO:0006103,Osteoarthritis,MESH:D010003,0,,2,IDH2|IDH3A
+2-oxoglutarate metabolic process,GO:0006103,Osteoporosis,MESH:D010024,0,,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Ovarian Neoplasms,MESH:D010051,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Panic Disorder,MESH:D016584,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Paralysis,MESH:D010243,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Parasitic Diseases,MESH:D010272,1,toosendanin,0,
+2-oxoglutarate metabolic process,GO:0006103,Perinatal Death,MESH:D066087,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Peripheral Nervous System Diseases,MESH:D010523,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Personality Disorders,MESH:D010554,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Pleural Effusion,MESH:D010996,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Pneumonia,MESH:D011014,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Poisoning,MESH:D011041,3,Diquat|Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Polyarteritis Nodosa,MESH:D010488,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Polycystic Ovary Syndrome,MESH:D011085,1,Antioxidants,0,
+2-oxoglutarate metabolic process,GO:0006103,Postoperative Complications,MESH:D011183,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Precursor Cell Lymphoblastic Leukemia-Lymphoma,MESH:D054198,0,,1,IDH1
+2-oxoglutarate metabolic process,GO:0006103,Pre-Eclampsia,MESH:D011225,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Pre-Excitation Syndromes,MESH:D011226,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Prostatic Neoplasms,MESH:D011471,2,Antioxidants|Niclosamide,1,IDH1
+2-oxoglutarate metabolic process,GO:0006103,"Prostatic Neoplasms, Castration-Resistant",MESH:D064129,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Proteinuria,MESH:D011507,2,Niclosamide|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Pulmonary Arterial Hypertension,MESH:D000081029,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Pulmonary Edema,MESH:D011654,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Pulmonary Fibrosis,MESH:D011658,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Refsum Disease,MESH:D012035,0,,1,PHYH
+2-oxoglutarate metabolic process,GO:0006103,Renal Insufficiency,MESH:D051437,0,,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Reperfusion Injury,MESH:D015427,1,Oxygen,1,GPT
+2-oxoglutarate metabolic process,GO:0006103,Respiratory Distress Syndrome,MESH:D012128,2,Antioxidants|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Respiratory Insufficiency,MESH:D012131,3,Hydroxychloroquine|Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Retinal Diseases,MESH:D012164,2,Hydroxychloroquine|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Retinal Neovascularization,MESH:D015861,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Retinitis Pigmentosa,MESH:D012174,0,,1,IDH3B
+2-oxoglutarate metabolic process,GO:0006103,Retinitis Pigmentosa 46,MESH:C567249,0,,1,IDH3B
+2-oxoglutarate metabolic process,GO:0006103,Retinopathy of Prematurity,MESH:D012178,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Rheumatic Diseases,MESH:D012216,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Scleroatonic muscular dystrophy,MESH:C537521,0,,1,COL6A1
+2-oxoglutarate metabolic process,GO:0006103,Scoliosis,MESH:D012600,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Scotoma,MESH:D012607,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Seizures,MESH:D012640,2,Hydroxychloroquine|Oxygen,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Sepsis,MESH:D018805,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Severe Acute Respiratory Syndrome,MESH:D045169,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,"Shock, Cardiogenic",MESH:D012770,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Sinus Arrest, Cardiac",MESH:D054138,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Sjogren's Syndrome,MESH:D012859,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Skin Diseases,MESH:D012871,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Spinal Cord Injuries,MESH:D013119,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Spinal Cord Ischemia,MESH:D020760,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Splenomegaly,MESH:D013163,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,ST Elevation Myocardial Infarction,MESH:D000072657,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Stevens-Johnson Syndrome,MESH:D013262,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Stomach Diseases,MESH:D013272,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Stomach Neoplasms,MESH:D013274,0,,1,IDH3B
+2-oxoglutarate metabolic process,GO:0006103,Stomach Ulcer,MESH:D013276,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Sudden Infant Death,MESH:D013398,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Syncope,MESH:D013575,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Syncope, Vasovagal",MESH:D019462,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Tachycardia,MESH:D013610,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Tachycardia, Atrioventricular Nodal Reentry",MESH:D013611,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Tachycardia, Reciprocating",MESH:D054139,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Tachycardia, Sinus",MESH:D013616,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Tachycardia, Supraventricular",MESH:D013617,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,"Tachycardia, Ventricular",MESH:D017180,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Tachypnea,MESH:D059246,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Takayasu Arteritis,MESH:D013625,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Testicular Diseases,MESH:D013733,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Thrombocytopenia,MESH:D013921,1,Diquat,0,
+2-oxoglutarate metabolic process,GO:0006103,Torsades de Pointes,MESH:D016171,2,Hydroxychloroquine|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Toxoplasmosis,MESH:D014123,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Tremor,MESH:D014202,2,Hydroxychloroquine|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Triple Negative Breast Neoplasms,MESH:D064726,2,Oxygen|toosendanin,0,
+2-oxoglutarate metabolic process,GO:0006103,Tyrosinemias,MESH:D020176,0,,1,TAT
+2-oxoglutarate metabolic process,GO:0006103,Ureteral Obstruction,MESH:D014517,1,Niclosamide,0,
+2-oxoglutarate metabolic process,GO:0006103,Urinary Bladder Neoplasms,MESH:D001749,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Urticaria,MESH:D014581,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Vascular Remodeling,MESH:D066253,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Vascular System Injuries,MESH:D057772,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Vasculitis, Central Nervous System",MESH:D020293,1,Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Vasculitis, Leukocytoclastic, Cutaneous",MESH:D018366,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,"Vasospasm, Intracranial",MESH:D020301,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Ventricular Dysfunction,MESH:D018754,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Ventricular Dysfunction, Left",MESH:D018487,3,Antioxidants|Isoproterenol|Oxygen,1,IDH2
+2-oxoglutarate metabolic process,GO:0006103,Ventricular Fibrillation,MESH:D014693,2,Hydroxychloroquine|Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Ventricular Premature Complexes,MESH:D018879,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Ventricular Remodeling,MESH:D020257,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Vertigo,MESH:D014717,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Vision Disorders,MESH:D014786,1,Hydroxychloroquine,0,
+2-oxoglutarate metabolic process,GO:0006103,Vomiting,MESH:D014839,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Weight Gain,MESH:D015430,2,Catechin|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,Weight Loss,MESH:D015431,4,Diquat|Isoproterenol|Oxygen|toosendanin,0,
+2-oxoglutarate metabolic process,GO:0006103,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+2-oxoglutarate metabolic process,GO:0006103,Zika Virus Infection,MESH:D000071243,2,Hydroxychloroquine|Niclosamide,0,
+3-keto-sphinganine metabolic process,GO:0006666,"Lymphoma, Follicular",MESH:D008224,0,,1,KDSR
+3'-phosphoadenosine 5'-phosphosulfate biosynthetic process,GO:0050428,"Spondyloepimetaphyseal Dysplasia, Pakistani Type",MESH:C567551,0,,1,PAPSS2
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Arterial calcification of infancy,MESH:C537440,0,,1,ENPP1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Autism Spectrum Disorder,MESH:D000067877,0,,5,SULT1B1|SULT1C3|SULT2B1|TPST1|TPST2
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Breast Neoplasms,MESH:D001943,0,,1,SULT1A1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Chemical and Drug Induced Liver Injury,MESH:D056486,0,,4,BPNT1|SULT1C3|SULT1E1|SULT2B1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Cholestasis,MESH:D002779,0,,1,SULT2B1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Chromosome Aberrations,MESH:D002869,0,,2,SULT1A1|SULT1A2
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,COLE DISEASE,OMIM:615522,0,,1,ENPP1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Colonic Neoplasms,MESH:D003110,0,,1,SULT1A1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Colorectal Neoplasms,MESH:D015179,0,,1,SULT2B1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ENPP1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Endometrial Neoplasms,MESH:D016889,0,,1,SULT2B1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Endometriosis,MESH:D004715,0,,1,ENPP1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Genomic Instability,MESH:D042822,0,,1,SULT1A1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,"Hypophosphatemic Rickets, Autosomal Recessive, 2",MESH:C567647,0,,1,ENPP1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Inflammation,MESH:D007249,0,,1,SULT2B1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SULT1E1|SULT2A1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Liver Diseases,MESH:D008107,0,,1,SULT1E1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Myocardial Ischemia,MESH:D017202,0,,1,SULT1A1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Neural Tube Defects,MESH:D009436,0,,1,SULT1A1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Obesity,MESH:D009765,0,,1,ENPP1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Prostatic Neoplasms,MESH:D011471,0,,4,SULT1A1|SULT1E1|SULT2A1|SULT2B1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Recurrence,MESH:D012008,0,,1,SULT1A1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Reperfusion Injury,MESH:D015427,0,,1,SULT1E1
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,GO:0050427,Urologic Neoplasms,MESH:D014571,0,,1,SULT1A1
+3'-UTR-mediated mRNA destabilization,GO:0061158,Alopecia,MESH:D000505,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Amyotrophic Lateral Sclerosis,MESH:D000690,0,,1,TARDBP
+3'-UTR-mediated mRNA destabilization,GO:0061158,Amyotrophic lateral sclerosis 1,MESH:C531617,0,,1,TARDBP
+3'-UTR-mediated mRNA destabilization,GO:0061158,Amyotrophic Lateral Sclerosis 10,MESH:C567429,0,,1,TARDBP
+3'-UTR-mediated mRNA destabilization,GO:0061158,Arterial Occlusive Diseases,MESH:D001157,0,,1,ZC3H12A
+3'-UTR-mediated mRNA destabilization,GO:0061158,Arthritis,MESH:D001168,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Cachexia,MESH:D002100,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,"Carcinoma, Hepatocellular",MESH:D006528,0,,3,CPEB3|ZC3H12D|ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Chemical and Drug Induced Liver Injury,MESH:D056486,0,,1,PUM1
+3'-UTR-mediated mRNA destabilization,GO:0061158,Colorectal Neoplasms,MESH:D015179,0,,1,ZFP36L2
+3'-UTR-mediated mRNA destabilization,GO:0061158,Dermatitis,MESH:D003872,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Frontotemporal Lobar Degeneration,MESH:D057174,0,,1,TARDBP
+3'-UTR-mediated mRNA destabilization,GO:0061158,Hyperplasia,MESH:D006965,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Inflammation,MESH:D007249,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Myocardial Ischemia,MESH:D017202,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Neoplasm Invasiveness,MESH:D009361,0,,1,ZFP36
+3'-UTR-mediated mRNA destabilization,GO:0061158,Neurodegenerative Diseases,MESH:D019636,0,,1,TARDBP
+3'-UTR-mediated mRNA destabilization,GO:0061158,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,MESH:D054218,0,,1,ZFP36L2
+3'-UTR-mediated mRNA destabilization,GO:0061158,Prostatic Neoplasms,MESH:D011471,0,,1,ZFP36L2
+3'-UTR-mediated mRNA destabilization,GO:0061158,Small Cell Lung Carcinoma,MESH:D055752,0,,1,KHSRP

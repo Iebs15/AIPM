@@ -1,0 +1,501 @@
+ChemicalName,ChemicalID,GeneSymbol,GeneID
+A1BG,1,Hemostasis,REACT:R-HSA-109582
+A1BG,1,Immune System,REACT:R-HSA-168256
+A1BG,1,Innate Immune System,REACT:R-HSA-168249
+A1BG,1,Neutrophil degranulation,REACT:R-HSA-6798695
+A1BG,1,"Platelet activation, signaling and aggregation",REACT:R-HSA-76002
+A1BG,1,Platelet degranulation,REACT:R-HSA-114608
+A1BG,1,Response to elevated platelet cytosolic Ca2+,REACT:R-HSA-76005
+A1CF,29974,Formation of the Editosome,REACT:R-HSA-75094
+A1CF,29974,Gene Expression,REACT:R-HSA-74160
+A1CF,29974,mRNA Editing,REACT:R-HSA-75072
+A1CF,29974,mRNA Editing: C to U Conversion,REACT:R-HSA-72200
+A2M,2,Complement and coagulation cascades,KEGG:hsa04610
+A2M,2,Degradation of the extracellular matrix,REACT:R-HSA-1474228
+A2M,2,Extracellular matrix organization,REACT:R-HSA-1474244
+A2M,2,Formation of Fibrin Clot (Clotting Cascade),REACT:R-HSA-140877
+A2M,2,HDL-mediated lipid transport,REACT:R-HSA-194223
+A2M,2,Hemostasis,REACT:R-HSA-109582
+A2M,2,Intrinsic Pathway of Fibrin Clot Formation,REACT:R-HSA-140837
+A2M,2,"Lipid digestion, mobilization, and transport",REACT:R-HSA-73923
+A2M,2,Lipoprotein metabolism,REACT:R-HSA-174824
+A2M,2,Metabolism,REACT:R-HSA-1430728
+A2M,2,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+A2M,2,"Platelet activation, signaling and aggregation",REACT:R-HSA-76002
+A2M,2,Platelet degranulation,REACT:R-HSA-114608
+A2M,2,Response to elevated platelet cytosolic Ca2+,REACT:R-HSA-76005
+A2M,2,Rho GTPase cycle,REACT:R-HSA-194840
+A2M,2,Signaling by Rho GTPases,REACT:R-HSA-194315
+A2M,2,Signal Transduction,REACT:R-HSA-162582
+A3GALT2,127550,Glycosphingolipid biosynthesis - globo and isoglobo series,KEGG:hsa00603
+A4GALT,53947,Glycosphingolipid biosynthesis - globo and isoglobo series,KEGG:hsa00603
+A4GALT,53947,"Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer",KEGG:hsa_M00068
+A4GALT,53947,Glycosphingolipid biosynthesis - lacto and neolacto series,KEGG:hsa00601
+A4GALT,53947,Metabolic pathways,KEGG:hsa01100
+A4GNT,51146,Metabolism of proteins,REACT:R-HSA-392499
+A4GNT,51146,O-linked glycosylation,REACT:R-HSA-5173105
+A4GNT,51146,O-linked glycosylation of mucins,REACT:R-HSA-913709
+A4GNT,51146,Post-translational protein modification,REACT:R-HSA-597592
+AAAS,8086,Antiviral mechanism by IFN-stimulated genes,REACT:R-HSA-1169410
+AAAS,8086,Cell Cycle,REACT:R-HSA-1640170
+AAAS,8086,"Cell Cycle, Mitotic",REACT:R-HSA-69278
+AAAS,8086,Cellular responses to stress,REACT:R-HSA-2262752
+AAAS,8086,Cellular response to heat stress,REACT:R-HSA-3371556
+AAAS,8086,Cytokine Signaling in Immune system,REACT:R-HSA-1280215
+AAAS,8086,Disease,REACT:R-HSA-1643685
+AAAS,8086,Export of Viral Ribonucleoproteins from Nucleus,REACT:R-HSA-168274
+AAAS,8086,Gene Expression,REACT:R-HSA-74160
+AAAS,8086,Gene Silencing by RNA,REACT:R-HSA-211000
+AAAS,8086,Glucose transport,REACT:R-HSA-70153
+AAAS,8086,Hexose transport,REACT:R-HSA-189200
+AAAS,8086,HIV Infection,REACT:R-HSA-162906
+AAAS,8086,HIV Life Cycle,REACT:R-HSA-162587
+AAAS,8086,Host Interactions of HIV factors,REACT:R-HSA-162909
+AAAS,8086,Host Interactions with Influenza Factors,REACT:R-HSA-168253
+AAAS,8086,Immune System,REACT:R-HSA-168256
+AAAS,8086,Infectious disease,REACT:R-HSA-5663205
+AAAS,8086,Influenza Infection,REACT:R-HSA-168254
+AAAS,8086,Influenza Life Cycle,REACT:R-HSA-168255
+AAAS,8086,Influenza Viral RNA Transcription and Replication,REACT:R-HSA-168273
+AAAS,8086,Interactions of Rev with host cellular proteins,REACT:R-HSA-177243
+AAAS,8086,Interactions of Vpr with host cellular proteins,REACT:R-HSA-176033
+AAAS,8086,Interferon Signaling,REACT:R-HSA-913531
+AAAS,8086,ISG15 antiviral mechanism,REACT:R-HSA-1169408
+AAAS,8086,Late Phase of HIV Life Cycle,REACT:R-HSA-162599
+AAAS,8086,Metabolism,REACT:R-HSA-1430728
+AAAS,8086,Metabolism of carbohydrates,REACT:R-HSA-71387
+AAAS,8086,Metabolism of non-coding RNA,REACT:R-HSA-194441
+AAAS,8086,Metabolism of proteins,REACT:R-HSA-392499
+AAAS,8086,Mitotic Prophase,REACT:R-HSA-68875
+AAAS,8086,M Phase,REACT:R-HSA-68886
+AAAS,8086,NEP/NS2 Interacts with the Cellular Export Machinery,REACT:R-HSA-168333
+AAAS,8086,NS1 Mediated Effects on Host Pathways,REACT:R-HSA-168276
+AAAS,8086,Nuclear Envelope Breakdown,REACT:R-HSA-2980766
+AAAS,8086,Nuclear import of Rev protein,REACT:R-HSA-180746
+AAAS,8086,Nuclear pore complex,KEGG:hsa_M00427
+AAAS,8086,Nuclear Pore Complex (NPC) Disassembly,REACT:R-HSA-3301854
+AAAS,8086,Post-translational protein modification,REACT:R-HSA-597592
+AAAS,8086,Processing of Capped Intron-Containing Pre-mRNA,REACT:R-HSA-72203
+AAAS,8086,Regulation of Glucokinase by Glucokinase Regulatory Protein,REACT:R-HSA-170822
+AAAS,8086,Regulation of HSF1-mediated heat shock response,REACT:R-HSA-3371453
+AAAS,8086,Rev-mediated nuclear export of HIV RNA,REACT:R-HSA-165054
+AAAS,8086,RNA transport,KEGG:hsa03013
+AAAS,8086,SLC-mediated transmembrane transport,REACT:R-HSA-425407
+AAAS,8086,snRNP Assembly,REACT:R-HSA-191859
+AAAS,8086,SUMO E3 ligases SUMOylate target proteins,REACT:R-HSA-3108232
+AAAS,8086,SUMOylation,REACT:R-HSA-2990846
+AAAS,8086,SUMOylation of DNA damage response and repair proteins,REACT:R-HSA-3108214
+AAAS,8086,SUMOylation of DNA replication proteins,REACT:R-HSA-4615885
+AAAS,8086,SUMOylation of RNA binding proteins,REACT:R-HSA-4570464
+AAAS,8086,Transcriptional regulation by small RNAs,REACT:R-HSA-5578749
+AAAS,8086,Transmembrane transport of small molecules,REACT:R-HSA-382551
+AAAS,8086,Transport of Mature mRNA derived from an Intron-Containing Transcript,REACT:R-HSA-159236
+AAAS,8086,Transport of Mature mRNA Derived from an Intronless Transcript,REACT:R-HSA-159231
+AAAS,8086,Transport of Mature mRNAs Derived from Intronless Transcripts,REACT:R-HSA-159234
+AAAS,8086,Transport of Mature Transcript to Cytoplasm,REACT:R-HSA-72202
+AAAS,8086,Transport of Ribonucleoproteins into the Host Nucleus,REACT:R-HSA-168271
+AAAS,8086,Transport of the SLBP Dependant Mature mRNA,REACT:R-HSA-159230
+AAAS,8086,Transport of the SLBP independent Mature mRNA,REACT:R-HSA-159227
+AAAS,8086,tRNA processing,REACT:R-HSA-72306
+AAAS,8086,tRNA processing in the nucleus,REACT:R-HSA-6784531
+AAAS,8086,Viral Messenger RNA Synthesis,REACT:R-HSA-168325
+AAAS,8086,Vpr-mediated nuclear import of PICs,REACT:R-HSA-180910
+AACS,65985,Butanoate metabolism,KEGG:hsa00650
+AACS,65985,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734
+AACS,65985,Ketone body metabolism,REACT:R-HSA-74182
+AACS,65985,Metabolism,REACT:R-HSA-1430728
+AACS,65985,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+AACS,65985,Synthesis of Ketone Bodies,REACT:R-HSA-77111
+AACS,65985,"Valine, leucine and isoleucine degradation",KEGG:hsa00280
+AADAC,13,Biological oxidations,REACT:R-HSA-211859
+AADAC,13,Metabolism,REACT:R-HSA-1430728
+AADAC,13,Phase 1 - Functionalization of compounds,REACT:R-HSA-211945
+AADAT,51166,2-Oxocarboxylic acid metabolism,KEGG:hsa01210
+AADAT,51166,Biosynthesis of amino acids,KEGG:hsa01230
+AADAT,51166,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism",REACT:R-HSA-6788656
+AADAT,51166,Lysine biosynthesis,KEGG:hsa00300
+AADAT,51166,Lysine catabolism,REACT:R-HSA-71064
+AADAT,51166,Lysine degradation,KEGG:hsa00310
+AADAT,51166,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA",KEGG:hsa_M00032
+AADAT,51166,Metabolic pathways,KEGG:hsa01100
+AADAT,51166,Metabolism,REACT:R-HSA-1430728
+AADAT,51166,Metabolism of amino acids and derivatives,REACT:R-HSA-71291
+AADAT,51166,Tryptophan catabolism,REACT:R-HSA-71240
+AADAT,51166,Tryptophan metabolism,KEGG:hsa00380
+AAK1,22848,Cargo recognition for clathrin-mediated endocytosis,REACT:R-HSA-8856825
+AAK1,22848,Clathrin-mediated endocytosis,REACT:R-HSA-8856828
+AAK1,22848,Membrane Trafficking,REACT:R-HSA-199991
+AAK1,22848,Vesicle-mediated transport,REACT:R-HSA-5653656
+AANAT,15,Amine-derived hormones,REACT:R-HSA-209776
+AANAT,15,"Melatonin biosynthesis, tryptophan => serotonin => melatonin",KEGG:hsa_M00037
+AANAT,15,Metabolic pathways,KEGG:hsa01100
+AANAT,15,Metabolism,REACT:R-HSA-1430728
+AANAT,15,Metabolism of amino acids and derivatives,REACT:R-HSA-71291
+AANAT,15,Serotonin and melatonin biosynthesis,REACT:R-HSA-209931
+AANAT,15,Tryptophan metabolism,KEGG:hsa00380
+AARS1,16,Aminoacyl-tRNA biosynthesis,KEGG:hsa00970
+AARS1,16,"Aminoacyl-tRNA biosynthesis, eukaryotes",KEGG:hsa_M00359
+AARS1,16,Cytosolic tRNA aminoacylation,REACT:R-HSA-379716
+AARS1,16,Gene Expression,REACT:R-HSA-74160
+AARS1,16,tRNA Aminoacylation,REACT:R-HSA-379724
+AARS2,57505,Aminoacyl-tRNA biosynthesis,KEGG:hsa00970
+AARS2,57505,"Aminoacyl-tRNA biosynthesis, eukaryotes",KEGG:hsa_M00359
+AARS2,57505,Gene Expression,REACT:R-HSA-74160
+AARS2,57505,Mitochondrial tRNA aminoacylation,REACT:R-HSA-379726
+AARS2,57505,tRNA Aminoacylation,REACT:R-HSA-379724
+AASDHPPT,60496,Metabolism,REACT:R-HSA-1430728
+AASDHPPT,60496,Metabolism of vitamins and cofactors,REACT:R-HSA-196854
+AASDHPPT,60496,Metabolism of water-soluble vitamins and cofactors,REACT:R-HSA-196849
+AASDHPPT,60496,Pantothenate and CoA biosynthesis,KEGG:hsa00770
+AASDHPPT,60496,Vitamin B5 (pantothenate) metabolism,REACT:R-HSA-199220
+AASS,10157,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism",REACT:R-HSA-6788656
+AASS,10157,Lysine catabolism,REACT:R-HSA-71064
+AASS,10157,Lysine degradation,KEGG:hsa00310
+AASS,10157,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA",KEGG:hsa_M00032
+AASS,10157,Metabolic pathways,KEGG:hsa01100
+AASS,10157,Metabolism,REACT:R-HSA-1430728
+AASS,10157,Metabolism of amino acids and derivatives,REACT:R-HSA-71291
+AATF,26574,"Cell death signalling via NRAGE, NRIF and NADE",REACT:R-HSA-204998
+AATF,26574,NRAGE signals death through JNK,REACT:R-HSA-193648
+AATF,26574,p75 NTR receptor-mediated signalling,REACT:R-HSA-193704
+AATF,26574,Signalling by NGF,REACT:R-HSA-166520
+AATF,26574,Signal Transduction,REACT:R-HSA-162582
+ABAT,18,"Alanine, aspartate and glutamate metabolism",KEGG:hsa00250
+ABAT,18,beta-Alanine metabolism,KEGG:hsa00410
+ABAT,18,Butanoate metabolism,KEGG:hsa00650
+ABAT,18,Degradation of GABA,REACT:R-HSA-916853
+ABAT,18,GABAergic synapse,KEGG:hsa04727
+ABAT,18,GABA (gamma-Aminobutyrate) shunt,KEGG:hsa_M00027
+ABAT,18,"GABA synthesis, release, reuptake and degradation",REACT:R-HSA-888590
+ABAT,18,Metabolic pathways,KEGG:hsa01100
+ABAT,18,Neuronal System,REACT:R-HSA-112316
+ABAT,18,Neurotransmitter Release Cycle,REACT:R-HSA-112310
+ABAT,18,Propanoate metabolism,KEGG:hsa00640
+ABAT,18,Transmission across Chemical Synapses,REACT:R-HSA-112315
+ABAT,18,"Valine, leucine and isoleucine degradation",KEGG:hsa00280
+ABCA1,19,ABC transporters,KEGG:hsa02010
+ABCA1,19,Fat digestion and absorption,KEGG:hsa04975
+ABCA1,19,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734
+ABCA1,19,HDL-mediated lipid transport,REACT:R-HSA-194223
+ABCA1,19,"Lipid digestion, mobilization, and transport",REACT:R-HSA-73923
+ABCA1,19,Lipoprotein metabolism,REACT:R-HSA-174824
+ABCA1,19,Metabolism,REACT:R-HSA-1430728
+ABCA1,19,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCA1,19,PPARA activates gene expression,REACT:R-HSA-1989781
+ABCA1,19,Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha),REACT:R-HSA-400206
+ABCA10,10349,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA10,10349,ABC transporters,KEGG:hsa02010
+ABCA10,10349,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA10,10349,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA12,26154,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA12,26154,ABC transporters,KEGG:hsa02010
+ABCA12,26154,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA12,26154,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA13,154664,ABC transporters,KEGG:hsa02010
+ABCA13,154664,Immune System,REACT:R-HSA-168256
+ABCA13,154664,Innate Immune System,REACT:R-HSA-168249
+ABCA13,154664,Neutrophil degranulation,REACT:R-HSA-6798695
+ABCA2,20,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA2,20,ABC transporters,KEGG:hsa02010
+ABCA2,20,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA2,20,Lysosome,KEGG:hsa04142
+ABCA2,20,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA3,21,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA3,21,ABC transporters,KEGG:hsa02010
+ABCA3,21,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA3,21,Metabolism of proteins,REACT:R-HSA-392499
+ABCA3,21,Surfactant metabolism,REACT:R-HSA-5683826
+ABCA3,21,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA4,24,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA4,24,ABC transporters,KEGG:hsa02010
+ABCA4,24,Signal Transduction,REACT:R-HSA-162582
+ABCA4,24,The canonical retinoid cycle in rods (twilight vision),REACT:R-HSA-2453902
+ABCA4,24,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA4,24,Visual phototransduction,REACT:R-HSA-2187338
+ABCA5,23461,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA5,23461,ABC transporters,KEGG:hsa02010
+ABCA5,23461,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA5,23461,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA6,23460,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA6,23460,ABC transporters,KEGG:hsa02010
+ABCA6,23460,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA6,23460,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA7,10347,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA7,10347,ABC transporters,KEGG:hsa02010
+ABCA7,10347,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA7,10347,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA8,10351,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA8,10351,ABC transporters,KEGG:hsa02010
+ABCA8,10351,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCA9,10350,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCA9,10350,ABC transporters,KEGG:hsa02010
+ABCA9,10350,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCA9,10350,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB1,5243,Abacavir transmembrane transport,REACT:R-HSA-2161517
+ABCB1,5243,Abacavir transport and metabolism,REACT:R-HSA-2161522
+ABCB1,5243,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB1,5243,ABC transporters,KEGG:hsa02010
+ABCB1,5243,Bile secretion,KEGG:hsa04976
+ABCB1,5243,Metabolism,REACT:R-HSA-1430728
+ABCB1,5243,MicroRNAs in cancer,KEGG:hsa05206
+ABCB1,5243,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB10,23456,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB10,23456,ABC transporters,KEGG:hsa02010
+ABCB10,23456,Mitochondrial ABC transporters,REACT:R-HSA-1369007
+ABCB10,23456,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB11,8647,ABC transporters,KEGG:hsa02010
+ABCB11,8647,Bile acid and bile salt metabolism,REACT:R-HSA-194068
+ABCB11,8647,Bile secretion,KEGG:hsa04976
+ABCB11,8647,Endocrine resistance,KEGG:hsa01522
+ABCB11,8647,Metabolism,REACT:R-HSA-1430728
+ABCB11,8647,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCB11,8647,Recycling of bile acids and salts,REACT:R-HSA-159418
+ABCB11,8647,Synthesis of bile acids and bile salts,REACT:R-HSA-192105
+ABCB11,8647,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,REACT:R-HSA-193368
+ABCB4,5244,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB4,5244,ABC transporters,KEGG:hsa02010
+ABCB4,5244,Bile secretion,KEGG:hsa04976
+ABCB4,5244,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734
+ABCB4,5244,Metabolism,REACT:R-HSA-1430728
+ABCB4,5244,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCB4,5244,PPARA activates gene expression,REACT:R-HSA-1989781
+ABCB4,5244,Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha),REACT:R-HSA-400206
+ABCB4,5244,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB5,340273,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB5,340273,ABC transporters,KEGG:hsa02010
+ABCB5,340273,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB6,10058,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB6,10058,ABC transporters,KEGG:hsa02010
+ABCB6,10058,Mitochondrial ABC transporters,REACT:R-HSA-1369007
+ABCB6,10058,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB7,22,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB7,22,ABC transporters,KEGG:hsa02010
+ABCB7,22,Cytosolic iron-sulfur cluster assembly,REACT:R-HSA-2564830
+ABCB7,22,Metabolism,REACT:R-HSA-1430728
+ABCB7,22,Mitochondrial ABC transporters,REACT:R-HSA-1369007
+ABCB7,22,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB8,11194,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB8,11194,ABC transporters,KEGG:hsa02010
+ABCB8,11194,Mitochondrial ABC transporters,REACT:R-HSA-1369007
+ABCB8,11194,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCB9,23457,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCB9,23457,ABC transporters,KEGG:hsa02010
+ABCB9,23457,Lysosome,KEGG:hsa04142
+ABCB9,23457,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC1,4363,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC1,4363,ABC transporters,KEGG:hsa02010
+ABCC1,4363,Antifolate resistance,KEGG:hsa01523
+ABCC1,4363,Arachidonic acid metabolism,REACT:R-HSA-2142753
+ABCC1,4363,"Cobalamin (Cbl, vitamin B12) transport and metabolism",REACT:R-HSA-196741
+ABCC1,4363,Metabolism,REACT:R-HSA-1430728
+ABCC1,4363,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCC1,4363,Metabolism of vitamins and cofactors,REACT:R-HSA-196854
+ABCC1,4363,Metabolism of water-soluble vitamins and cofactors,REACT:R-HSA-196849
+ABCC1,4363,MicroRNAs in cancer,KEGG:hsa05206
+ABCC1,4363,Sphingolipid signaling pathway,KEGG:hsa04071
+ABCC1,4363,Synthesis of Leukotrienes (LT) and Eoxins (EX),REACT:R-HSA-2142691
+ABCC1,4363,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC1,4363,Vitamin digestion and absorption,KEGG:hsa04977
+ABCC10,89845,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC10,89845,ABC transporters,KEGG:hsa02010
+ABCC10,89845,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC11,85320,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC11,85320,ABC transporters,KEGG:hsa02010
+ABCC11,85320,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC12,94160,ABC transporters,KEGG:hsa02010
+ABCC2,1244,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC2,1244,ABC transporters,KEGG:hsa02010
+ABCC2,1244,Antifolate resistance,KEGG:hsa01523
+ABCC2,1244,Bile secretion,KEGG:hsa04976
+ABCC2,1244,Platinum drug resistance,KEGG:hsa01524
+ABCC2,1244,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC3,8714,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC3,8714,ABC transporters,KEGG:hsa02010
+ABCC3,8714,Antifolate resistance,KEGG:hsa01523
+ABCC3,8714,Bile acid and bile salt metabolism,REACT:R-HSA-194068
+ABCC3,8714,Bile secretion,KEGG:hsa04976
+ABCC3,8714,Metabolism,REACT:R-HSA-1430728
+ABCC3,8714,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCC3,8714,Recycling of bile acids and salts,REACT:R-HSA-159418
+ABCC3,8714,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC4,10257,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC4,10257,ABC transporters,KEGG:hsa02010
+ABCC4,10257,Antifolate resistance,KEGG:hsa01523
+ABCC4,10257,Bile secretion,KEGG:hsa04976
+ABCC4,10257,cAMP signaling pathway,KEGG:hsa04024
+ABCC4,10257,Hemostasis,REACT:R-HSA-109582
+ABCC4,10257,"Platelet activation, signaling and aggregation",REACT:R-HSA-76002
+ABCC4,10257,Platelet degranulation,REACT:R-HSA-114608
+ABCC4,10257,Response to elevated platelet cytosolic Ca2+,REACT:R-HSA-76005
+ABCC4,10257,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC5,10057,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC5,10057,ABC transporters,KEGG:hsa02010
+ABCC5,10057,Antifolate resistance,KEGG:hsa01523
+ABCC5,10057,Glycosaminoglycan metabolism,REACT:R-HSA-1630316
+ABCC5,10057,Hyaluronan biosynthesis and export,REACT:R-HSA-2142850
+ABCC5,10057,Hyaluronan metabolism,REACT:R-HSA-2142845
+ABCC5,10057,Metabolism,REACT:R-HSA-1430728
+ABCC5,10057,Metabolism of carbohydrates,REACT:R-HSA-71387
+ABCC5,10057,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC6,368,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC6,368,ABC transporters,KEGG:hsa02010
+ABCC6,368,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC8,6833,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC8,6833,ABC transporter disorders,REACT:R-HSA-5619084
+ABCC8,6833,ABC transporters,KEGG:hsa02010
+ABCC8,6833,ATP sensitive Potassium channels,REACT:R-HSA-1296025
+ABCC8,6833,Defective ABCC8 can cause hypoglycemias and hyperglycemias,REACT:R-HSA-5683177
+ABCC8,6833,Disease,REACT:R-HSA-1643685
+ABCC8,6833,Disorders of transmembrane transporters,REACT:R-HSA-5619115
+ABCC8,6833,Insulin secretion,KEGG:hsa04911
+ABCC8,6833,Integration of energy metabolism,REACT:R-HSA-163685
+ABCC8,6833,Inwardly rectifying K+ channels,REACT:R-HSA-1296065
+ABCC8,6833,Metabolism,REACT:R-HSA-1430728
+ABCC8,6833,Neuronal System,REACT:R-HSA-112316
+ABCC8,6833,Potassium Channels,REACT:R-HSA-1296071
+ABCC8,6833,Regulation of insulin secretion,REACT:R-HSA-422356
+ABCC8,6833,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCC8,6833,Type II diabetes mellitus,KEGG:hsa04930
+ABCC9,10060,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCC9,10060,ABC transporters,KEGG:hsa02010
+ABCC9,10060,ATP sensitive Potassium channels,REACT:R-HSA-1296025
+ABCC9,10060,Cardiac conduction,REACT:R-HSA-5576891
+ABCC9,10060,Inwardly rectifying K+ channels,REACT:R-HSA-1296065
+ABCC9,10060,Ion homeostasis,REACT:R-HSA-5578775
+ABCC9,10060,Muscle contraction,REACT:R-HSA-397014
+ABCC9,10060,Neuronal System,REACT:R-HSA-112316
+ABCC9,10060,Potassium Channels,REACT:R-HSA-1296071
+ABCC9,10060,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCD1,215,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCD1,215,ABC transporters,KEGG:hsa02010
+ABCD1,215,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCD1,215,alpha-linolenic acid (ALA) metabolism,REACT:R-HSA-2046106
+ABCD1,215,alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,REACT:R-HSA-2046104
+ABCD1,215,Beta-oxidation of very long chain fatty acids,REACT:R-HSA-390247
+ABCD1,215,Linoleic acid (LA) metabolism,REACT:R-HSA-2046105
+ABCD1,215,Metabolism,REACT:R-HSA-1430728
+ABCD1,215,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCD1,215,Peroxisomal lipid metabolism,REACT:R-HSA-390918
+ABCD1,215,Peroxisome,KEGG:hsa04146
+ABCD1,215,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCD2,225,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCD2,225,ABC transporters,KEGG:hsa02010
+ABCD2,225,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCD2,225,Peroxisome,KEGG:hsa04146
+ABCD2,225,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCD3,5825,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCD3,5825,ABC transporters,KEGG:hsa02010
+ABCD3,5825,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCD3,5825,Peroxisome,KEGG:hsa04146
+ABCD3,5825,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCD4,5826,ABC transporters,KEGG:hsa02010
+ABCD4,5826,"Cobalamin (Cbl, vitamin B12) transport and metabolism",REACT:R-HSA-196741
+ABCD4,5826,Metabolism,REACT:R-HSA-1430728
+ABCD4,5826,Metabolism of vitamins and cofactors,REACT:R-HSA-196854
+ABCD4,5826,Metabolism of water-soluble vitamins and cofactors,REACT:R-HSA-196849
+ABCD4,5826,Peroxisome,KEGG:hsa04146
+ABCE1,6059,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCE1,6059,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCF1,23,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCF1,23,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCG1,9619,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCG1,9619,ABC transporters,KEGG:hsa02010
+ABCG1,9619,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCG1,9619,HDL-mediated lipid transport,REACT:R-HSA-194223
+ABCG1,9619,"Lipid digestion, mobilization, and transport",REACT:R-HSA-73923
+ABCG1,9619,Lipoprotein metabolism,REACT:R-HSA-174824
+ABCG1,9619,Metabolism,REACT:R-HSA-1430728
+ABCG1,9619,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCG1,9619,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCG2,9429,Abacavir transmembrane transport,REACT:R-HSA-2161517
+ABCG2,9429,Abacavir transport and metabolism,REACT:R-HSA-2161522
+ABCG2,9429,ABC transporters,KEGG:hsa02010
+ABCG2,9429,Antifolate resistance,KEGG:hsa01523
+ABCG2,9429,Bile secretion,KEGG:hsa04976
+ABCG2,9429,Iron uptake and transport,REACT:R-HSA-917937
+ABCG2,9429,Metabolism,REACT:R-HSA-1430728
+ABCG2,9429,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCG4,64137,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCG4,64137,ABC transporters,KEGG:hsa02010
+ABCG4,64137,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCG4,64137,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCG5,64240,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCG5,64240,ABC transporters,KEGG:hsa02010
+ABCG5,64240,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCG5,64240,Bile secretion,KEGG:hsa04976
+ABCG5,64240,Fat digestion and absorption,KEGG:hsa04975
+ABCG5,64240,"Lipid digestion, mobilization, and transport",REACT:R-HSA-73923
+ABCG5,64240,Metabolism,REACT:R-HSA-1430728
+ABCG5,64240,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCG5,64240,Trafficking of dietary sterols,REACT:R-HSA-265473
+ABCG5,64240,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABCG8,64241,ABC-family proteins mediated transport,REACT:R-HSA-382556
+ABCG8,64241,ABC transporters,KEGG:hsa02010
+ABCG8,64241,ABC transporters in lipid homeostasis,REACT:R-HSA-1369062
+ABCG8,64241,Bile secretion,KEGG:hsa04976
+ABCG8,64241,Fat digestion and absorption,KEGG:hsa04975
+ABCG8,64241,"Lipid digestion, mobilization, and transport",REACT:R-HSA-73923
+ABCG8,64241,Metabolism,REACT:R-HSA-1430728
+ABCG8,64241,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABCG8,64241,Trafficking of dietary sterols,REACT:R-HSA-265473
+ABCG8,64241,Transmembrane transport of small molecules,REACT:R-HSA-382551
+ABHD10,55347,Biological oxidations,REACT:R-HSA-211859
+ABHD10,55347,Glucuronidation,REACT:R-HSA-156588
+ABHD10,55347,Metabolism,REACT:R-HSA-1430728
+ABHD10,55347,Phase II conjugation,REACT:R-HSA-156580
+ABHD12,26090,Arachidonate production from DAG,REACT:R-HSA-426048
+ABHD12,26090,Effects of PIP2 hydrolysis,REACT:R-HSA-114508
+ABHD12,26090,G alpha (q) signalling events,REACT:R-HSA-416476
+ABHD12,26090,Gastrin-CREB signalling pathway via PKC and MAPK,REACT:R-HSA-881907
+ABHD12,26090,GPCR downstream signaling,REACT:R-HSA-388396
+ABHD12,26090,Hemostasis,REACT:R-HSA-109582
+ABHD12,26090,"Platelet activation, signaling and aggregation",REACT:R-HSA-76002
+ABHD12,26090,Signaling by GPCR,REACT:R-HSA-372790
+ABHD12,26090,Signal Transduction,REACT:R-HSA-162582
+ABHD14A-ACY1,100526760,2-Oxocarboxylic acid metabolism,KEGG:hsa01210
+ABHD14A-ACY1,100526760,Arginine biosynthesis,KEGG:hsa00220
+ABHD14A-ACY1,100526760,Biosynthesis of amino acids,KEGG:hsa01230
+ABHD14A-ACY1,100526760,Metabolic pathways,KEGG:hsa01100
+ABHD14B,84836,Biological oxidations,REACT:R-HSA-211859
+ABHD14B,84836,Cytosolic sulfonation of small molecules,REACT:R-HSA-156584
+ABHD14B,84836,Metabolism,REACT:R-HSA-1430728
+ABHD14B,84836,Phase II conjugation,REACT:R-HSA-156580
+ABHD3,171586,Glycerophospholipid biosynthesis,REACT:R-HSA-1483206
+ABHD3,171586,Metabolism,REACT:R-HSA-1430728
+ABHD3,171586,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABHD3,171586,Phospholipid metabolism,REACT:R-HSA-1483257
+ABHD3,171586,Synthesis of PC,REACT:R-HSA-1483191
+ABHD4,63874,Acyl chain remodelling of PE,REACT:R-HSA-1482839
+ABHD4,63874,Glycerophospholipid biosynthesis,REACT:R-HSA-1483206
+ABHD4,63874,Metabolism,REACT:R-HSA-1430728
+ABHD4,63874,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABHD4,63874,Phospholipid metabolism,REACT:R-HSA-1483257
+ABHD5,51099,Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis,REACT:R-HSA-163560
+ABHD5,51099,"Lipid digestion, mobilization, and transport",REACT:R-HSA-73923
+ABHD5,51099,Metabolism,REACT:R-HSA-1430728
+ABHD5,51099,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833
+ABHD5,51099,Regulation of lipolysis in adipocytes,KEGG:hsa04923
+ABHD6,57406,Arachidonate production from DAG,REACT:R-HSA-426048
+ABHD6,57406,Effects of PIP2 hydrolysis,REACT:R-HSA-114508
+ABHD6,57406,G alpha (q) signalling events,REACT:R-HSA-416476
+ABHD6,57406,Gastrin-CREB signalling pathway via PKC and MAPK,REACT:R-HSA-881907
+ABHD6,57406,GPCR downstream signaling,REACT:R-HSA-388396
+ABHD6,57406,Hemostasis,REACT:R-HSA-109582
+ABHD6,57406,"Platelet activation, signaling and aggregation",REACT:R-HSA-76002
+ABHD6,57406,Retrograde endocannabinoid signaling,KEGG:hsa04723
+ABHD6,57406,Signaling by GPCR,REACT:R-HSA-372790
+ABHD6,57406,Signal Transduction,REACT:R-HSA-162582
+ABI1,10006,Fcgamma receptor (FCGR) dependent phagocytosis,REACT:R-HSA-2029480
+ABI1,10006,Immune System,REACT:R-HSA-168256
+ABI1,10006,Innate Immune System,REACT:R-HSA-168249
+ABI1,10006,Regulation of actin dynamics for phagocytic cup formation,REACT:R-HSA-2029482
+ABI1,10006,RHO GTPase Effectors,REACT:R-HSA-195258
+ABI1,10006,RHO GTPases Activate WASPs and WAVEs,REACT:R-HSA-5663213
+ABI1,10006,Signaling by Rho GTPases,REACT:R-HSA-194315
+ABI1,10006,Signaling by VEGF,REACT:R-HSA-194138
+ABI1,10006,Signal Transduction,REACT:R-HSA-162582
+ABI1,10006,VEGFA-VEGFR2 Pathway,REACT:R-HSA-4420097
+ABI2,10152,Fcgamma receptor (FCGR) dependent phagocytosis,REACT:R-HSA-2029480
+ABI2,10152,Immune System,REACT:R-HSA-168256
+ABI2,10152,Innate Immune System,REACT:R-HSA-168249
+ABI2,10152,Regulation of actin cytoskeleton,KEGG:hsa04810

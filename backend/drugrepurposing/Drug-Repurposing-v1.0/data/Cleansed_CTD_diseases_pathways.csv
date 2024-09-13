@@ -1,0 +1,501 @@
+DiseaseName,DiseaseID,PathwayName,PathwayID,InferenceGeneSymbol
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Androgen biosynthesis,REACT:R-HSA-193048,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Fatty Acyl-CoA Biosynthesis,REACT:R-HSA-75105,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Metabolic pathways,KEGG:hsa01100,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Metabolism,REACT:R-HSA-1430728,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Metabolism of steroid hormones,REACT:R-HSA-196071,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Steroid hormone biosynthesis,KEGG:hsa00140,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Synthesis of very long-chain fatty acyl-CoAs,REACT:R-HSA-75876,HSD17B3
+17-Hydroxysteroid Dehydrogenase Deficiency,MESH:C537805,Triglyceride Biosynthesis,REACT:R-HSA-75109,HSD17B3
+18-Hydroxylase deficiency,MESH:C537806,Aldosterone synthesis and secretion,KEGG:hsa04925,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Biological oxidations,REACT:R-HSA-211859,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,"C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone",KEGG:hsa_M00108,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,"C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone",KEGG:hsa_M00109,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Cytochrome P450 - arranged by substrate type,REACT:R-HSA-211897,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Endogenous sterols,REACT:R-HSA-211976,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Glucocorticoid biosynthesis,REACT:R-HSA-194002,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Metabolic pathways,KEGG:hsa01100,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Metabolism,REACT:R-HSA-1430728,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Metabolism of steroid hormones,REACT:R-HSA-196071,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Mineralocorticoid biosynthesis,REACT:R-HSA-193993,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Phase 1 - Functionalization of compounds,REACT:R-HSA-211945,CYP11B2
+18-Hydroxylase deficiency,MESH:C537806,Steroid hormone biosynthesis,KEGG:hsa00140,CYP11B2
+22q11 Deletion Syndrome,MESH:D058165,Activated point mutants of FGFR2,REACT:R-HSA-2033519,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Adaptive Immune System,REACT:R-HSA-1280218,FGF8
+22q11 Deletion Syndrome,MESH:D058165,ARMS-mediated activation,REACT:R-HSA-170984,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Axon guidance,REACT:R-HSA-422475,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Breast cancer,KEGG:hsa05224,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Constitutive Signaling by Aberrant PI3K in Cancer,REACT:R-HSA-2219530,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Cytokine Signaling in Immune system,REACT:R-HSA-1280215,FGF8
+22q11 Deletion Syndrome,MESH:D058165,DAP12 interactions,REACT:R-HSA-2172127,FGF8
+22q11 Deletion Syndrome,MESH:D058165,DAP12 signaling,REACT:R-HSA-2424491,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Developmental Biology,REACT:R-HSA-1266738,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Disease,REACT:R-HSA-1643685,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Diseases of signal transduction,REACT:R-HSA-5663202,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Downstream signaling events of B Cell Receptor (BCR),REACT:R-HSA-1168372,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Downstream signaling of activated FGFR1,REACT:R-HSA-5654687,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Downstream signaling of activated FGFR2,REACT:R-HSA-5654696,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Downstream signaling of activated FGFR3,REACT:R-HSA-5654708,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Downstream signaling of activated FGFR4,REACT:R-HSA-5654716,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Downstream signal transduction,REACT:R-HSA-186763,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Fc epsilon receptor (FCERI) signaling,REACT:R-HSA-2454202,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FCERI mediated MAPK activation,REACT:R-HSA-2871796,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR1c ligand binding and activation,REACT:R-HSA-190373,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR1 ligand binding and activation,REACT:R-HSA-190242,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR1 mutant receptor activation,REACT:R-HSA-1839124,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR2c ligand binding and activation,REACT:R-HSA-190375,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR2 ligand binding and activation,REACT:R-HSA-190241,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR2 mutant receptor activation,REACT:R-HSA-1839126,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR3b ligand binding and activation,REACT:R-HSA-190371,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR3c ligand binding and activation,REACT:R-HSA-190372,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR3 ligand binding and activation,REACT:R-HSA-190239,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR3 mutant receptor activation,REACT:R-HSA-2033514,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFR4 ligand binding and activation,REACT:R-HSA-190322,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FGFRL1 modulation of FGFR1 signaling,REACT:R-HSA-5658623,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Frs2-mediated activation,REACT:R-HSA-170968,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FRS-mediated FGFR1 signaling,REACT:R-HSA-5654693,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FRS-mediated FGFR2 signaling,REACT:R-HSA-5654700,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FRS-mediated FGFR3 signaling,REACT:R-HSA-5654706,FGF8
+22q11 Deletion Syndrome,MESH:D058165,FRS-mediated FGFR4 signaling,REACT:R-HSA-5654712,FGF8
+22q11 Deletion Syndrome,MESH:D058165,GAB1 signalosome,REACT:R-HSA-180292,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Gastrin-CREB signalling pathway via PKC and MAPK,REACT:R-HSA-881907,FGF8
+22q11 Deletion Syndrome,MESH:D058165,GRB2 events in EGFR signaling,REACT:R-HSA-179812,FGF8
+22q11 Deletion Syndrome,MESH:D058165,IGF1R signaling cascade,REACT:R-HSA-2428924,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Immune System,REACT:R-HSA-168256,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Innate Immune System,REACT:R-HSA-168249,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Insulin receptor signalling cascade,REACT:R-HSA-74751,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Interleukin-2 signaling,REACT:R-HSA-451927,FGF8
+22q11 Deletion Syndrome,MESH:D058165,"Interleukin-3, 5 and GM-CSF signaling",REACT:R-HSA-512988,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Interleukin receptor SHC signaling,REACT:R-HSA-912526,FGF8
+22q11 Deletion Syndrome,MESH:D058165,IRS-mediated signalling,REACT:R-HSA-112399,FGF8
+22q11 Deletion Syndrome,MESH:D058165,IRS-related events triggered by IGF1R,REACT:R-HSA-2428928,FGF8
+22q11 Deletion Syndrome,MESH:D058165,MAPK1/MAPK3 signaling,REACT:R-HSA-5684996,FGF8
+22q11 Deletion Syndrome,MESH:D058165,MAPK family signaling cascades,REACT:R-HSA-5683057,FGF8
+22q11 Deletion Syndrome,MESH:D058165,MAPK signaling pathway,KEGG:hsa04010,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Melanoma,KEGG:hsa05218,FGF8
+22q11 Deletion Syndrome,MESH:D058165,NCAM signaling for neurite out-growth,REACT:R-HSA-375165,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Negative regulation of FGFR1 signaling,REACT:R-HSA-5654726,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Negative regulation of FGFR2 signaling,REACT:R-HSA-5654727,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Negative regulation of FGFR3 signaling,REACT:R-HSA-5654732,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Negative regulation of FGFR4 signaling,REACT:R-HSA-5654733,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Negative regulation of the PI3K/AKT network,REACT:R-HSA-199418,FGF8
+22q11 Deletion Syndrome,MESH:D058165,NGF signalling via TRKA from the plasma membrane,REACT:R-HSA-187037,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Pathways in cancer,KEGG:hsa05200,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Phospholipase C-mediated cascade: FGFR1,REACT:R-HSA-5654219,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Phospholipase C-mediated cascade; FGFR2,REACT:R-HSA-5654221,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Phospholipase C-mediated cascade; FGFR3,REACT:R-HSA-5654227,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Phospholipase C-mediated cascade; FGFR4,REACT:R-HSA-5654228,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI3K/AKT activation,REACT:R-HSA-198203,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI3K/AKT Signaling in Cancer,REACT:R-HSA-2219528,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI3K-Akt signaling pathway,KEGG:hsa04151,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI3K Cascade,REACT:R-HSA-109704,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI-3K cascade:FGFR1,REACT:R-HSA-5654689,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI-3K cascade:FGFR2,REACT:R-HSA-5654695,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI-3K cascade:FGFR3,REACT:R-HSA-5654710,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PI-3K cascade:FGFR4,REACT:R-HSA-5654720,FGF8
+22q11 Deletion Syndrome,MESH:D058165,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",REACT:R-HSA-6811558,FGF8
+22q11 Deletion Syndrome,MESH:D058165,PIP3 activates AKT signaling,REACT:R-HSA-1257604,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Prolonged ERK activation events,REACT:R-HSA-169893,FGF8
+22q11 Deletion Syndrome,MESH:D058165,RAF/MAP kinase cascade,REACT:R-HSA-5673001,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Rap1 signaling pathway,KEGG:hsa04015,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Ras signaling pathway,KEGG:hsa04014,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Regulation of actin cytoskeleton,KEGG:hsa04810,FGF8
+22q11 Deletion Syndrome,MESH:D058165,RET signaling,REACT:R-HSA-8853659,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Role of LAT2/NTAL/LAB on calcium mobilization,REACT:R-HSA-2730905,FGF8
+22q11 Deletion Syndrome,MESH:D058165,SHC1 events in EGFR signaling,REACT:R-HSA-180336,FGF8
+22q11 Deletion Syndrome,MESH:D058165,SHC-mediated cascade:FGFR1,REACT:R-HSA-5654688,FGF8
+22q11 Deletion Syndrome,MESH:D058165,SHC-mediated cascade:FGFR2,REACT:R-HSA-5654699,FGF8
+22q11 Deletion Syndrome,MESH:D058165,SHC-mediated cascade:FGFR3,REACT:R-HSA-5654704,FGF8
+22q11 Deletion Syndrome,MESH:D058165,SHC-mediated cascade:FGFR4,REACT:R-HSA-5654719,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by activated point mutants of FGFR1,REACT:R-HSA-1839122,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by activated point mutants of FGFR3,REACT:R-HSA-1839130,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by EGFR,REACT:R-HSA-177929,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR,REACT:R-HSA-190236,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR1,REACT:R-HSA-5654736,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR1 in disease,REACT:R-HSA-5655302,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR2,REACT:R-HSA-5654738,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR2 in disease,REACT:R-HSA-5655253,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR3,REACT:R-HSA-5654741,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR3 in disease,REACT:R-HSA-5655332,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR3 point mutants in cancer,REACT:R-HSA-8853338,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR4,REACT:R-HSA-5654743,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by FGFR in disease,REACT:R-HSA-1226099,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by GPCR,REACT:R-HSA-372790,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by Insulin receptor,REACT:R-HSA-74752,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by Interleukins,REACT:R-HSA-449147,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by Leptin,REACT:R-HSA-2586552,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by PDGF,REACT:R-HSA-186797,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by SCF-KIT,REACT:R-HSA-1433557,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by the B Cell Receptor (BCR),REACT:R-HSA-983705,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),REACT:R-HSA-2404192,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signaling by VEGF,REACT:R-HSA-194138,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signalling by NGF,REACT:R-HSA-166520,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signalling to ERKs,REACT:R-HSA-187687,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signalling to p38 via RIT and RIN,REACT:R-HSA-187706,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signalling to RAS,REACT:R-HSA-167044,FGF8
+22q11 Deletion Syndrome,MESH:D058165,Signal Transduction,REACT:R-HSA-162582,FGF8
+22q11 Deletion Syndrome,MESH:D058165,SOS-mediated signalling,REACT:R-HSA-112412,FGF8
+22q11 Deletion Syndrome,MESH:D058165,VEGFA-VEGFR2 Pathway,REACT:R-HSA-4420097,FGF8
+22q11 Deletion Syndrome,MESH:D058165,VEGFR2 mediated cell proliferation,REACT:R-HSA-5218921,FGF8
+"2,4-Dienoyl-CoA Reductase Deficiency",MESH:C565624,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734,DECR1
+"2,4-Dienoyl-CoA Reductase Deficiency",MESH:C565624,Metabolic pathways,KEGG:hsa01100,NADK2
+"2,4-Dienoyl-CoA Reductase Deficiency",MESH:C565624,Metabolism,REACT:R-HSA-1430728,DECR1
+"2,4-Dienoyl-CoA Reductase Deficiency",MESH:C565624,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,DECR1
+"2,4-Dienoyl-CoA Reductase Deficiency",MESH:C565624,Mitochondrial Fatty Acid Beta-Oxidation,REACT:R-HSA-77289,DECR1
+"2,4-Dienoyl-CoA Reductase Deficiency",MESH:C565624,mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,REACT:R-HSA-77288,DECR1
+"2,4-Dienoyl-CoA Reductase Deficiency",MESH:C565624,Nicotinate and nicotinamide metabolism,KEGG:hsa00760,NADK2
+2-Hydroxyglutaricaciduria,MESH:C535306,2-Oxocarboxylic acid metabolism,KEGG:hsa01210,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Biosynthesis of amino acids,KEGG:hsa01230,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Butanoate metabolism,KEGG:hsa00650,L2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,Carbon metabolism,KEGG:hsa01200,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",KEGG:hsa_M00010,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Citrate cycle (TCA cycle),KEGG:hsa00020,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,"Citrate cycle (TCA cycle, Krebs cycle)",KEGG:hsa_M00009,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Citric acid cycle (TCA cycle),REACT:R-HSA-71403,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734,SLC25A1
+2-Hydroxyglutaricaciduria,MESH:C535306,Fatty Acyl-CoA Biosynthesis,REACT:R-HSA-75105,SLC25A1
+2-Hydroxyglutaricaciduria,MESH:C535306,Gluconeogenesis,REACT:R-HSA-70263,SLC25A1
+2-Hydroxyglutaricaciduria,MESH:C535306,Glucose metabolism,REACT:R-HSA-70326,SLC25A1
+2-Hydroxyglutaricaciduria,MESH:C535306,Glutathione metabolism,KEGG:hsa00480,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Interconversion of 2-oxoglutarate and 2-hydroxyglutarate,REACT:R-HSA-880009,D2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,Interconversion of 2-oxoglutarate and 2-hydroxyglutarate,REACT:R-HSA-880009,L2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,Metabolic pathways,KEGG:hsa01100,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Metabolism,REACT:R-HSA-1430728,D2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,Metabolism,REACT:R-HSA-1430728,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Metabolism,REACT:R-HSA-1430728,L2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,Metabolism,REACT:R-HSA-1430728,SLC25A1
+2-Hydroxyglutaricaciduria,MESH:C535306,Metabolism of carbohydrates,REACT:R-HSA-71387,SLC25A1
+2-Hydroxyglutaricaciduria,MESH:C535306,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,SLC25A1
+2-Hydroxyglutaricaciduria,MESH:C535306,Peroxisome,KEGG:hsa04146,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Pyruvate metabolism and Citric Acid (TCA) cycle,REACT:R-HSA-71406,D2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,Pyruvate metabolism and Citric Acid (TCA) cycle,REACT:R-HSA-71406,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,Pyruvate metabolism and Citric Acid (TCA) cycle,REACT:R-HSA-71406,L2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,The citric acid (TCA) cycle and respiratory electron transport,REACT:R-HSA-1428517,D2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,The citric acid (TCA) cycle and respiratory electron transport,REACT:R-HSA-1428517,IDH2
+2-Hydroxyglutaricaciduria,MESH:C535306,The citric acid (TCA) cycle and respiratory electron transport,REACT:R-HSA-1428517,L2HGDH
+2-Hydroxyglutaricaciduria,MESH:C535306,Triglyceride Biosynthesis,REACT:R-HSA-75109,SLC25A1
+2-Methylbutyryl-CoA Dehydrogenase Deficiency,MESH:C566487,Branched-chain amino acid catabolism,REACT:R-HSA-70895,ACADSB
+2-Methylbutyryl-CoA Dehydrogenase Deficiency,MESH:C566487,Fatty acid degradation,KEGG:hsa00071,ACADSB
+2-Methylbutyryl-CoA Dehydrogenase Deficiency,MESH:C566487,Fatty acid metabolism,KEGG:hsa01212,ACADSB
+2-Methylbutyryl-CoA Dehydrogenase Deficiency,MESH:C566487,Metabolic pathways,KEGG:hsa01100,ACADSB
+2-Methylbutyryl-CoA Dehydrogenase Deficiency,MESH:C566487,Metabolism,REACT:R-HSA-1430728,ACADSB
+2-Methylbutyryl-CoA Dehydrogenase Deficiency,MESH:C566487,Metabolism of amino acids and derivatives,REACT:R-HSA-71291,ACADSB
+2-Methylbutyryl-CoA Dehydrogenase Deficiency,MESH:C566487,"Valine, leucine and isoleucine degradation",KEGG:hsa00280,ACADSB
+3C syndrome,MESH:C535313,Endocytosis,KEGG:hsa04144,WASHC5
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Butanoate metabolism,KEGG:hsa00650,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Ketone body metabolism,REACT:R-HSA-74182,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,"Leucine degradation, leucine => acetoacetate + acetyl-CoA",KEGG:hsa_M00036,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Metabolic pathways,KEGG:hsa01100,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Metabolism,REACT:R-HSA-1430728,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Peroxisome,KEGG:hsa04146,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Synthesis and degradation of ketone bodies,KEGG:hsa00072,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,Synthesis of Ketone Bodies,REACT:R-HSA-77111,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency,MESH:C538324,"Valine, leucine and isoleucine degradation",KEGG:hsa00280,HMGCL
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Butanoate metabolism,KEGG:hsa00650,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,"C5 isoprenoid biosynthesis, mevalonate pathway",KEGG:hsa_M00095,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Ketone body metabolism,REACT:R-HSA-74182,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Metabolic pathways,KEGG:hsa01100,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Metabolism,REACT:R-HSA-1430728,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,PPARA activates gene expression,REACT:R-HSA-1989781,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,PPAR signaling pathway,KEGG:hsa03320,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha),REACT:R-HSA-400206,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Synthesis and degradation of ketone bodies,KEGG:hsa00072,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Synthesis of Ketone Bodies,REACT:R-HSA-77111,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,Terpenoid backbone biosynthesis,KEGG:hsa00900,HMGCS2
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,MESH:C567784,"Valine, leucine and isoleucine degradation",KEGG:hsa00280,HMGCS2
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,beta-Oxidation,KEGG:hsa_M00087,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Beta oxidation of butanoyl-CoA to acetyl-CoA,REACT:R-HSA-77352,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,REACT:R-HSA-77346,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Beta oxidation of hexanoyl-CoA to butanoyl-CoA,REACT:R-HSA-77350,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,REACT:R-HSA-77310,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Beta oxidation of octanoyl-CoA to hexanoyl-CoA,REACT:R-HSA-77348,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Butanoate metabolism,KEGG:hsa00650,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,"Fatty acid biosynthesis, elongation, mitochondria",KEGG:hsa_M00085,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Fatty acid degradation,KEGG:hsa00071,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Fatty acid elongation,KEGG:hsa00062,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Fatty acid metabolism,KEGG:hsa01212,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Lysine degradation,KEGG:hsa00310,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA",KEGG:hsa_M00032,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Metabolic pathways,KEGG:hsa01100,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Metabolism,REACT:R-HSA-1430728,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Mitochondrial Fatty Acid Beta-Oxidation,REACT:R-HSA-77289,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,mitochondrial fatty acid beta-oxidation of saturated fatty acids,REACT:R-HSA-77286,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,Tryptophan metabolism,KEGG:hsa00380,HADH
+3-Hydroxyacyl-CoA Dehydrogenase Deficiency,MESH:C535310,"Valine, leucine and isoleucine degradation",KEGG:hsa00280,HADH
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Biotin transport and metabolism,REACT:R-HSA-196780,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Branched-chain amino acid catabolism,REACT:R-HSA-70895,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Defective HLCS causes multiple carboxylase deficiency,REACT:R-HSA-3371599,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Defects in biotin (Btn) metabolism,REACT:R-HSA-3323169,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Defects in vitamin and cofactor metabolism,REACT:R-HSA-3296482,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Disease,REACT:R-HSA-1643685,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Diseases of metabolism,REACT:R-HSA-5668914,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,"Leucine degradation, leucine => acetoacetate + acetyl-CoA",KEGG:hsa_M00036,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Metabolic pathways,KEGG:hsa01100,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Metabolism,REACT:R-HSA-1430728,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Metabolism of amino acids and derivatives,REACT:R-HSA-71291,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Metabolism of vitamins and cofactors,REACT:R-HSA-196854,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,Metabolism of water-soluble vitamins and cofactors,REACT:R-HSA-196849,MCCC1
+3-methylcrotonyl CoA carboxylase 1 deficiency,MESH:C535308,"Valine, leucine and isoleucine degradation",KEGG:hsa00280,MCCC1
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Biotin transport and metabolism,REACT:R-HSA-196780,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Branched-chain amino acid catabolism,REACT:R-HSA-70895,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Defective HLCS causes multiple carboxylase deficiency,REACT:R-HSA-3371599,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Defects in biotin (Btn) metabolism,REACT:R-HSA-3323169,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Defects in vitamin and cofactor metabolism,REACT:R-HSA-3296482,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Disease,REACT:R-HSA-1643685,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Diseases of metabolism,REACT:R-HSA-5668914,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,"Leucine degradation, leucine => acetoacetate + acetyl-CoA",KEGG:hsa_M00036,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Metabolic pathways,KEGG:hsa01100,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Metabolism,REACT:R-HSA-1430728,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Metabolism of amino acids and derivatives,REACT:R-HSA-71291,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Metabolism of vitamins and cofactors,REACT:R-HSA-196854,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,Metabolism of water-soluble vitamins and cofactors,REACT:R-HSA-196849,MCCC2
+3-methylcrotonyl CoA carboxylase 2 deficiency,MESH:C535309,"Valine, leucine and isoleucine degradation",KEGG:hsa00280,MCCC2
+"3-Methylglutaconic Aciduria, Type I",MESH:C562801,Branched-chain amino acid catabolism,REACT:R-HSA-70895,AUH
+"3-Methylglutaconic Aciduria, Type I",MESH:C562801,"Leucine degradation, leucine => acetoacetate + acetyl-CoA",KEGG:hsa_M00036,AUH
+"3-Methylglutaconic Aciduria, Type I",MESH:C562801,Metabolic pathways,KEGG:hsa01100,AUH
+"3-Methylglutaconic Aciduria, Type I",MESH:C562801,Metabolism,REACT:R-HSA-1430728,AUH
+"3-Methylglutaconic Aciduria, Type I",MESH:C562801,Metabolism of amino acids and derivatives,REACT:R-HSA-71291,AUH
+"3-Methylglutaconic Aciduria, Type I",MESH:C562801,"Valine, leucine and isoleucine degradation",KEGG:hsa00280,AUH
+"3-Methylglutaconic Aciduria, Type V",MESH:C565706,Metabolism of proteins,REACT:R-HSA-392499,DNAJC19
+"3-Methylglutaconic Aciduria, Type V",MESH:C565706,Mitochondrial protein import,REACT:R-HSA-1268020,DNAJC19
+"3-METHYLGLUTACONIC ACIDURIA, TYPE VIIB",OMIM:616271,Longevity regulating pathway - multiple species,KEGG:hsa04213,CLPB
+"3-METHYLGLUTACONIC ACIDURIA, TYPE VIII",OMIM:617248,Apoptosis,KEGG:hsa04210,HTRA2
+"3-METHYLGLUTACONIC ACIDURIA, TYPE VIII",OMIM:617248,Apoptosis - multiple species,KEGG:hsa04215,HTRA2
+"3-METHYLGLUTACONIC ACIDURIA, TYPE VIII",OMIM:617248,Parkinson's disease,KEGG:hsa05012,HTRA2
+"46, XX Disorders of Sex Development",MESH:D058489,"BMAL1:CLOCK,NPAS2 activates circadian gene expression",REACT:R-HSA-1368108,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,Circadian Clock,REACT:R-HSA-400253,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,Gene Expression,REACT:R-HSA-74160,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,Generic Transcription Pathway,REACT:R-HSA-212436,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,Neuroactive ligand-receptor interaction,KEGG:hsa04080,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,Nuclear Receptor transcription pathway,REACT:R-HSA-383280,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,PTK6 Expression,REACT:R-HSA-8849473,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,Signaling by PTK6,REACT:R-HSA-8848021,NR3C1
+"46, XX Disorders of Sex Development",MESH:D058489,Signal Transduction,REACT:R-HSA-162582,NR3C1
+"46,XX SEX REVERSAL 1",OMIM:400045,Deactivation of the beta-catenin transactivating complex,REACT:R-HSA-3769402,SRY
+"46,XX SEX REVERSAL 1",OMIM:400045,Signaling by Wnt,REACT:R-HSA-195721,SRY
+"46,XX SEX REVERSAL 1",OMIM:400045,Signal Transduction,REACT:R-HSA-162582,SRY
+"46,XX SEX REVERSAL 1",OMIM:400045,TCF dependent signaling in response to WNT,REACT:R-HSA-201681,SRY
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Axon guidance,KEGG:hsa04360,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Basal cell carcinoma,KEGG:hsa05217,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Beta-catenin independent WNT signaling,REACT:R-HSA-3858494,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Breast cancer,KEGG:hsa05224,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Class B/2 (Secretin family receptors),REACT:R-HSA-373080,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,GPCR ligand binding,REACT:R-HSA-500792,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Hippo signaling pathway,KEGG:hsa04390,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,HTLV-I infection,KEGG:hsa05166,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Melanogenesis,KEGG:hsa04916,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,mTOR signaling pathway,KEGG:hsa04150,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Negative regulation of TCF-dependent signaling by WNT ligand antagonists,REACT:R-HSA-3772470,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Pathways in cancer,KEGG:hsa05200,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,PCP/CE pathway,REACT:R-HSA-4086400,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Proteoglycans in cancer,KEGG:hsa05205,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Signaling by GPCR,REACT:R-HSA-372790,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Signaling by Wnt,REACT:R-HSA-195721,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Signaling pathways regulating pluripotency of stem cells,KEGG:hsa04550,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Signal Transduction,REACT:R-HSA-162582,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,TCF dependent signaling in response to WNT,REACT:R-HSA-201681,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Thyroid hormone signaling pathway,KEGG:hsa04919,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,WNT ligand biogenesis and trafficking,REACT:R-HSA-3238698,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Wnt signaling,KEGG:hsa_M00677,WNT4
+"46,XX SEX REVERSAL WITH DYSGENESIS OF KIDNEYS, ADRENALS, AND LUNGS",OMIM:611812,Wnt signaling pathway,KEGG:hsa04310,WNT4
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Activation of SMO,REACT:R-HSA-5635838,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Class B/2 (Secretin family receptors),REACT:R-HSA-373080,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Disease,REACT:R-HSA-1643685,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Diseases of signal transduction,REACT:R-HSA-5663202,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,GPCR ligand binding,REACT:R-HSA-500792,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Hedgehog ligand biogenesis,REACT:R-HSA-5358346,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Hedgehog 'on' state,REACT:R-HSA-5632684,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Hedgehog signaling,KEGG:hsa_M00678,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Hedgehog signaling pathway,KEGG:hsa04340,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,HHAT G278V abrogates palmitoylation of Hh-Np,REACT:R-HSA-5658034,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Hh mutants abrogate ligand secretion,REACT:R-HSA-5387390,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Ligand-receptor interactions,REACT:R-HSA-5632681,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Release of Hh-Np from the secreting cell,REACT:R-HSA-5362798,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Signaling by GPCR,REACT:R-HSA-372790,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Signaling by Hedgehog,REACT:R-HSA-5358351,DHH
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related",MESH:C565537,Signal Transduction,REACT:R-HSA-162582,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Activation of SMO,REACT:R-HSA-5635838,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Class B/2 (Secretin family receptors),REACT:R-HSA-373080,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Disease,REACT:R-HSA-1643685,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Diseases of signal transduction,REACT:R-HSA-5663202,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,GPCR ligand binding,REACT:R-HSA-500792,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Hedgehog ligand biogenesis,REACT:R-HSA-5358346,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Hedgehog 'on' state,REACT:R-HSA-5632684,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Hedgehog signaling,KEGG:hsa_M00678,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Hedgehog signaling pathway,KEGG:hsa04340,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,HHAT G278V abrogates palmitoylation of Hh-Np,REACT:R-HSA-5658034,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Hh mutants abrogate ligand secretion,REACT:R-HSA-5387390,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Ligand-receptor interactions,REACT:R-HSA-5632681,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Release of Hh-Np from the secreting cell,REACT:R-HSA-5362798,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Signaling by GPCR,REACT:R-HSA-372790,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Signaling by Hedgehog,REACT:R-HSA-5358351,DHH
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy",MESH:C567773,Signal Transduction,REACT:R-HSA-162582,DHH
+"46,XY SEX REVERSAL 1",OMIM:400044,Deactivation of the beta-catenin transactivating complex,REACT:R-HSA-3769402,SRY
+"46,XY SEX REVERSAL 1",OMIM:400044,Signaling by Wnt,REACT:R-HSA-195721,SRY
+"46,XY SEX REVERSAL 1",OMIM:400044,Signal Transduction,REACT:R-HSA-162582,SRY
+"46,XY SEX REVERSAL 1",OMIM:400044,TCF dependent signaling in response to WNT,REACT:R-HSA-201681,SRY
+"46, XY Sex Reversal 5",MESH:C567766,Cellular responses to stress,REACT:R-HSA-2262752,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,Cellular Senescence,REACT:R-HSA-2559583,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,Metabolism of proteins,REACT:R-HSA-392499,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,Oxidative Stress Induced Senescence,REACT:R-HSA-2559580,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,Post-translational protein modification,REACT:R-HSA-597592,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,SUMO E3 ligases SUMOylate target proteins,REACT:R-HSA-3108232,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,SUMOylation,REACT:R-HSA-2990846,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,SUMOylation of DNA damage response and repair proteins,REACT:R-HSA-3108214,CBX2
+"46, XY Sex Reversal 5",MESH:C567766,SUMOylation of RNA binding proteins,REACT:R-HSA-4570464,CBX2
+"46,XY SEX REVERSAL 6",OMIM:613762,Activated TLR4 signalling,REACT:R-HSA-166054,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Fc epsilon receptor (FCERI) signaling,REACT:R-HSA-2454202,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,FCERI mediated MAPK activation,REACT:R-HSA-2871796,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,GnRH signaling pathway,KEGG:hsa04912,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Hepatitis B,KEGG:hsa05161,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,HTLV-I infection,KEGG:hsa05166,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Immune System,REACT:R-HSA-168256,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Innate Immune System,REACT:R-HSA-168249,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,MAPK (JNK) signaling,KEGG:hsa_M00688,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,MAPK (p38) signaling,KEGG:hsa_M00689,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,MAPK signaling pathway,KEGG:hsa04010,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,MyD88 cascade initiated on plasma membrane,REACT:R-HSA-975871,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,MyD88 dependent cascade initiated on endosome,REACT:R-HSA-975155,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,MyD88:Mal cascade initiated on plasma membrane,REACT:R-HSA-166058,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Neurotrophin signaling pathway,KEGG:hsa04722,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,RIG-I-like receptor signaling pathway,KEGG:hsa04622,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways,REACT:R-HSA-168928,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Tight junction,KEGG:hsa04530,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor 10 (TLR10) Cascade,REACT:R-HSA-168142,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor 2 (TLR2) Cascade,REACT:R-HSA-181438,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor 4 (TLR4) Cascade,REACT:R-HSA-166016,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor 5 (TLR5) Cascade,REACT:R-HSA-168176,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor 7/8 (TLR7/8) Cascade,REACT:R-HSA-168181,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor 9 (TLR9) Cascade,REACT:R-HSA-168138,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll-Like Receptors Cascades,REACT:R-HSA-168898,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor TLR1:TLR2 Cascade,REACT:R-HSA-168179,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Toll Like Receptor TLR6:TLR2 Cascade,REACT:R-HSA-168188,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,REACT:R-HSA-975138,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,TRAF6 mediated NF-kB activation,REACT:R-HSA-933542,MAP3K1
+"46,XY SEX REVERSAL 6",OMIM:613762,Ubiquitin mediated proteolysis,KEGG:hsa04120,MAP3K1
+"46,XY SEX REVERSAL 9",OMIM:616067,Factors involved in megakaryocyte development and platelet production,REACT:R-HSA-983231,ZFPM2
+"46,XY SEX REVERSAL 9",OMIM:616067,Hemostasis,REACT:R-HSA-109582,ZFPM2
+"46,XY SEX REVERSAL 9",OMIM:616067,MicroRNAs in cancer,KEGG:hsa05206,ZFPM2
+5-oxoprolinase deficiency,MESH:C535322,Biological oxidations,REACT:R-HSA-211859,OPLAH
+5-oxoprolinase deficiency,MESH:C535322,Glutathione conjugation,REACT:R-HSA-156590,OPLAH
+5-oxoprolinase deficiency,MESH:C535322,Glutathione metabolism,KEGG:hsa00480,OPLAH
+5-oxoprolinase deficiency,MESH:C535322,Glutathione synthesis and recycling,REACT:R-HSA-174403,OPLAH
+5-oxoprolinase deficiency,MESH:C535322,Metabolism,REACT:R-HSA-1430728,OPLAH
+5-oxoprolinase deficiency,MESH:C535322,Phase II conjugation,REACT:R-HSA-156580,OPLAH
+6-pyruvoyl-tetrahydropterin synthase deficiency,MESH:C535325,eNOS activation and regulation,REACT:R-HSA-203765,PTS
+6-pyruvoyl-tetrahydropterin synthase deficiency,MESH:C535325,Folate biosynthesis,KEGG:hsa00790,PTS
+6-pyruvoyl-tetrahydropterin synthase deficiency,MESH:C535325,Metabolic pathways,KEGG:hsa01100,PTS
+6-pyruvoyl-tetrahydropterin synthase deficiency,MESH:C535325,Metabolism,REACT:R-HSA-1430728,PTS
+6-pyruvoyl-tetrahydropterin synthase deficiency,MESH:C535325,Metabolism of nitric oxide,REACT:R-HSA-202131,PTS
+6-pyruvoyl-tetrahydropterin synthase deficiency,MESH:C535325,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",REACT:R-HSA-1474151,PTS
+Aarskog Syndrome,MESH:C535331,"Cell death signalling via NRAGE, NRIF and NADE",REACT:R-HSA-204998,FGD1
+Aarskog Syndrome,MESH:C535331,G alpha (12/13) signalling events,REACT:R-HSA-416482,FGD1
+Aarskog Syndrome,MESH:C535331,GPCR downstream signaling,REACT:R-HSA-388396,FGD1
+Aarskog Syndrome,MESH:C535331,NRAGE signals death through JNK,REACT:R-HSA-193648,FGD1
+Aarskog Syndrome,MESH:C535331,p75 NTR receptor-mediated signalling,REACT:R-HSA-193704,FGD1
+Aarskog Syndrome,MESH:C535331,Regulation of actin cytoskeleton,KEGG:hsa04810,FGD1
+Aarskog Syndrome,MESH:C535331,Rho GTPase cycle,REACT:R-HSA-194840,FGD1
+Aarskog Syndrome,MESH:C535331,Signaling by GPCR,REACT:R-HSA-372790,FGD1
+Aarskog Syndrome,MESH:C535331,Signaling by Rho GTPases,REACT:R-HSA-194315,FGD1
+Aarskog Syndrome,MESH:C535331,Signalling by NGF,REACT:R-HSA-166520,FGD1
+Aarskog Syndrome,MESH:C535331,Signal Transduction,REACT:R-HSA-162582,FGD1
+ABCD syndrome,MESH:C535334,Calcium signaling pathway,KEGG:hsa04020,EDNRB
+ABCD syndrome,MESH:C535334,cGMP-PKG signaling pathway,KEGG:hsa04022,EDNRB
+ABCD syndrome,MESH:C535334,Class A/1 (Rhodopsin-like receptors),REACT:R-HSA-373076,EDNRB
+ABCD syndrome,MESH:C535334,G alpha (q) signalling events,REACT:R-HSA-416476,EDNRB
+ABCD syndrome,MESH:C535334,Gastrin-CREB signalling pathway via PKC and MAPK,REACT:R-HSA-881907,EDNRB
+ABCD syndrome,MESH:C535334,GPCR downstream signaling,REACT:R-HSA-388396,EDNRB
+ABCD syndrome,MESH:C535334,GPCR ligand binding,REACT:R-HSA-500792,EDNRB
+ABCD syndrome,MESH:C535334,Melanogenesis,KEGG:hsa04916,EDNRB
+ABCD syndrome,MESH:C535334,Neuroactive ligand-receptor interaction,KEGG:hsa04080,EDNRB
+ABCD syndrome,MESH:C535334,Pathways in cancer,KEGG:hsa05200,EDNRB
+ABCD syndrome,MESH:C535334,Peptide ligand-binding receptors,REACT:R-HSA-375276,EDNRB
+ABCD syndrome,MESH:C535334,Signaling by GPCR,REACT:R-HSA-372790,EDNRB
+ABCD syndrome,MESH:C535334,Signal Transduction,REACT:R-HSA-162582,EDNRB
+Abdominal obesity metabolic syndrome,MESH:C535554,Activation of gene expression by SREBF (SREBP),REACT:R-HSA-2426168,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Adipocytokine signaling pathway,KEGG:hsa04920,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,"BMAL1:CLOCK,NPAS2 activates circadian gene expression",REACT:R-HSA-1368108,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,cAMP signaling pathway,KEGG:hsa04024,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Circadian Clock,REACT:R-HSA-400253,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Developmental Biology,REACT:R-HSA-1266738,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,"Fatty acid, triacylglycerol, and ketone body metabolism",REACT:R-HSA-535734,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Gene Expression,REACT:R-HSA-74160,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Generic Transcription Pathway,REACT:R-HSA-212436,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Glucagon signaling pathway,KEGG:hsa04922,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Hepatitis C,KEGG:hsa05160,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Insulin resistance,KEGG:hsa04931,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Metabolism,REACT:R-HSA-1430728,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Metabolism of lipids and lipoproteins,REACT:R-HSA-556833,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Mitochondrial biogenesis,REACT:R-HSA-1592230,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Non-alcoholic fatty liver disease (NAFLD),KEGG:hsa04932,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Nuclear Receptor transcription pathway,REACT:R-HSA-383280,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Organelle biogenesis and maintenance,REACT:R-HSA-1852241,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,PPARA activates gene expression,REACT:R-HSA-1989781,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,PPAR signaling pathway,KEGG:hsa03320,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Regulation of cholesterol biosynthesis by SREBP (SREBF),REACT:R-HSA-1655829,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha),REACT:R-HSA-400206,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,RORA activates gene expression,REACT:R-HSA-1368082,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Transcriptional activation of mitochondrial biogenesis,REACT:R-HSA-2151201,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,Transcriptional regulation of white adipocyte differentiation,REACT:R-HSA-381340,PPARA
+Abdominal obesity metabolic syndrome,MESH:C535554,YAP1- and WWTR1 (TAZ)-stimulated gene expression,REACT:R-HSA-2032785,PPARA
+Abdominal Pain,MESH:D015746,Autoimmune thyroid disease,KEGG:hsa05320,IFNA2
+Abdominal Pain,MESH:D015746,Cytokine-cytokine receptor interaction,KEGG:hsa04060,IFNA2
+Abdominal Pain,MESH:D015746,Cytokine Signaling in Immune system,REACT:R-HSA-1280215,IFNA2
+Abdominal Pain,MESH:D015746,Cytosolic DNA-sensing pathway,KEGG:hsa04623,IFNA2
+Abdominal Pain,MESH:D015746,Factors involved in megakaryocyte development and platelet production,REACT:R-HSA-983231,IFNA2
+Abdominal Pain,MESH:D015746,Hemostasis,REACT:R-HSA-109582,IFNA2
+Abdominal Pain,MESH:D015746,Hepatitis B,KEGG:hsa05161,IFNA2
+Abdominal Pain,MESH:D015746,Hepatitis C,KEGG:hsa05160,IFNA2
+Abdominal Pain,MESH:D015746,Herpes simplex infection,KEGG:hsa05168,IFNA2
+Abdominal Pain,MESH:D015746,Immune System,REACT:R-HSA-168256,IFNA2
+Abdominal Pain,MESH:D015746,Influenza A,KEGG:hsa05164,IFNA2
+Abdominal Pain,MESH:D015746,Innate Immune System,REACT:R-HSA-168249,IFNA2
+Abdominal Pain,MESH:D015746,Interferon alpha/beta signaling,REACT:R-HSA-909733,IFNA2
+Abdominal Pain,MESH:D015746,Interferon Signaling,REACT:R-HSA-913531,IFNA2
+Abdominal Pain,MESH:D015746,Jak-STAT signaling pathway,KEGG:hsa04630,IFNA2
+Abdominal Pain,MESH:D015746,Measles,KEGG:hsa05162,IFNA2
+Abdominal Pain,MESH:D015746,Natural killer cell mediated cytotoxicity,KEGG:hsa04650,IFNA2
+Abdominal Pain,MESH:D015746,NOD-like receptor signaling pathway,KEGG:hsa04621,IFNA2
+Abdominal Pain,MESH:D015746,PI3K-Akt signaling pathway,KEGG:hsa04151,IFNA2
+Abdominal Pain,MESH:D015746,Regulation of IFNA signaling,REACT:R-HSA-912694,IFNA2
+Abdominal Pain,MESH:D015746,RIG-I-like receptor signaling pathway,KEGG:hsa04622,IFNA2
+Abdominal Pain,MESH:D015746,RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways,REACT:R-HSA-168928,IFNA2
+Abdominal Pain,MESH:D015746,Toll-like receptor signaling pathway,KEGG:hsa04620,IFNA2
+Abdominal Pain,MESH:D015746,TRAF6 mediated IRF7 activation,REACT:R-HSA-933541,IFNA2
+Abdominal Pain,MESH:D015746,Tuberculosis,KEGG:hsa05152,IFNA2
+Aberrant Crypt Foci,MESH:D058739,Adherens junction,KEGG:hsa04520,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Adherens junctions interactions,REACT:R-HSA-418990,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,AMER1 mutants destabilize the destruction complex,REACT:R-HSA-4839748,APC
+Aberrant Crypt Foci,MESH:D058739,APC truncation mutants are not K63 polyubiquitinated,REACT:R-HSA-5467333,APC
+Aberrant Crypt Foci,MESH:D058739,APC truncation mutants have impaired AXIN binding,REACT:R-HSA-5467337,APC
+Aberrant Crypt Foci,MESH:D058739,Apoptosis,REACT:R-HSA-109581,APC
+Aberrant Crypt Foci,MESH:D058739,Apoptosis,REACT:R-HSA-109581,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Apoptotic cleavage of cell adhesion  proteins,REACT:R-HSA-351906,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Apoptotic cleavage of cellular proteins,REACT:R-HSA-111465,APC
+Aberrant Crypt Foci,MESH:D058739,Apoptotic cleavage of cellular proteins,REACT:R-HSA-111465,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Apoptotic execution  phase,REACT:R-HSA-75153,APC
+Aberrant Crypt Foci,MESH:D058739,Apoptotic execution  phase,REACT:R-HSA-75153,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG:hsa05412,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,AXIN missense mutants destabilize the destruction complex,REACT:R-HSA-5467340,APC
+Aberrant Crypt Foci,MESH:D058739,"AXIN mutants destabilize the destruction complex, activating WNT signaling",REACT:R-HSA-4839735,APC
+Aberrant Crypt Foci,MESH:D058739,Bacterial invasion of epithelial cells,KEGG:hsa05100,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Basal cell carcinoma,KEGG:hsa05217,APC
+Aberrant Crypt Foci,MESH:D058739,Basal cell carcinoma,KEGG:hsa05217,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Beta-catenin independent WNT signaling,REACT:R-HSA-3858494,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Beta-catenin phosphorylation cascade,REACT:R-HSA-196299,APC
+Aberrant Crypt Foci,MESH:D058739,Beta-catenin phosphorylation cascade,REACT:R-HSA-196299,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Binding of TCF/LEF:CTNNB1 to target gene promoters,REACT:R-HSA-4411364,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Breast cancer,KEGG:hsa05224,APC
+Aberrant Crypt Foci,MESH:D058739,Breast cancer,KEGG:hsa05224,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Ca2+ pathway,REACT:R-HSA-4086398,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,CDO in myogenesis,REACT:R-HSA-375170,CTNNB1
+Aberrant Crypt Foci,MESH:D058739,Cell-Cell communication,REACT:R-HSA-1500931,CTNNB1

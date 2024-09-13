@@ -1,0 +1,501 @@
+ChemicalName,ChemicalID,Ontology,GOTermName,GOTermID,HighestGOLevel,PValue,CorrectedPValue,TargetMatchQty,TargetTotalQty,BackgroundMatchQty,BackgroundTotalQty
+10074-G5,C534883,,Biological Process,negative regulation of cellular metabolic process,GO:0031324,3,4.82e-06,0.00511,4,4,2126
+10074-G5,C534883,,Biological Process,negative regulation of nitrogen compound metabolic process,GO:0051172,3,5.08e-06,0.00539,4,4,2154
+10074-G5,C534883,,Biological Process,positive regulation of miRNA transcription,GO:1902895,6,8.98e-06,0.00951,2,4,56
+10074-G5,C534883,,Cellular Component,Myc-Max complex,GO:0071943,4,5.84e-09,6.19e-06,2,4,2
+10074-G5,C534883,,Cellular Component,RNA polymerase II transcription repressor complex,GO:0090571,3,4.55e-07,0.000482,2,4,13
+10074-G5,C534883,,Molecular Function,cis-regulatory region sequence-specific DNA binding,GO:0000987,6,3.29e-06,0.00349,3,4,427
+10074-G5,C534883,,Molecular Function,DNA-binding transcription factor binding,GO:0140297,4,4.28e-06,0.00454,3,4,466
+10074-G5,C534883,,Molecular Function,E-box binding,GO:0070888,8,6.58e-06,0.00697,2,4,48
+10074-G5,C534883,,Molecular Function,RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,7,2.63e-06,0.00279,3,4,396
+10074-G5,C534883,,Molecular Function,RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,6,5.38e-06,0.00571,3,4,503
+10074-G5,C534883,,Molecular Function,transcription factor binding,GO:0008134,3,7.59e-06,0.00804,3,4,564
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Biological Process,behavior,GO:0007610,2,1.14e-05,0.00778,3,4,647
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Biological Process,cellular response to calcium ion,GO:0071277,6,1.33e-05,0.00902,2,4,68
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Biological Process,nervous system development,GO:0007399,4,6.59e-06,0.00448,4,4,2299
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Biological Process,potassium ion transmembrane transport,GO:0071805,5,1.89e-07,0.000128,3,4,165
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Biological Process,potassium ion transport,GO:0006813,7,4.25e-07,0.000289,3,4,216
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Biological Process,response to mechanical stimulus,GO:0009612,3,3.96e-07,0.000269,3,4,211
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Biological Process,response to xenobiotic stimulus,GO:0009410,3,3.58e-06,0.00243,3,4,439
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,axon initial segment,GO:0043194,2,9.98e-07,0.000678,2,4,19
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,cation channel complex,GO:0034703,5,1.69e-07,0.000115,3,4,159
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,ion channel complex,GO:0034702,4,9.99e-07,0.00068,3,4,287
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,main axon,GO:0044304,2,1.17e-05,0.00799,2,4,64
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,node of Ranvier,GO:0033268,2,7e-07,0.000476,2,4,16
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,plasma membrane protein complex,GO:0098797,3,8.86e-06,0.00603,3,4,594
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,potassium channel complex,GO:0034705,6,2.11e-08,1.44e-05,3,4,80
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,transmembrane transporter complex,GO:1902495,3,2.4e-06,0.00163,3,4,384
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,transporter complex,GO:1990351,2,2.87e-06,0.00195,3,4,408
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cellular Component,voltage-gated potassium channel complex,GO:0008076,4,1.67e-08,1.13e-05,3,4,74
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,calmodulin binding,GO:0005516,3,2.37e-07,0.000161,3,4,178
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,channel activity,GO:0015267,4,3.2e-06,0.00218,3,4,423
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,gated channel activity,GO:0022836,5,5.62e-07,0.000382,3,4,237
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,inorganic cation transmembrane transporter activity,GO:0022890,4,5.48e-06,0.00373,3,4,506
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,inorganic molecular entity transmembrane transporter activity,GO:0015318,3,9.74e-06,0.00662,3,4,613
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,metal ion transmembrane transporter activity,GO:0046873,5,2.63e-06,0.00179,3,4,396
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,monoatomic cation channel activity,GO:0005261,5,8.98e-07,0.000611,3,4,277
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,monoatomic cation transmembrane transporter activity,GO:0008324,4,6.41e-06,0.00436,3,4,533
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,monoatomic ion channel activity,GO:0005216,4,2.25e-06,0.00153,3,4,376
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,monoatomic ion gated channel activity,GO:0022839,5,5.48e-07,0.000372,3,4,235
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,monoatomic ion transmembrane transporter activity,GO:0015075,3,1.12e-05,0.00761,3,4,642
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,passive transmembrane transporter activity,GO:0022803,3,3.23e-06,0.00219,3,4,424
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,potassium channel activity,GO:0005267,6,4.55e-08,3.09e-05,3,4,103
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,potassium ion transmembrane transporter activity,GO:0015079,6,8.77e-08,5.97e-05,3,4,128
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,voltage-gated channel activity,GO:0022832,6,9.19e-08,6.25e-05,3,4,130
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,voltage-gated monoatomic cation channel activity,GO:0022843,6,5.1e-08,3.47e-05,3,4,107
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,voltage-gated monoatomic ion channel activity,GO:0005244,6,8.98e-08,6.11e-05,3,4,129
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Molecular Function,voltage-gated potassium channel activity,GO:0005249,7,1.41e-08,9.57e-06,3,4,70
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Biological Process,cellular response to xenobiotic stimulus,GO:0071466,4,1.66e-05,0.00373,2,2,185
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Biological Process,xenobiotic metabolic process,GO:0006805,3,6.49e-06,0.00146,2,2,116
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Biological Process,execution phase of apoptosis,GO:0097194,2,2.49e-06,0.00133,2,2,72
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Biological Process,pyroptosis,GO:0070269,4,5.79e-07,0.000309,2,2,35
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Biological Process,response to cobalt ion,GO:0032025,5,4.38e-08,2.33e-05,2,2,10
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Biological Process,response to estradiol,GO:0032355,4,6.27e-06,0.00334,2,2,114
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Molecular Function,cysteine-type endopeptidase activity,GO:0004197,5,2.22e-06,0.00118,2,2,68
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Molecular Function,cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,6,2.72e-08,1.45e-05,2,2,8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Molecular Function,cysteine-type endopeptidase activity involved in apoptotic signaling pathway,GO:0097199,7,5.84e-09,3.11e-06,2,2,4
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Molecular Function,cysteine-type peptidase activity,GO:0008234,4,1.15e-05,0.00611,2,2,154
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Molecular Function,death receptor binding,GO:0005123,6,1.02e-07,5.44e-05,2,2,15
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Molecular Function,tumor necrosis factor receptor superfamily binding,GO:0032813,5,9.63e-07,0.000513,2,2,45
+103D5R,C496879,,Biological Process,anatomical structure formation involved in morphogenesis,GO:0048646,2,2.66e-07,0.000543,5,7,1207
+103D5R,C496879,,Biological Process,animal organ development,GO:0048513,3,4.4e-07,0.000896,6,7,2888
+103D5R,C496879,,Biological Process,apoptotic process,GO:0006915,4,3.67e-08,7.48e-05,6,7,1904
+103D5R,C496879,,Biological Process,autophagy,GO:0006914,3,7.39e-07,0.00151,4,7,552
+103D5R,C496879,,Biological Process,axon ensheathment,GO:0008366,3,1.21e-06,0.00246,3,7,149
+103D5R,C496879,,Biological Process,Bergmann glial cell differentiation,GO:0060020,6,1.12e-06,0.00229,2,7,11
+103D5R,C496879,,Biological Process,biological process involved in interspecies interaction between organisms,GO:0044419,1,1.16e-06,0.00236,5,7,1624
+103D5R,C496879,,Biological Process,blood vessel development,GO:0001568,3,3.1e-06,0.00632,4,7,792
+103D5R,C496879,,Biological Process,blood vessel endothelial cell migration,GO:0043534,6,2.24e-06,0.00456,3,7,183
+103D5R,C496879,,Biological Process,cardiac neural crest cell development involved in heart development,GO:0061308,6,2.14e-06,0.00437,2,7,15
+103D5R,C496879,,Biological Process,cardiac neural crest cell differentiation involved in heart development,GO:0061307,5,2.14e-06,0.00437,2,7,15
+103D5R,C496879,,Biological Process,cardiocyte differentiation,GO:0035051,4,1.47e-06,0.00299,3,7,159
+103D5R,C496879,,Biological Process,caveolin-mediated endocytosis,GO:0072584,6,1.12e-06,0.00229,2,7,11
+103D5R,C496879,,Biological Process,cell communication,GO:0007154,2,7.36e-07,0.0015,7,7,6033
+103D5R,C496879,,Biological Process,cell death,GO:0008219,2,4.7e-08,9.57e-05,6,7,1984
+103D5R,C496879,,Biological Process,cell migration,GO:0016477,3,7.15e-07,0.00146,5,7,1473
+103D5R,C496879,,Biological Process,cell motility,GO:0048870,2,1.31e-06,0.00267,5,7,1665
+103D5R,C496879,,Biological Process,cell population proliferation,GO:0008283,2,3.45e-06,0.00703,5,7,2026
+103D5R,C496879,,Biological Process,cell surface receptor signaling pathway,GO:0007166,3,2.38e-07,0.000485,6,7,2605
+103D5R,C496879,,Biological Process,cellular component organization,GO:0016043,3,5.09e-07,0.00104,7,7,5723
+103D5R,C496879,,Biological Process,cellular component organization or biogenesis,GO:0071840,2,6.28e-07,0.00128,7,7,5897
+103D5R,C496879,,Biological Process,cellular response to amino acid starvation,GO:0034198,5,4.96e-08,0.000101,3,7,52
+103D5R,C496879,,Biological Process,cellular response to biotic stimulus,GO:0071216,3,2.19e-08,4.47e-05,4,7,229
+103D5R,C496879,,Biological Process,cellular response to cadmium ion,GO:0071276,6,6.25e-12,1.27e-08,4,7,31
+103D5R,C496879,,Biological Process,cellular response to chemical stimulus,GO:0070887,3,1.98e-09,4.02e-06,7,7,2591
+103D5R,C496879,,Biological Process,cellular response to chemical stress,GO:0062197,4,1.27e-12,2.59e-09,6,7,344
+103D5R,C496879,,Biological Process,cellular response to cytokine stimulus,GO:0071345,5,3.39e-06,0.00691,4,7,810
+103D5R,C496879,,Biological Process,cellular response to decreased oxygen levels,GO:0036294,5,1.41e-06,0.00287,3,7,157
+103D5R,C496879,,Biological Process,cellular response to endogenous stimulus,GO:0071495,3,6.3e-07,0.00128,5,7,1436
+103D5R,C496879,,Biological Process,cellular response to external stimulus,GO:0071496,3,7.29e-08,0.000148,4,7,309
+103D5R,C496879,,Biological Process,cellular response to extracellular stimulus,GO:0031668,3,2.78e-08,5.67e-05,4,7,243
+103D5R,C496879,,Biological Process,cellular response to growth factor stimulus,GO:0071363,4,2.16e-06,0.0044,4,7,723
+103D5R,C496879,,Biological Process,cellular response to inorganic substance,GO:0071241,4,1.38e-08,2.81e-05,4,7,204
+103D5R,C496879,,Biological Process,cellular response to insulin stimulus,GO:0032869,6,2.79e-06,0.00569,3,7,197
+103D5R,C496879,,Biological Process,cellular response to lipid,GO:0071396,5,8.51e-07,0.00173,4,7,572
+103D5R,C496879,,Biological Process,cellular response to lipopolysaccharide,GO:0071222,5,1.08e-08,2.2e-05,4,7,192
+103D5R,C496879,,Biological Process,cellular response to mechanical stimulus,GO:0071260,4,1.34e-07,0.000272,3,7,72
+103D5R,C496879,,Biological Process,cellular response to metal ion,GO:0071248,5,7.96e-09,1.62e-05,4,7,178
+103D5R,C496879,,Biological Process,cellular response to molecule of bacterial origin,GO:0071219,4,1.35e-08,2.75e-05,4,7,203
+103D5R,C496879,,Biological Process,cellular response to nutrient levels,GO:0031669,4,2.27e-08,4.62e-05,4,7,231
+103D5R,C496879,,Biological Process,cellular response to organic substance,GO:0071310,4,2.46e-06,0.00501,5,7,1891
+103D5R,C496879,,Biological Process,cellular response to oxidative stress,GO:0034599,4,1.77e-10,3.6e-07,5,7,279
+103D5R,C496879,,Biological Process,cellular response to oxygen-containing compound,GO:1901701,4,2.1e-07,0.000429,5,7,1151
+103D5R,C496879,,Biological Process,cellular response to oxygen levels,GO:0071453,4,1.86e-06,0.00378,3,7,172
+103D5R,C496879,,Biological Process,cellular response to reactive oxygen species,GO:0034614,5,4e-09,8.14e-06,4,7,150
+103D5R,C496879,,Biological Process,cellular response to starvation,GO:0009267,4,5.59e-09,1.14e-05,4,7,163
+103D5R,C496879,,Biological Process,cellular response to stimulus,GO:0051716,2,1.96e-06,0.00399,7,7,6938
+103D5R,C496879,,Biological Process,cellular response to stress,GO:0033554,3,2.16e-10,4.41e-07,7,7,1890
+103D5R,C496879,,Biological Process,cellular response to tumor necrosis factor,GO:0071356,6,3.68e-06,0.0075,3,7,216
+103D5R,C496879,,Biological Process,chemical homeostasis,GO:0048878,2,7.81e-08,0.000159,5,7,943
+103D5R,C496879,,Biological Process,chordate embryonic development,GO:0043009,5,1.31e-06,0.00268,4,7,638
+103D5R,C496879,,Biological Process,circulatory system development,GO:0072359,4,2.46e-07,0.000501,5,7,1188
+103D5R,C496879,,Biological Process,embryo development,GO:0009790,3,1.62e-07,0.00033,5,7,1092
+103D5R,C496879,,Biological Process,embryo development ending in birth or egg hatching,GO:0009792,4,1.49e-06,0.00305,4,7,659
+103D5R,C496879,,Biological Process,embryonic organ development,GO:0048568,4,1.5e-09,3.05e-06,5,7,427
+103D5R,C496879,,Biological Process,embryonic placenta development,GO:0001892,5,2.38e-07,0.000484,3,7,87
+103D5R,C496879,,Biological Process,endocrine system development,GO:0035270,4,8.96e-07,0.00182,3,7,135
+103D5R,C496879,,Biological Process,endothelial cell proliferation,GO:0001935,4,2.71e-06,0.00551,3,7,195
+103D5R,C496879,,Biological Process,ensheathment of neurons,GO:0007272,2,1.21e-06,0.00246,3,7,149
+103D5R,C496879,,Biological Process,enzyme-linked receptor protein signaling pathway,GO:0007167,4,7.57e-08,0.000154,5,7,937
+103D5R,C496879,,Biological Process,epithelial cell development,GO:0002064,4,3.48e-06,0.00709,3,7,212
+103D5R,C496879,,Biological Process,epithelial cell proliferation,GO:0050673,3,4.13e-07,0.000841,4,7,477
+103D5R,C496879,,Biological Process,ERBB2-ERBB3 signaling pathway,GO:0038133,8,7.35e-07,0.0015,2,7,9
+103D5R,C496879,,Biological Process,ERBB3 signaling pathway,GO:0038129,7,9.19e-07,0.00187,2,7,10
+103D5R,C496879,,Biological Process,ERBB signaling pathway,GO:0038127,6,6.76e-07,0.00138,3,7,123
+103D5R,C496879,,Biological Process,establishment of localization,GO:0051234,2,4.76e-06,0.00969,6,7,4314
+103D5R,C496879,,Biological Process,fatty acid transmembrane transport,GO:1902001,5,2.14e-06,0.00437,2,7,15
+103D5R,C496879,,Biological Process,female pregnancy,GO:0007565,3,2.31e-06,0.00471,3,7,185
+103D5R,C496879,,Biological Process,gland development,GO:0048732,4,1.66e-09,3.38e-06,5,7,436
+103D5R,C496879,,Biological Process,glial cell development,GO:0021782,4,7.63e-07,0.00155,3,7,128
+103D5R,C496879,,Biological Process,Golgi inheritance,GO:0048313,6,1.86e-06,0.00378,2,7,14
+103D5R,C496879,,Biological Process,head development,GO:0060322,3,1.92e-06,0.00391,4,7,702
+103D5R,C496879,,Biological Process,heart development,GO:0007507,4,9.44e-07,0.00192,4,7,587
+103D5R,C496879,,Biological Process,homeostatic process,GO:0042592,1,6.64e-11,1.35e-07,7,7,1597
+103D5R,C496879,,Biological Process,immune system process,GO:0002376,1,2.5e-07,0.00051,6,7,2627
+103D5R,C496879,,Biological Process,insulin-like growth factor receptor signaling pathway,GO:0048009,6,4.14e-08,8.43e-05,3,7,49
+103D5R,C496879,,Biological Process,insulin receptor signaling pathway,GO:0008286,6,6.28e-07,0.00128,3,7,120
+103D5R,C496879,,Biological Process,intracellular signal transduction,GO:0035556,3,1.6e-07,0.000325,6,7,2436
+103D5R,C496879,,Biological Process,in utero embryonic development,GO:0001701,6,2.05e-07,0.000417,4,7,400
+103D5R,C496879,,Biological Process,labyrinthine layer blood vessel development,GO:0060716,4,3.88e-06,0.0079,2,7,20
+103D5R,C496879,,Biological Process,leukocyte migration,GO:0050900,2,1.45e-07,0.000295,4,7,367
+103D5R,C496879,,Biological Process,lipid import into cell,GO:0140354,5,3.12e-06,0.00636,2,7,18
+103D5R,C496879,,Biological Process,lipopolysaccharide-mediated signaling pathway,GO:0031663,4,5.89e-08,0.00012,3,7,55
+103D5R,C496879,,Biological Process,localization,GO:0051179,1,1.73e-07,0.000353,7,7,4907
+103D5R,C496879,,Biological Process,locomotion,GO:0040011,1,5.27e-07,0.00107,5,7,1385
+103D5R,C496879,,Biological Process,long-chain fatty acid import across plasma membrane,GO:0015911,4,7.35e-07,0.0015,2,7,9
+103D5R,C496879,,Biological Process,long-chain fatty acid import into cell,GO:0044539,6,2.45e-06,0.00499,2,7,16
+103D5R,C496879,,Biological Process,lung development,GO:0030324,4,2.79e-06,0.00569,3,7,197
+103D5R,C496879,,Biological Process,macroautophagy,GO:0016236,4,9.6e-08,0.000195,4,7,331
+103D5R,C496879,,Biological Process,macromolecule modification,GO:0043412,4,3.19e-07,0.00065,6,7,2736
+103D5R,C496879,,Biological Process,macrophage proliferation,GO:0061517,4,1.59e-06,0.00324,2,7,13
+103D5R,C496879,,Biological Process,mammary gland alveolus development,GO:0060749,3,3.49e-06,0.00711,2,7,19
+103D5R,C496879,,Biological Process,mammary gland development,GO:0030879,5,2.69e-09,5.48e-06,4,7,136
+103D5R,C496879,,Biological Process,mammary gland epithelial cell differentiation,GO:0060644,5,2.78e-06,0.00565,2,7,17
+103D5R,C496879,,Biological Process,mammary gland epithelium development,GO:0061180,5,1.18e-07,0.000239,3,7,69
+103D5R,C496879,,Biological Process,mammary gland lobule development,GO:0061377,3,3.49e-06,0.00711,2,7,19
+103D5R,C496879,,Biological Process,MAPK cascade,GO:0000165,4,2.06e-06,0.00419,4,7,714
+103D5R,C496879,,Biological Process,mesenchymal cell differentiation,GO:0048762,4,3.22e-08,6.56e-05,4,7,252
+103D5R,C496879,,Biological Process,mesenchyme development,GO:0060485,4,8.28e-08,0.000169,4,7,319
+103D5R,C496879,,Biological Process,mononuclear cell migration,GO:0071674,3,2.54e-06,0.00518,3,7,191
+103D5R,C496879,,Biological Process,multicellular organismal homeostasis,GO:0048871,2,2.88e-08,5.88e-05,5,7,772
+103D5R,C496879,,Biological Process,multicellular organismal process,GO:0032501,1,2.76e-06,0.00562,7,7,7286
+103D5R,C496879,,Biological Process,multi-multicellular organism process,GO:0044706,2,3.58e-06,0.00729,3,7,214
+103D5R,C496879,,Biological Process,multi-organism reproductive process,GO:0044703,2,3.24e-06,0.0066,3,7,207
+103D5R,C496879,,Biological Process,myelination,GO:0042552,4,1.09e-06,0.00222,3,7,144
+103D5R,C496879,,Biological Process,negative regulation of apoptotic process,GO:0043066,5,4.65e-06,0.00946,4,7,877
+103D5R,C496879,,Biological Process,nervous system development,GO:0007399,4,1.13e-07,0.00023,6,7,2299
+103D5R,C496879,,Biological Process,neural crest cell development,GO:0014032,5,8.08e-08,0.000165,3,7,61
+103D5R,C496879,,Biological Process,neural crest cell differentiation,GO:0014033,5,1.45e-07,0.000296,3,7,74
+103D5R,C496879,,Biological Process,neurogenesis,GO:0022008,4,9.47e-07,0.00193,5,7,1559
+103D5R,C496879,,Biological Process,organelle inheritance,GO:0048308,5,1.86e-06,0.00378,2,7,14
+103D5R,C496879,,Biological Process,ossification,GO:0001503,2,1.12e-09,2.28e-06,5,7,403
+103D5R,C496879,,Biological Process,outer ear morphogenesis,GO:0042473,4,7.35e-07,0.0015,2,7,9
+103D5R,C496879,,Biological Process,peptidyl-amino acid modification,GO:0018193,5,1.45e-08,2.96e-05,5,7,673
+103D5R,C496879,,Biological Process,peptidyl-serine modification,GO:0018209,6,2.5e-06,0.0051,3,7,190
+103D5R,C496879,,Biological Process,peptidyl-serine phosphorylation,GO:0018105,6,2.06e-06,0.00419,3,7,178
+103D5R,C496879,,Biological Process,peptidyl-threonine modification,GO:0018210,6,2.81e-07,0.000573,3,7,92
+103D5R,C496879,,Biological Process,peptidyl-threonine phosphorylation,GO:0018107,6,2.06e-07,0.000419,3,7,83
+103D5R,C496879,,Biological Process,peripheral nervous system development,GO:0007422,4,1.91e-07,0.00039,3,7,81
+103D5R,C496879,,Biological Process,phosphate-containing compound metabolic process,GO:0006796,4,7.95e-08,0.000162,6,7,2167
+103D5R,C496879,,Biological Process,phosphorus metabolic process,GO:0006793,3,8.56e-08,0.000174,6,7,2194
+103D5R,C496879,,Biological Process,phosphorylation,GO:0016310,5,3.26e-09,6.65e-06,6,7,1270
+103D5R,C496879,,Biological Process,placenta development,GO:0001890,4,1.21e-06,0.00246,3,7,149
+103D5R,C496879,,Biological Process,positive regulation of biosynthetic process,GO:0009891,3,2.77e-06,0.00564,5,7,1937
+103D5R,C496879,,Biological Process,positive regulation of blood vessel endothelial cell migration,GO:0043536,6,1.71e-07,0.000347,3,7,78
+103D5R,C496879,,Biological Process,positive regulation of catalytic activity,GO:0043085,4,1.55e-08,3.17e-05,5,7,682
+103D5R,C496879,,Biological Process,positive regulation of cell communication,GO:0010647,3,1.26e-06,0.00256,5,7,1651
+103D5R,C496879,,Biological Process,positive regulation of cell migration,GO:0030335,4,5.41e-09,1.1e-05,5,7,552
+103D5R,C496879,,Biological Process,positive regulation of cell motility,GO:2000147,3,6.98e-09,1.42e-05,5,7,581
+103D5R,C496879,,Biological Process,positive regulation of cell population proliferation,GO:0008284,3,8.72e-08,0.000178,5,7,964
+103D5R,C496879,,Biological Process,positive regulation of cellular biosynthetic process,GO:0031328,4,2.48e-06,0.00504,5,7,1894
+103D5R,C496879,,Biological Process,positive regulation of cellular component organization,GO:0051130,3,1.17e-07,0.000239,5,7,1023
+103D5R,C496879,,Biological Process,positive regulation of chemotaxis,GO:0050921,3,9.16e-07,0.00187,3,7,136
+103D5R,C496879,,Biological Process,positive regulation of endothelial cell migration,GO:0010595,5,8.37e-07,0.0017,3,7,132
+103D5R,C496879,,Biological Process,positive regulation of endothelial cell proliferation,GO:0001938,5,4.2e-07,0.000855,3,7,105
+103D5R,C496879,,Biological Process,positive regulation of epithelial cell migration,GO:0010634,4,2.02e-06,0.00412,3,7,177
+103D5R,C496879,,Biological Process,positive regulation of epithelial cell proliferation,GO:0050679,4,3.63e-06,0.00739,3,7,215
+103D5R,C496879,,Biological Process,positive regulation of leukocyte migration,GO:0002687,3,1.04e-06,0.00212,3,7,142
+103D5R,C496879,,Biological Process,positive regulation of locomotion,GO:0040017,2,7.8e-09,1.59e-05,5,7,594
+103D5R,C496879,,Biological Process,positive regulation of macromolecule biosynthetic process,GO:0010557,4,1.91e-06,0.00388,5,7,1796
+103D5R,C496879,,Biological Process,positive regulation of macromolecule metabolic process,GO:0010604,3,9.41e-07,0.00192,6,7,3282
+103D5R,C496879,,Biological Process,positive regulation of macrophage chemotaxis,GO:0010759,5,3.49e-06,0.00711,2,7,19
+103D5R,C496879,,Biological Process,positive regulation of macrophage proliferation,GO:0120041,5,3.06e-07,0.000624,2,7,6
+103D5R,C496879,,Biological Process,positive regulation of metabolic process,GO:0009893,2,1.56e-06,0.00318,6,7,3575
+103D5R,C496879,,Biological Process,positive regulation of molecular function,GO:0044093,3,1.02e-07,0.000208,5,7,995
+103D5R,C496879,,Biological Process,positive regulation of nitric-oxide synthase activity,GO:0051000,7,1.86e-06,0.00378,2,7,14
+103D5R,C496879,,Biological Process,positive regulation of nitrogen compound metabolic process,GO:0051173,3,4.16e-07,0.000847,6,7,2861
+103D5R,C496879,,Biological Process,positive regulation of nucleobase-containing compound metabolic process,GO:0045935,4,3.35e-06,0.00683,5,7,2014
+103D5R,C496879,,Biological Process,positive regulation of response to external stimulus,GO:0032103,3,1.09e-06,0.00223,4,7,609
+103D5R,C496879,,Biological Process,positive regulation of response to stimulus,GO:0048584,2,4.85e-06,0.00988,5,7,2171
+103D5R,C496879,,Biological Process,positive regulation of signaling,GO:0023056,2,1.26e-06,0.00258,5,7,1653
+103D5R,C496879,,Biological Process,positive regulation of telomere capping,GO:1904355,6,2.78e-06,0.00565,2,7,17
+103D5R,C496879,,Biological Process,process utilizing autophagic mechanism,GO:0061919,2,7.39e-07,0.00151,4,7,552
+103D5R,C496879,,Biological Process,programmed cell death,GO:0012501,3,4.64e-08,9.45e-05,6,7,1980
+103D5R,C496879,,Biological Process,protein metabolic process,GO:0019538,3,4.83e-06,0.00983,6,7,4325
+103D5R,C496879,,Biological Process,protein modification process,GO:0036211,4,2.14e-07,0.000436,6,7,2559
+103D5R,C496879,,Biological Process,protein phosphorylation,GO:0006468,5,1.76e-07,0.000358,5,7,1110
+103D5R,C496879,,Biological Process,regulation of autophagy,GO:0010506,4,1.01e-07,0.000205,4,7,335
+103D5R,C496879,,Biological Process,regulation of blood vessel endothelial cell migration,GO:0043535,5,1.38e-06,0.00282,3,7,156
+103D5R,C496879,,Biological Process,regulation of catalytic activity,GO:0050790,3,1.43e-09,2.9e-06,6,7,1106
+103D5R,C496879,,Biological Process,regulation of cell migration,GO:0030334,4,1.04e-07,0.000211,5,7,998
+103D5R,C496879,,Biological Process,regulation of cell motility,GO:2000145,3,1.39e-07,0.000283,5,7,1059
+103D5R,C496879,,Biological Process,regulation of cell population proliferation,GO:0042127,3,1.59e-06,0.00324,5,7,1731
+103D5R,C496879,,Biological Process,regulation of cellular catabolic process,GO:0031329,4,4.05e-06,0.00824,4,7,847
+103D5R,C496879,,Biological Process,regulation of cellular component organization,GO:0051128,3,1.06e-07,0.000215,6,7,2273
+103D5R,C496879,,Biological Process,regulation of cellular localization,GO:0060341,3,7.53e-08,0.000153,5,7,936
+103D5R,C496879,,Biological Process,regulation of cellular response to stress,GO:0080135,3,1.64e-08,3.33e-05,5,7,689
+103D5R,C496879,,Biological Process,regulation of chemotaxis,GO:0050920,3,3.1e-06,0.00631,3,7,204
+103D5R,C496879,,Biological Process,regulation of early endosome to late endosome transport,GO:2000641,4,3.12e-06,0.00636,2,7,18
+103D5R,C496879,,Biological Process,regulation of endothelial cell migration,GO:0010594,4,4.68e-06,0.00953,3,7,234
+103D5R,C496879,,Biological Process,regulation of endothelial cell proliferation,GO:0001936,5,1.89e-06,0.00385,3,7,173
+103D5R,C496879,,Biological Process,regulation of Golgi inheritance,GO:0090170,6,1.23e-07,0.00025,2,7,4
+103D5R,C496879,,Biological Process,regulation of Golgi organization,GO:1903358,5,2.14e-06,0.00437,2,7,15
+103D5R,C496879,,Biological Process,regulation of immune system process,GO:0002682,2,7.55e-09,1.54e-05,6,7,1461
+103D5R,C496879,,Biological Process,regulation of intracellular signal transduction,GO:1902531,4,1.4e-06,0.00285,5,7,1687
+103D5R,C496879,,Biological Process,regulation of leukocyte migration,GO:0002685,3,1.97e-08,4.01e-05,4,7,223
+103D5R,C496879,,Biological Process,regulation of localization,GO:0032879,2,3.64e-08,7.41e-05,6,7,1901
+103D5R,C496879,,Biological Process,regulation of locomotion,GO:0040012,2,1.7e-07,0.000345,5,7,1102
+103D5R,C496879,,Biological Process,regulation of macroautophagy,GO:0016241,5,7.61e-09,1.55e-05,4,7,176
+103D5R,C496879,,Biological Process,regulation of macrophage proliferation,GO:0120040,5,4.29e-07,0.000874,2,7,7
+103D5R,C496879,,Biological Process,regulation of molecular function,GO:0065009,2,1.79e-08,3.64e-05,6,7,1688
+103D5R,C496879,,Biological Process,regulation of mononuclear cell migration,GO:0071675,4,6.6e-07,0.00134,3,7,122
+103D5R,C496879,,Biological Process,regulation of ossification,GO:0030278,3,6.28e-07,0.00128,3,7,120
+103D5R,C496879,,Biological Process,regulation of protein metabolic process,GO:0051246,4,4.29e-06,0.00873,5,7,2117
+103D5R,C496879,,Biological Process,regulation of response to stimulus,GO:0048583,2,2.4e-06,0.00489,6,7,3843
+103D5R,C496879,,Biological Process,regulation of response to stress,GO:0080134,3,7.77e-07,0.00158,5,7,1498
+103D5R,C496879,,Biological Process,regulation of stress-activated MAPK cascade,GO:0032872,5,2.31e-06,0.00471,3,7,185
+103D5R,C496879,,Biological Process,regulation of stress-activated protein kinase signaling cascade,GO:0070302,4,2.35e-06,0.00478,3,7,186
+103D5R,C496879,,Biological Process,regulation of TOR signaling,GO:0032006,5,1.11e-06,0.00226,3,7,145
+103D5R,C496879,,Biological Process,regulation of transcription by RNA polymerase II,GO:0006357,6,2.28e-06,0.00465,5,7,1863
+103D5R,C496879,,Biological Process,regulation of transport,GO:0051049,3,9.83e-07,0.002,5,7,1571
+103D5R,C496879,,Biological Process,respiratory system development,GO:0060541,4,4.1e-06,0.00836,3,7,224
+103D5R,C496879,,Biological Process,respiratory tube development,GO:0030323,4,2.97e-06,0.00604,3,7,201
+103D5R,C496879,,Biological Process,response to abiotic stimulus,GO:0009628,2,1.47e-09,3e-06,6,7,1112
+103D5R,C496879,,Biological Process,response to amino acid starvation,GO:1990928,4,5.89e-08,0.00012,3,7,55
+103D5R,C496879,,Biological Process,response to bacterium,GO:0009617,3,1.44e-06,0.00294,4,7,653
+103D5R,C496879,,Biological Process,response to biotic stimulus,GO:0009607,2,7.59e-07,0.00155,5,7,1491
+103D5R,C496879,,Biological Process,response to cadmium ion,GO:0046686,5,6.27e-11,1.28e-07,4,7,54
+103D5R,C496879,,Biological Process,response to chemical,GO:0042221,2,3.14e-08,6.4e-05,7,7,3846
+103D5R,C496879,,Biological Process,response to decreased oxygen levels,GO:0036293,4,8.49e-08,0.000173,4,7,321
+103D5R,C496879,,Biological Process,response to endogenous stimulus,GO:0009719,2,1.35e-06,0.00274,5,7,1674
+103D5R,C496879,,Biological Process,response to epidermal growth factor,GO:0070849,4,3.64e-08,7.42e-05,3,7,47
+103D5R,C496879,,Biological Process,response to external biotic stimulus,GO:0043207,3,6.66e-07,0.00136,5,7,1452
+103D5R,C496879,,Biological Process,response to external stimulus,GO:0009605,2,2.73e-09,5.55e-06,7,7,2713
+103D5R,C496879,,Biological Process,response to extracellular stimulus,GO:0009991,3,2.74e-09,5.59e-06,5,7,482
+103D5R,C496879,,Biological Process,response to growth factor,GO:0070848,3,2.58e-08,5.26e-05,5,7,755
+103D5R,C496879,,Biological Process,response to inorganic substance,GO:0010035,3,3.23e-09,6.58e-06,5,7,498
+103D5R,C496879,,Biological Process,response to lipid,GO:0033993,4,4.77e-06,0.00972,4,7,883
+103D5R,C496879,,Biological Process,response to lipopolysaccharide,GO:0032496,4,7.77e-08,0.000158,4,7,314
+103D5R,C496879,,Biological Process,response to mechanical stimulus,GO:0009612,3,3.43e-06,0.00699,3,7,211
+103D5R,C496879,,Biological Process,response to metal ion,GO:0010038,4,4.11e-10,8.38e-07,5,7,330
+103D5R,C496879,,Biological Process,response to molecule of bacterial origin,GO:0002237,4,9.95e-08,0.000203,4,7,334
+103D5R,C496879,,Biological Process,response to nutrient levels,GO:0031667,4,2.45e-09,4.98e-06,5,7,471
+103D5R,C496879,,Biological Process,response to organic substance,GO:0010033,3,2.08e-07,0.000423,6,7,2546
+103D5R,C496879,,Biological Process,response to other organism,GO:0051707,2,6.59e-07,0.00134,5,7,1449
+103D5R,C496879,,Biological Process,response to oxidative stress,GO:0006979,3,1.46e-09,2.98e-06,5,7,425
+103D5R,C496879,,Biological Process,response to oxygen-containing compound,GO:1901700,3,1.13e-06,0.0023,5,7,1615
+103D5R,C496879,,Biological Process,response to oxygen levels,GO:0070482,3,1.13e-07,0.000231,4,7,345
+103D5R,C496879,,Biological Process,response to reactive oxygen species,GO:0000302,4,3.4e-11,6.92e-08,5,7,201
+103D5R,C496879,,Biological Process,response to starvation,GO:0042594,3,1.2e-08,2.44e-05,4,7,197
+103D5R,C496879,,Biological Process,response to stress,GO:0006950,2,2.97e-08,6.04e-05,7,7,3814
+103D5R,C496879,,Biological Process,Schwann cell development,GO:0014044,5,2.22e-08,4.52e-05,3,7,40
+103D5R,C496879,,Biological Process,Schwann cell differentiation,GO:0014037,5,3.64e-08,7.42e-05,3,7,47
+103D5R,C496879,,Biological Process,sensory organ development,GO:0007423,4,7.07e-07,0.00144,4,7,546
+103D5R,C496879,,Biological Process,sensory organ morphogenesis,GO:0090596,4,4.06e-08,8.27e-05,4,7,267
+103D5R,C496879,,Biological Process,stem cell development,GO:0048864,4,1.07e-07,0.000219,3,7,67
+103D5R,C496879,,Biological Process,stem cell differentiation,GO:0048863,4,4.33e-06,0.00882,3,7,228
+103D5R,C496879,,Biological Process,stress-activated MAPK cascade,GO:0051403,5,2.35e-08,4.79e-05,4,7,233
+103D5R,C496879,,Biological Process,stress-activated protein kinase signaling cascade,GO:0031098,4,2.47e-08,5.04e-05,4,7,236
+103D5R,C496879,,Biological Process,system development,GO:0048731,3,2.16e-06,0.0044,6,7,3775
+103D5R,C496879,,Biological Process,system process,GO:0003008,2,6.82e-08,0.000139,6,7,2112
+103D5R,C496879,,Biological Process,tissue development,GO:0009888,3,2.85e-06,0.00581,5,7,1949
+103D5R,C496879,,Biological Process,TOR signaling,GO:0031929,4,1.55e-06,0.00316,3,7,162
+103D5R,C496879,,Biological Process,trachea development,GO:0060438,4,3.49e-06,0.00711,2,7,19
+103D5R,C496879,,Biological Process,trachea formation,GO:0060440,4,4.29e-07,0.000874,2,7,7
+103D5R,C496879,,Biological Process,trachea morphogenesis,GO:0060439,4,1.12e-06,0.00229,2,7,11
+103D5R,C496879,,Biological Process,transcription by RNA polymerase II,GO:0006366,7,3.01e-06,0.00614,5,7,1971
+103D5R,C496879,,Biological Process,transmembrane receptor protein tyrosine kinase signaling pathway,GO:0007169,5,6.35e-09,1.29e-05,5,7,570
+103D5R,C496879,,Biological Process,transport,GO:0006810,3,3.7e-06,0.00754,6,7,4135
+103D5R,C496879,,Biological Process,tube development,GO:0035295,3,2.17e-07,0.000442,5,7,1158
+103D5R,C496879,,Biological Process,vasculature development,GO:0001944,4,3.65e-06,0.00743,4,7,825
+103D5R,C496879,,Cellular Component,anchoring junction,GO:0070161,3,9.43e-09,1.92e-05,5,7,617
+103D5R,C496879,,Cellular Component,caveola,GO:0005901,5,1.77e-07,0.000361,3,7,79
+103D5R,C496879,,Cellular Component,cell junction,GO:0030054,2,3.73e-08,7.6e-05,6,7,1909
+103D5R,C496879,,Cellular Component,cell projection,GO:0042995,2,4.33e-06,0.00881,5,7,2121
+103D5R,C496879,,Cellular Component,nucleus,GO:0005634,5,1.94e-06,0.00395,7,7,6927
+103D5R,C496879,,Cellular Component,plasma membrane bounded cell projection,GO:0120025,3,3.36e-06,0.00685,5,7,2015
+103D5R,C496879,,Cellular Component,plasma membrane raft,GO:0044853,4,4.57e-07,0.000931,3,7,108
+103D5R,C496879,,Cellular Component,pseudopodium,GO:0031143,4,3.12e-06,0.00636,2,7,18
+103D5R,C496879,,Cellular Component,synapse,GO:0045202,3,4.68e-07,0.000952,5,7,1352
+103D5R,C496879,,Molecular Function,carbohydrate derivative binding,GO:0097367,2,4.22e-06,0.00859,5,7,2110
+103D5R,C496879,,Molecular Function,enzyme binding,GO:0019899,3,3.31e-08,6.74e-05,6,7,1871
+103D5R,C496879,,Molecular Function,identical protein binding,GO:0042802,3,3.53e-06,0.00719,5,7,2035
+103D5R,C496879,,Molecular Function,kinase activity,GO:0016301,4,1.84e-06,0.00374,4,7,694
+103D5R,C496879,,Molecular Function,kinase binding,GO:0019900,4,1.66e-06,0.00339,4,7,677
+103D5R,C496879,,Molecular Function,MAP kinase activity,GO:0004707,5,1.26e-09,2.57e-06,3,7,16
+103D5R,C496879,,Molecular Function,phosphatase binding,GO:0019902,4,2.02e-06,0.00412,3,7,177
+103D5R,C496879,,Molecular Function,"phosphotransferase activity, alcohol group as acceptor",GO:0016773,4,1.39e-06,0.00283,4,7,647
+103D5R,C496879,,Molecular Function,protein kinase activity,GO:0004672,3,7.13e-07,0.00145,4,7,547
+103D5R,C496879,,Molecular Function,protein serine kinase activity,GO:0106310,4,1.39e-07,0.000283,4,7,363
+103D5R,C496879,,Molecular Function,protein serine/threonine kinase activity,GO:0004674,4,1.53e-07,0.000312,4,7,372
+103D5R,C496879,,Molecular Function,"transferase activity, transferring phosphorus-containing groups",GO:0016772,3,3.93e-06,0.00801,4,7,841
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Biological Process,"blood coagulation, fibrin clot formation",GO:0072378,4,1.53e-06,0.00122,2,6,15
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Biological Process,bone cell development,GO:0098751,4,1.19e-05,0.00954,2,6,41
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Biological Process,immune system process,GO:0002376,1,3.72e-06,0.00297,5,6,2627
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Biological Process,leukocyte migration,GO:0050900,2,1.03e-05,0.00826,3,6,367
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Biological Process,megakaryocyte development,GO:0035855,5,3.69e-06,0.00295,2,6,23
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Biological Process,protein activation cascade,GO:0072376,5,2.49e-06,0.00199,2,6,19
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Biological Process,regulation of leukocyte migration,GO:0002685,3,2.32e-06,0.00186,3,6,223
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Cellular Component,integrin alphaIIb-beta3 complex,GO:0070442,4,4.38e-08,3.5e-05,2,6,3
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Cellular Component,integrin complex,GO:0008305,3,5.11e-06,0.00409,2,6,27
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Cellular Component,plasma membrane signaling receptor complex,GO:0098802,3,5.48e-06,0.00438,3,6,297
+10-(4'-(N-diethylamino)butyl)-2-chlorophenoxazine,C553100,,Cellular Component,platelet alpha granule membrane,GO:0031092,5,1.98e-06,0.00158,2,6,17
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,apoptotic process,GO:0006915,4,1.3e-07,0.000159,5,5,1904
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,apoptotic signaling pathway,GO:0097190,3,1.36e-07,0.000166,4,5,585
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,B cell activation,GO:0042113,4,1.76e-06,0.00215,3,5,256
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cell cycle,GO:0007049,2,6.24e-06,0.00761,4,5,1527
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cell cycle checkpoint signaling,GO:0000075,4,6.02e-07,0.000734,3,5,179
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cell cycle G2/M phase transition,GO:0044839,4,3.12e-07,0.000381,3,5,144
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cell death,GO:0008219,2,1.6e-07,0.000195,5,5,1984
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to abiotic stimulus,GO:0071214,3,1.7e-11,2.07e-08,5,5,320
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to alkaloid,GO:0071312,5,7.2e-06,0.00878,2,5,39
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to DNA damage stimulus,GO:0006974,4,2.46e-09,3e-06,5,5,862
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to endogenous stimulus,GO:0071495,3,4.88e-06,0.00596,4,5,1436
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to environmental stimulus,GO:0104004,3,1.7e-11,2.07e-08,5,5,320
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to external stimulus,GO:0071496,3,3.1e-06,0.00379,3,5,309
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to gamma radiation,GO:0071480,6,3.41e-06,0.00416,2,5,27
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to light stimulus,GO:0071482,5,1.35e-07,0.000164,3,5,109
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to radiation,GO:0071478,4,5.06e-07,0.000617,3,5,169
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to stress,GO:0033554,3,1.25e-07,0.000153,5,5,1890
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,cellular response to UV,GO:0034644,6,6.8e-08,8.3e-05,3,5,87
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,chordate embryonic development,GO:0043009,5,1.92e-07,0.000234,4,5,638
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,DNA biosynthetic process,GO:0071897,5,7.09e-07,0.000864,3,5,189
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,DNA damage checkpoint signaling,GO:0000077,5,1.54e-07,0.000188,3,5,114
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",GO:0006977,6,1.66e-06,0.00203,2,5,19
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",GO:0006978,6,1.02e-06,0.00125,2,5,15
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,"DNA damage response, signal transduction resulting in transcription",GO:0042772,5,1.17e-06,0.00142,2,5,16
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,DNA integrity checkpoint signaling,GO:0031570,5,1.85e-07,0.000225,3,5,121
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,DNA replication,GO:0006260,5,2.07e-06,0.00253,3,5,270
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,embryo development,GO:0009790,3,1.64e-06,0.002,4,5,1092
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,embryo development ending in birth or egg hatching,GO:0009792,4,2.19e-07,0.000267,4,5,659
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,fibroblast apoptotic process,GO:0044346,5,1.88e-09,2.3e-06,3,5,27
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,glial cell apoptotic process,GO:0034349,5,4.38e-10,5.34e-07,3,5,17
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,intracellular signal transduction,GO:0035556,3,4.46e-07,0.000544,5,5,2436
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,intrinsic apoptotic signaling pathway,GO:0097193,4,9.99e-09,1.22e-05,4,5,305
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,intrinsic apoptotic signaling pathway in response to DNA damage,GO:0008630,5,8.06e-08,9.83e-05,3,5,92
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,in utero embryonic development,GO:0001701,6,6.73e-06,0.00821,3,5,400
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,leukocyte apoptotic process,GO:0071887,5,1.58e-07,0.000193,3,5,115
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,leukocyte proliferation,GO:0070661,3,3.51e-06,0.00428,3,5,322
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,lymphocyte proliferation,GO:0046651,4,2.26e-06,0.00276,3,5,278
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mitotic cell cycle checkpoint signaling,GO:0007093,4,2.4e-07,0.000293,3,5,132
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mitotic cell cycle phase transition,GO:0044772,4,7.95e-06,0.0097,3,5,423
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mitotic DNA damage checkpoint signaling,GO:0044773,6,3.67e-08,4.48e-05,3,5,71
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mitotic DNA integrity checkpoint signaling,GO:0044774,5,4.16e-08,5.08e-05,3,5,74
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mitotic G1 DNA damage checkpoint signaling,GO:0031571,6,4.23e-06,0.00516,2,5,30
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mitotic G1/S transition checkpoint signaling,GO:0044819,5,4.23e-06,0.00516,2,5,30
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mitotic G2 DNA damage checkpoint signaling,GO:0007095,6,5.45e-06,0.00665,2,5,34
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,mononuclear cell proliferation,GO:0032943,4,2.46e-06,0.003,3,5,286
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of cell cycle,GO:0045786,3,2.39e-08,2.91e-05,4,5,379
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of cell cycle phase transition,GO:1901988,4,1.79e-06,0.00218,3,5,257
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of cell cycle process,GO:0010948,3,2.78e-06,0.0034,3,5,298
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of DNA biosynthetic process,GO:2000279,5,3.85e-09,4.7e-06,3,5,34
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of DNA metabolic process,GO:0051053,4,1.94e-07,0.000237,3,5,123
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of gene expression,GO:0010629,4,6.88e-06,0.00839,4,5,1565
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of mitotic cell cycle,GO:0045930,4,1.23e-06,0.0015,3,5,227
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,negative regulation of mitotic cell cycle phase transition,GO:1901991,5,6.75e-07,0.000824,3,5,186
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,neuron apoptotic process,GO:0051402,4,2.26e-06,0.00276,3,5,278
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,neuron death,GO:0070997,3,2.26e-06,0.00276,3,5,278
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,platelet formation,GO:0030220,3,2.68e-06,0.00327,2,5,24
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,platelet morphogenesis,GO:0036344,5,3.16e-06,0.00385,2,5,26
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,positive regulation of cell death,GO:0010942,3,1.02e-07,0.000124,4,5,544
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,positive regulation of programmed cell death,GO:0043068,4,1.02e-07,0.000124,4,5,544
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,positive regulation of protein metabolic process,GO:0051247,4,1.99e-06,0.00243,4,5,1146
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,programmed cell death,GO:0012501,3,1.58e-07,0.000193,5,5,1980
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,protein metabolic process,GO:0019538,3,7.88e-06,0.00962,5,5,4325
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,regulation of cell cycle,GO:0051726,3,1.41e-06,0.00172,4,5,1051
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,regulation of cell cycle G2/M phase transition,GO:1902749,5,1.24e-07,0.000151,3,5,106
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,regulation of cell cycle phase transition,GO:1901987,4,8.12e-06,0.00991,3,5,426
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,regulation of cell death,GO:0010941,3,5.58e-06,0.00681,4,5,1485
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,regulation of DNA biosynthetic process,GO:2000278,5,1.54e-07,0.000188,3,5,114
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,regulation of mitotic cell cycle phase transition,GO:1901990,5,3.95e-06,0.00482,3,5,335
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,regulation of programmed cell death,GO:0043067,4,5.58e-06,0.00681,4,5,1485
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,replicative senescence,GO:0090399,3,4.38e-10,5.34e-07,3,5,17
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to abiotic stimulus,GO:0009628,2,8.8e-09,1.07e-05,5,5,1112
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to chemical,GO:0042221,2,4.38e-06,0.00535,5,5,3846
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to cobalt ion,GO:0032025,5,4.38e-07,0.000534,2,5,10
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to corticosteroid,GO:0031960,5,3.53e-07,0.000431,3,5,150
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to decreased oxygen levels,GO:0036293,4,3.48e-06,0.00424,3,5,321
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to endogenous stimulus,GO:0009719,2,6.82e-08,8.32e-05,5,5,1674
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to external stimulus,GO:0009605,2,7.64e-07,0.000933,5,5,2713
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to glucocorticoid,GO:0051384,6,2.24e-07,0.000273,3,5,129
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to hypoxia,GO:0001666,3,3.04e-06,0.00371,3,5,307
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to ionizing radiation,GO:0010212,4,2.87e-07,0.00035,3,5,140
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to light stimulus,GO:0009416,4,1.14e-08,1.39e-05,4,5,315
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to nitrogen compound,GO:1901698,3,1.46e-06,0.00179,4,5,1061
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to organic cyclic compound,GO:0014070,4,6.97e-07,0.00085,4,5,881
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to organic substance,GO:0010033,3,5.56e-07,0.000679,5,5,2546
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to organonitrogen compound,GO:0010243,4,1.11e-06,0.00136,4,5,991
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to oxygen-containing compound,GO:1901700,3,7.79e-06,0.00951,4,5,1615
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to oxygen levels,GO:0070482,3,1.64e-08,2e-05,4,5,345
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to radiation,GO:0009314,3,3.85e-08,4.7e-05,4,5,427
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to steroid hormone,GO:0048545,4,3.64e-06,0.00445,3,5,326
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to stress,GO:0006950,2,4.2e-06,0.00513,5,5,3814
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to UV,GO:0009411,5,6.38e-10,7.79e-07,4,5,154
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,response to X-ray,GO:0010165,5,2.11e-09,2.57e-06,3,5,28
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,signal transduction by p53 class mediator,GO:0072331,4,5.52e-07,0.000674,3,5,174
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,signal transduction in response to DNA damage,GO:0042770,4,1.09e-09,1.33e-06,4,5,176
+10-decarbamoylmitomycin C,C067795,26909-37-5,Biological Process,stress-induced premature senescence,GO:0090400,4,2.72e-07,0.000332,2,5,8
+10-decarbamoylmitomycin C,C067795,26909-37-5,Molecular Function,cyclin-dependent protein serine/threonine kinase inhibitor activity,GO:0004861,6,6.42e-07,0.000783,2,5,12
+10-decarbamoylmitomycin C,C067795,26909-37-5,Molecular Function,cyclin-dependent protein serine/threonine kinase regulator activity,GO:0016538,5,2.46e-06,0.003,2,5,23
+10-decarbamoylmitomycin C,C067795,26909-37-5,Molecular Function,cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,6,2.72e-07,0.000332,2,5,8
+10-decarbamoylmitomycin C,C067795,26909-37-5,Molecular Function,cysteine-type endopeptidase activity involved in apoptotic signaling pathway,GO:0097199,7,5.84e-08,7.12e-05,2,5,4
+10-decarbamoylmitomycin C,C067795,26909-37-5,Molecular Function,enzyme regulator activity,GO:0030234,2,1.49e-06,0.00181,4,5,1065
+10-decarbamoylmitomycin C,C067795,26909-37-5,Molecular Function,molecular function activator activity,GO:0140677,2,1.61e-06,0.00197,4,5,1087
+10-decarbamoylmitomycin C,C067795,26909-37-5,Molecular Function,protein serine/threonine kinase inhibitor activity,GO:0030291,6,6.83e-06,0.00833,2,5,38
+10-(fluoroethoxyphosphinyl)-N-(biotinamidopentyl)decanamide,C403065,,Biological Process,response to chemical,GO:0042221,2,7.63e-06,0.00654,7,11,3846
+10-(fluoroethoxyphosphinyl)-N-(biotinamidopentyl)decanamide,C403065,,Cellular Component,extracellular region,GO:0005576,2,3.85e-07,0.00033,7,11,2471
+10-(fluoroethoxyphosphinyl)-N-(biotinamidopentyl)decanamide,C403065,,Molecular Function,acetylcholinesterase activity,GO:0003990,6,5.35e-08,4.59e-05,2,11,2
+10-(fluoroethoxyphosphinyl)-N-(biotinamidopentyl)decanamide,C403065,,Molecular Function,cholinesterase activity,GO:0004104,5,1.61e-07,0.000138,2,11,3
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,apoptotic process,GO:0006915,4,3.1e-06,0.00139,4,4,1904
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,apoptotic signaling pathway,GO:0097190,3,2.74e-08,1.23e-05,4,4,585
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,cell death,GO:0008219,2,3.66e-06,0.00164,4,4,1984
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,cellular response to abiotic stimulus,GO:0071214,3,1.39e-06,0.000621,3,4,320
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,cellular response to environmental stimulus,GO:0104004,3,1.39e-06,0.000621,3,4,320
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,cellular response to mechanical stimulus,GO:0071260,4,1.49e-05,0.00667,2,4,72
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,cellular response to organic cyclic compound,GO:0071407,5,6.48e-06,0.0029,3,4,535
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,execution phase of apoptosis,GO:0097194,2,1.53e-08,6.87e-06,3,4,72
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,intracellular signal transduction,GO:0035556,3,8.31e-06,0.00372,4,4,2436
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,intrinsic apoptotic signaling pathway,GO:0097193,4,1.2e-06,0.000537,3,4,305
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,necroptotic process,GO:0070266,5,6.86e-06,0.00307,2,4,49
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,necrotic cell death,GO:0070265,3,1.07e-05,0.00478,2,4,61
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,positive regulation of apoptotic process,GO:0043065,5,1.74e-08,7.78e-06,4,4,522
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,positive regulation of cell death,GO:0010942,3,2.05e-08,9.18e-06,4,4,544
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,positive regulation of programmed cell death,GO:0043068,4,2.05e-08,9.18e-06,4,4,544
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,programmed cell death,GO:0012501,3,3.63e-06,0.00162,4,4,1980
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,programmed necrotic cell death,GO:0097300,4,1.07e-05,0.00478,2,4,61
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,protein maturation,GO:0051604,4,1.73e-09,7.76e-07,4,4,294
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,protein processing,GO:0016485,5,4.39e-10,1.97e-07,4,4,209
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,proteolysis,GO:0006508,4,8.85e-07,0.000396,4,4,1392
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,pyroptosis,GO:0070269,4,3.47e-06,0.00155,2,4,35
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,regulation of apoptotic process,GO:0042981,5,9.94e-07,0.000445,4,4,1433
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,regulation of cell death,GO:0010941,3,1.15e-06,0.000514,4,4,1485
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,regulation of necroptotic process,GO:0060544,6,3.47e-06,0.00155,2,4,35
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,regulation of necrotic cell death,GO:0010939,4,4.78e-06,0.00214,2,4,41
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,regulation of programmed cell death,GO:0043067,4,1.15e-06,0.000514,4,4,1485
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,regulation of programmed necrotic cell death,GO:0062098,5,4.78e-06,0.00214,2,4,41
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,response to cobalt ion,GO:0032025,5,2.63e-07,0.000118,2,4,10
+"10H-3,6-diazaphenothiazine",C000627785,,Biological Process,response to external stimulus,GO:0009605,2,1.28e-05,0.00573,4,4,2713
+"10H-3,6-diazaphenothiazine",C000627785,,Cellular Component,endopeptidase complex,GO:1905369,4,2.13e-05,0.00953,2,4,86
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,"catalytic activity, acting on a protein",GO:0140096,2,3.95e-06,0.00177,4,4,2023
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,cysteine-type endopeptidase activity,GO:0004197,5,4.63e-12,2.07e-09,4,4,68
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,6,3.98e-16,1.78e-13,4,4,8
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,cysteine-type endopeptidase activity involved in apoptotic signaling pathway,GO:0097199,7,3.5e-08,1.57e-05,2,4,4
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,cysteine-type endopeptidase activity involved in execution phase of apoptosis,GO:0097200,7,3.5e-08,1.57e-05,2,4,4
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,cysteine-type peptidase activity,GO:0008234,4,1.28e-10,5.73e-08,4,4,154
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,endopeptidase activity,GO:0004175,4,2.2e-09,9.85e-07,4,4,312
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,hydrolase activity,GO:0016787,2,4.22e-06,0.00189,4,4,2057
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,peptidase activity,GO:0008233,3,1.83e-08,8.21e-06,4,4,529
+"10H-3,6-diazaphenothiazine",C000627785,,Molecular Function,protein domain specific binding,GO:0019904,3,1.04e-05,0.00467,3,4,627
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,apoptotic process,GO:0006915,4,1.3e-07,0.000177,5,5,1904
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,apoptotic signaling pathway,GO:0097190,3,3.52e-10,4.78e-07,5,5,585
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,B cell homeostasis,GO:0001782,4,4.52e-06,0.00614,2,5,31
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cell cycle,GO:0007049,2,4.31e-08,5.86e-05,5,5,1527
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cell death,GO:0008219,2,1.6e-07,0.000217,5,5,1984
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cell differentiation,GO:0030154,3,5.45e-06,0.00742,5,5,4018
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cell population proliferation,GO:0008283,2,1.77e-07,0.000241,5,5,2026
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular developmental process,GO:0048869,2,5.54e-06,0.00753,5,5,4030
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to abiotic stimulus,GO:0071214,3,3.45e-06,0.00469,3,5,320
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to alkaloid,GO:0071312,5,5.88e-09,7.99e-06,3,5,39
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to chemical stimulus,GO:0070887,3,6.07e-07,0.000826,5,5,2591
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to chemical stress,GO:0062197,4,1.62e-08,2.2e-05,4,5,344
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to DNA damage stimulus,GO:0006974,4,2.46e-09,3.34e-06,5,5,862
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to environmental stimulus,GO:0104004,3,3.45e-06,0.00469,3,5,320
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to gamma radiation,GO:0071480,6,3.41e-06,0.00464,2,5,27
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,cellular response to stress,GO:0033554,3,1.25e-07,0.00017,5,5,1890
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,dendritic cell apoptotic process,GO:0097048,6,6.42e-07,0.000873,2,5,12
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,development of primary female sexual characteristics,GO:0046545,4,1.17e-07,0.000159,3,5,104
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,development of primary sexual characteristics,GO:0045137,3,1.28e-06,0.00174,3,5,230
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,epithelial cell apoptotic process,GO:1904019,5,3.32e-07,0.000452,3,5,147
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,female gonad development,GO:0008585,5,1.04e-07,0.000141,3,5,100
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,female sex differentiation,GO:0046660,3,1.8e-07,0.000245,3,5,120
+10-hydroxycamptothecin,C028098,67656-30-8,Biological Process,gonad development,GO:0008406,4,1.2e-06,0.00163,3,5,225

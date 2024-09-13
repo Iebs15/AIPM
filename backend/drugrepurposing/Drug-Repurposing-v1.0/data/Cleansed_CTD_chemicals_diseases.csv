@@ -1,0 +1,501 @@
+ChemicalName,ChemicalID,DiseaseName,DiseaseID,DirectEvidence,InferenceGeneSymbol,InferenceScore
+06-Paris-LA-66 protocol,C046983,,Precursor Cell Lymphoblastic Leukemia-Lymphoma,MESH:D054198,therapeutic,
+10074-G5,C534883,,Adenocarcinoma,MESH:D000230,,MYC
+10074-G5,C534883,,Adenocarcinoma of Lung,MESH:D000077192,,MYC
+10074-G5,C534883,,Alopecia,MESH:D000505,,AR
+10074-G5,C534883,,Androgen-Insensitivity Syndrome,MESH:D013734,,AR
+10074-G5,C534883,,Astrocytoma,MESH:D001254,,AR
+10074-G5,C534883,,Autistic Disorder,MESH:D001321,,AR
+10074-G5,C534883,,Breast Neoplasms,MESH:D001943,,AR
+10074-G5,C534883,,"Breast Neoplasms, Male",MESH:D018567,,AR
+10074-G5,C534883,,"Bulbospinal neuronopathy, X-linked recessive",MESH:C537017,,AR
+10074-G5,C534883,,Burkitt Lymphoma,MESH:D002051,,MYC
+10074-G5,C534883,,Carcinoma,MESH:D002277,,MYC
+10074-G5,C534883,,"Carcinoma, Ductal",MESH:D044584,,MYC
+10074-G5,C534883,,"Carcinoma, Hepatocellular",MESH:D006528,,AR
+10074-G5,C534883,,"Carcinoma, Hepatocellular",MESH:D006528,,MYC
+10074-G5,C534883,,"Carcinoma, Merkel Cell",MESH:D015266,,MYC
+10074-G5,C534883,,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,,MYC
+10074-G5,C534883,,"Carcinoma, Squamous Cell",MESH:D002294,,MYC
+10074-G5,C534883,,"Cardiomyopathy, Hypertrophic",MESH:D002312,,MYC
+10074-G5,C534883,,"Cell Transformation, Neoplastic",MESH:D002471,,MYC
+10074-G5,C534883,,Chromosome Breakage,MESH:D019457,,MYC
+10074-G5,C534883,,Cleft Lip,MESH:D002971,,MYC
+10074-G5,C534883,,Cleft Palate,MESH:D002972,,MYC
+10074-G5,C534883,,Colonic Neoplasms,MESH:D003110,,MYC
+10074-G5,C534883,,Colorectal Neoplasms,MESH:D015179,,MYC
+10074-G5,C534883,,"Diabetes, Gestational",MESH:D016640,,AR
+10074-G5,C534883,,"Disease Models, Animal",MESH:D004195,,MYC
+10074-G5,C534883,,Disease Progression,MESH:D018450,,MYC
+10074-G5,C534883,,Endometrial Neoplasms,MESH:D016889,,MYC
+10074-G5,C534883,,Ependymoma,MESH:D004806,,EPHB2
+10074-G5,C534883,,Fatty Liver,MESH:D005234,,MYC
+10074-G5,C534883,,"Genital Diseases, Male",MESH:D005832,,AR
+10074-G5,C534883,,Glioblastoma,MESH:D005909,,MYC
+10074-G5,C534883,,Hemangiosarcoma,MESH:D006394,,MYC
+10074-G5,C534883,,Hypertension,MESH:D006973,,AR
+10074-G5,C534883,,"Hypertrophy, Left Ventricular",MESH:D017379,,MYC
+10074-G5,C534883,,"Hypospadias 1, X-Linked",MESH:C567482,,AR
+10074-G5,C534883,,"Infertility, Female",MESH:D007247,,AR
+10074-G5,C534883,,"Infertility, Male",MESH:D007248,,AR
+10074-G5,C534883,,Insulin Resistance,MESH:D007333,,AR
+10074-G5,C534883,,Leukemia,MESH:D007938,,AR
+10074-G5,C534883,,"Leukemia, Myeloid, Acute",MESH:D015470,,MYC
+10074-G5,C534883,,"Liver Cirrhosis, Experimental",MESH:D008106,,MYC
+10074-G5,C534883,,Liver Neoplasms,MESH:D008113,,MYC
+10074-G5,C534883,,"Liver Neoplasms, Experimental",MESH:D008114,,MYC
+10074-G5,C534883,,Lung Neoplasms,MESH:D008175,,AR
+10074-G5,C534883,,Lung Neoplasms,MESH:D008175,,MYC
+10074-G5,C534883,,"Lymphoma, Large B-Cell, Diffuse",MESH:D016403,,MYC
+10074-G5,C534883,,Medulloblastoma,MESH:D008527,,MYC
+10074-G5,C534883,,Myelodysplastic Syndromes,MESH:D009190,,MYC
+10074-G5,C534883,,Neoplasm Metastasis,MESH:D009362,,MYC
+10074-G5,C534883,,"Neoplasm Recurrence, Local",MESH:D009364,,AR
+10074-G5,C534883,,Neoplasms,MESH:D009369,,MYC
+10074-G5,C534883,,Neuroblastoma,MESH:D009447,,MYC
+10074-G5,C534883,,Neuroectodermal Tumors,MESH:D017599,,MYC
+10074-G5,C534883,,Osteosarcoma,MESH:D012516,,MYC
+10074-G5,C534883,,Ovarian Neoplasms,MESH:D010051,,MYC
+10074-G5,C534883,,Pancreatic Neoplasms,MESH:D010190,,MYC
+10074-G5,C534883,,Pheochromocytoma,MESH:D010673,,MAX
+10074-G5,C534883,,"Polycystic Kidney, Autosomal Dominant",MESH:D016891,,MYC
+10074-G5,C534883,,PROSTATE CANCER/BRAIN CANCER SUSCEPTIBILITY,OMIM:603688,,EPHB2
+10074-G5,C534883,,Prostatic Intraepithelial Neoplasia,MESH:D019048,,AR
+10074-G5,C534883,,Prostatic Neoplasms,MESH:D011471,,AR
+10074-G5,C534883,,Prostatic Neoplasms,MESH:D011471,,MYC
+10074-G5,C534883,,"Prostatic Neoplasms, Castration-Resistant",MESH:D064129,,AR
+10074-G5,C534883,,Stomach Neoplasms,MESH:D013274,,MYC
+10074-G5,C534883,,Urinary Bladder Neoplasms,MESH:D001749,,MYC
+10074-G5,C534883,,Uterine Cervical Neoplasms,MESH:D002583,,MYC
+10074-G5,C534883,,Wilms Tumor,MESH:D009396,,MAX
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Adenocarcinoma,MESH:D000230,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Amphetamine-Related Disorders,MESH:D019969,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Amyotrophic lateral sclerosis 1,MESH:C531617,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Anxiety Disorders,MESH:D001008,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Arthritis, Juvenile",MESH:D001171,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Atrial Fibrillation, Familial, 3",MESH:C563817,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Beckwith-Wiedemann Syndrome,MESH:D001506,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Brain Diseases,MESH:D001927,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Brain Injuries,MESH:D001930,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Breast Neoplasms,MESH:D001943,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Carcinoma, Hepatocellular",MESH:D006528,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Carcinoma, Ovarian Epithelial",MESH:D000077216,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Cell Transformation, Neoplastic",MESH:D002471,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Cholestasis, Extrahepatic",MESH:D001651,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Cocaine-Related Disorders,MESH:D019970,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY 7,OMIM:613720,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Developmental Disabilities,MESH:D002658,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Diabetes Mellitus, Type 2",MESH:D003924,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Disease Models, Animal",MESH:D004195,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Endometriosis,MESH:D004715,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Epilepsy,MESH:D004827,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Epilepsy,MESH:D004827,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Epilepsy, Benign Neonatal",MESH:D020936,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Fibrous Dysplasia of Bone,MESH:D005357,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Hearing Loss, Noise-Induced",MESH:D006317,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Heat Stroke,MESH:D018883,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Hemorrhage,MESH:D006470,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Hyperalgesia,MESH:D006930,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Hyperkinesis,MESH:D006948,marker/mechanism,
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Hyperkinesis,MESH:D006948,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Hypertension,MESH:D006973,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Infarction, Middle Cerebral Artery",MESH:D020244,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Intestinal Neoplasms,MESH:D007414,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Jervell-Lange Nielsen Syndrome,MESH:D029593,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"Liver Cirrhosis, Experimental",MESH:D008106,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Long QT Syndrome,MESH:D008133,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Lung Neoplasms,MESH:D008175,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Nervous System Diseases,MESH:D009422,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Nervous System Diseases,MESH:D009422,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Neurodevelopmental Disorders,MESH:D065886,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Neurotoxicity Syndromes,MESH:D020258,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Obesity,MESH:D009765,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Reperfusion Injury,MESH:D015427,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Romano-Ward Syndrome,MESH:D029597,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Seizures,MESH:D012640,marker/mechanism,
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Seizures,MESH:D012640,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Seizures,MESH:D012640,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"SEIZURES, BENIGN FAMILIAL NEONATAL, 1",OMIM:121200,,KCNQ2
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,"SEIZURES, BENIGN FAMILIAL NEONATAL, 2",OMIM:121201,,KCNQ3
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Short QT Syndrome 2,MESH:C566505,,KCNQ1
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Status Epilepticus,MESH:D013226,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Substance Withdrawal Syndrome,MESH:D013375,,FOS
+"10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone",C112297,,Trigeminal Neuralgia,MESH:D014277,,FOS
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Abnormalities, Drug-Induced",MESH:D000014,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Acute Lung Injury,MESH:D055371,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Amphetamine-Related Disorders,MESH:D019969,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Autism Spectrum Disorder,MESH:D000067877,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Carcinoma,MESH:D002277,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Carcinoma, Hepatocellular",MESH:D006528,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Chemical and Drug Induced Liver Injury,MESH:D056486,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Fever,MESH:D005334,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Hypercholanemia, Familial",MESH:C564336,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Leukemia, Myeloid, Acute",MESH:D015470,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Lung Neoplasms,MESH:D008175,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Lymphoma,MESH:D008223,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Lymphoma, Non-Hodgkin",MESH:D008228,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Mammary Neoplasms, Animal",MESH:D015674,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Mammary Neoplasms, Experimental",MESH:D008325,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Mesothelioma, Malignant",MESH:D000086002,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Micronuclei, Chromosome-Defective",MESH:D048629,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Multiple Myeloma,MESH:D009101,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Myocardial Ischemia,MESH:D017202,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Precursor Cell Lymphoblastic Leukemia-Lymphoma,MESH:D054198,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Pre-Eclampsia,MESH:D011225,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Prostatic Neoplasms,MESH:D011471,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,"Pulmonary Disease, Chronic Obstructive",MESH:D029424,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Pulmonary Emphysema,MESH:D011656,,EPHX1
+"10,11-dihydro-10,11-dihydroxy-5H-dibenzazepine-5-carboxamide",C004822,35079-97-1,Skin Neoplasms,MESH:D012878,,EPHX1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Acute Kidney Injury,MESH:D058186,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Adrenocortical Carcinoma,MESH:D018268,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Arthritis, Experimental",MESH:D001169,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Arthritis, Rheumatoid",MESH:D001172,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Atrial Fibrillation,MESH:D001281,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Autism Spectrum Disorder,MESH:D000067877,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Autism Spectrum Disorder,MESH:D000067877,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Breast Neoplasms,MESH:D001943,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Carcinoma,MESH:D002277,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Carcinoma, Hepatocellular",MESH:D006528,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Cardiovascular Diseases,MESH:D002318,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Chemical and Drug Induced Liver Injury,MESH:D056486,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Chemical and Drug Induced Liver Injury,MESH:D056486,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Colorectal Neoplasms,MESH:D015179,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Disease Progression,MESH:D018450,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Drug Metabolism, Poor, CYP2C19-Related",MESH:C563703,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Drug-Related Side Effects and Adverse Reactions,MESH:D064420,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Epilepsy,MESH:D004827,therapeutic,
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Epilepsy,MESH:D004827,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Escherichia coli Infections,MESH:D004927,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Esophageal Neoplasms,MESH:D004938,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Genetic Predisposition to Disease,MESH:D020022,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Genetic Predisposition to Disease,MESH:D020022,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Heart Defects, Congenital",MESH:D006330,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Hematologic Neoplasms,MESH:D019337,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Hypotension, Orthostatic",MESH:D007024,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Inflammatory Bowel Disease 13,MESH:C567384,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Kidney Failure, Chronic",MESH:D007676,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Kidney Neoplasms,MESH:D007680,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Liver Cirrhosis, Experimental",MESH:D008106,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Lymphoma, Large B-Cell, Diffuse",MESH:D016403,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Marijuana Abuse,MESH:D002189,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Mental Disorders,MESH:D001523,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Nausea,MESH:D009325,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Neoplasm Metastasis,MESH:D009362,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Neoplasms,MESH:D009369,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Nervous System Diseases,MESH:D009422,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Neuroblastoma,MESH:D009447,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Neurotoxicity Syndromes,MESH:D020258,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Neutropenia,MESH:D009503,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Pain, Postoperative",MESH:D010149,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Parkinson Disease,MESH:D010300,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Parkinson Disease, Secondary",MESH:D010302,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Peripheral Nervous System Diseases,MESH:D010523,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Poisoning,MESH:D011041,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Precursor Cell Lymphoblastic Leukemia-Lymphoma,MESH:D054198,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Primary Ovarian Insufficiency,MESH:D016649,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Prostatic Neoplasms,MESH:D011471,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Squamous Cell Carcinoma of Head and Neck,MESH:D000077195,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Thrombosis,MESH:D013927,,CYP2C19
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,"Translocation, Genetic",MESH:D014178,,ABCB1
+"10,11-dihydro-10-hydroxycarbamazepine",C039775,,Vomiting,MESH:D014839,,ABCB1
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Alopecia,MESH:D000505,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Androgen-Insensitivity Syndrome,MESH:D013734,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Astrocytoma,MESH:D001254,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Autistic Disorder,MESH:D001321,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Breast Neoplasms,MESH:D001943,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Breast Neoplasms, Male",MESH:D018567,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Bulbospinal neuronopathy, X-linked recessive",MESH:C537017,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Carcinoma, Hepatocellular",MESH:D006528,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Diabetes, Gestational",MESH:D016640,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Genital Diseases, Male",MESH:D005832,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Hypertension,MESH:D006973,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Hypospadias 1, X-Linked",MESH:C567482,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Infertility, Female",MESH:D007247,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Infertility, Male",MESH:D007248,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Insulin Resistance,MESH:D007333,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Leukemia,MESH:D007938,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Lung Neoplasms,MESH:D008175,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Neoplasm Recurrence, Local",MESH:D009364,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Prostatic Intraepithelial Neoplasia,MESH:D019048,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,Prostatic Neoplasms,MESH:D011471,,AR
+"10,11-dihydro-5H-dibenzo(a,d)cycloheptene",C515697,,"Prostatic Neoplasms, Castration-Resistant",MESH:D064129,,AR
+"10,11-dihydroxy-N-n-propylnorapomorphine",C425777,,Hyperkinesis,MESH:D006948,marker/mechanism,
+"10,12-octadecadienoic acid",C094849,,Acute Kidney Injury,MESH:D058186,,PPARG
+"10,12-octadecadienoic acid",C094849,,Acute Lung Injury,MESH:D055371,,CASP3
+"10,12-octadecadienoic acid",C094849,,Acute Lung Injury,MESH:D055371,,PPARG
+"10,12-octadecadienoic acid",C094849,,Adenocarcinoma,MESH:D000230,,PPARG
+"10,12-octadecadienoic acid",C094849,,Alzheimer Disease,MESH:D000544,,CASP3
+"10,12-octadecadienoic acid",C094849,,Alzheimer Disease,MESH:D000544,,PPARG
+"10,12-octadecadienoic acid",C094849,,Antiphospholipid Syndrome,MESH:D016736,,PPARG
+"10,12-octadecadienoic acid",C094849,,Atherosclerosis,MESH:D050197,,PPARG
+"10,12-octadecadienoic acid",C094849,,Barrett Esophagus,MESH:D001471,,PPARG
+"10,12-octadecadienoic acid",C094849,,Brain Ischemia,MESH:D002545,,CASP3
+"10,12-octadecadienoic acid",C094849,,Calcinosis,MESH:D002114,,CASP3
+"10,12-octadecadienoic acid",C094849,,"Carcinoma, Hepatocellular",MESH:D006528,,PPARG
+"10,12-octadecadienoic acid",C094849,,Carotid Intimal Medial Thickness 1,MESH:C563733,,PPARG
+"10,12-octadecadienoic acid",C094849,,Cerebral Hemorrhage,MESH:D002543,,CASP3
+"10,12-octadecadienoic acid",C094849,,Chronobiology Disorders,MESH:D021081,,PPARG
+"10,12-octadecadienoic acid",C094849,,"Colitis, Ulcerative",MESH:D003093,,CASP3
+"10,12-octadecadienoic acid",C094849,,Colonic Neoplasms,MESH:D003110,,PPARG
+"10,12-octadecadienoic acid",C094849,,Colorectal Neoplasms,MESH:D015179,,PPARG
+"10,12-octadecadienoic acid",C094849,,Copper-Overload Cirrhosis,MESH:C566858,,CASP3
+"10,12-octadecadienoic acid",C094849,,Crohn Disease,MESH:D003424,,PPARG
+"10,12-octadecadienoic acid",C094849,,Cryptorchidism,MESH:D003456,,CASP3
+"10,12-octadecadienoic acid",C094849,,Diabetes Mellitus,MESH:D003920,,PPARG
+"10,12-octadecadienoic acid",C094849,,"Diabetes Mellitus, Experimental",MESH:D003921,,CASP3
+"10,12-octadecadienoic acid",C094849,,"Diabetes Mellitus, Experimental",MESH:D003921,,PPARG
+"10,12-octadecadienoic acid",C094849,,"Diabetes Mellitus, Type 2",MESH:D003924,,CASP3
+"10,12-octadecadienoic acid",C094849,,"Diabetes Mellitus, Type 2",MESH:D003924,,PPARG
+"10,12-octadecadienoic acid",C094849,,Diabetic Angiopathies,MESH:D003925,,CASP3
+"10,12-octadecadienoic acid",C094849,,Diabetic Nephropathies,MESH:D003928,,PPARG
+"10,12-octadecadienoic acid",C094849,,Diabetic Neuropathies,MESH:D003929,,CASP3
+"10,12-octadecadienoic acid",C094849,,Diabetic Retinopathy,MESH:D003930,,CASP3
+"10,12-octadecadienoic acid",C094849,,Dyslipidemias,MESH:D050171,,PPARG
+"10,12-octadecadienoic acid",C094849,,Edema,MESH:D004487,,CASP3
+"10,12-octadecadienoic acid",C094849,,Glomerulonephritis,MESH:D005921,,PPARG
+"10,12-octadecadienoic acid",C094849,,Heart Failure,MESH:D006333,,PPARG
+"10,12-octadecadienoic acid",C094849,,Heart Valve Diseases,MESH:D006349,,CASP3
+"10,12-octadecadienoic acid",C094849,,"Hepatitis, Chronic",MESH:D006521,,CASP3
+"10,12-octadecadienoic acid",C094849,,Hypertension,MESH:D006973,,PPARG
+"10,12-octadecadienoic acid",C094849,,Inflammation,MESH:D007249,,PPARG
+"10,12-octadecadienoic acid",C094849,,Insulin Resistance,MESH:D007333,,PPARG
+"10,12-octadecadienoic acid",C094849,,Ischemia,MESH:D007511,,PPARG
+"10,12-octadecadienoic acid",C094849,,"Leukemia, Promyelocytic, Acute",MESH:D015473,,PPARG
+"10,12-octadecadienoic acid",C094849,,Leukostasis,MESH:D018921,,PPARG
+"10,12-octadecadienoic acid",C094849,,Lipidoses,MESH:D008064,,PPARG
+"10,12-octadecadienoic acid",C094849,,"Lipodystrophy, Familial Partial",MESH:D052496,,PPARG
+"10,12-octadecadienoic acid",C094849,,Liver Neoplasms,MESH:D008113,,PPARG
+"10,12-octadecadienoic acid",C094849,,"Lymphoma, T-Cell",MESH:D016399,,PPARG
+"10,12-octadecadienoic acid",C094849,,Melanoma,MESH:D008545,,PPARG
+"10,12-octadecadienoic acid",C094849,,Metabolic Diseases,MESH:D008659,,PPARG
+"10,12-octadecadienoic acid",C094849,,Mycoplasma Infections,MESH:D009175,,CASP3
+"10,12-octadecadienoic acid",C094849,,Myocardial Infarction,MESH:D009203,,CASP3
+"10,12-octadecadienoic acid",C094849,,Myocardial Reperfusion Injury,MESH:D015428,,CASP3
+"10,12-octadecadienoic acid",C094849,,Nerve Degeneration,MESH:D009410,,CASP3
+"10,12-octadecadienoic acid",C094849,,Nerve Degeneration,MESH:D009410,,PPARG
+"10,12-octadecadienoic acid",C094849,,Nervous System Diseases,MESH:D009422,,CASP3
+"10,12-octadecadienoic acid",C094849,,Neurotoxicity Syndromes,MESH:D020258,,CASP3
+"10,12-octadecadienoic acid",C094849,,Non-alcoholic Fatty Liver Disease,MESH:D065626,,PPARG
+"10,12-octadecadienoic acid",C094849,,Obesity,MESH:D009765,,PPARG
+"10,12-octadecadienoic acid",C094849,,Osteoarthritis,MESH:D010003,,PPARG
+"10,12-octadecadienoic acid",C094849,,Pancreatic Neoplasms,MESH:D010190,,PPARG
+"10,12-octadecadienoic acid",C094849,,Pituitary ACTH Hypersecretion,MESH:D047748,,PPARG
+"10,12-octadecadienoic acid",C094849,,Pneumoconiosis,MESH:D011009,,SCD5
+"10,12-octadecadienoic acid",C094849,,"Polycystic Kidney, Autosomal Dominant",MESH:D016891,,PPARG
+"10,12-octadecadienoic acid",C094849,,Pre-Eclampsia,MESH:D011225,,PPARG
+"10,12-octadecadienoic acid",C094849,,Psoriasis,MESH:D011565,,PPARG
+"10,12-octadecadienoic acid",C094849,,Renal Insufficiency,MESH:D051437,,PPARG
+"10,12-octadecadienoic acid",C094849,,Reperfusion Injury,MESH:D015427,,CASP3
+"10,12-octadecadienoic acid",C094849,,Reperfusion Injury,MESH:D015427,,PPARG
+"10,12-octadecadienoic acid",C094849,,Retinal Detachment,MESH:D012163,,CASP3
+"10,12-octadecadienoic acid",C094849,,Sepsis,MESH:D018805,,CASP3
+"10,12-octadecadienoic acid",C094849,,Spinal Cord Injuries,MESH:D013119,,CASP3
+"10,12-octadecadienoic acid",C094849,,Status Epilepticus,MESH:D013226,,CASP3
+"10,12-octadecadienoic acid",C094849,,Stomach Neoplasms,MESH:D013274,,PPARG
+"10,12-octadecadienoic acid",C094849,,Subarachnoid Hemorrhage,MESH:D013345,,CASP3
+"10,12-octadecadienoic acid",C094849,,Subarachnoid Hemorrhage,MESH:D013345,,PPARG
+"10,12-octadecadienoic acid",C094849,,"Thyroid cancer, follicular",MESH:C572845,,PPARG
+"10,12-octadecadienoic acid",C094849,,Thyroid Neoplasms,MESH:D013964,,PPARG
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Acute Lung Injury,MESH:D055371,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Adenocarcinoma,MESH:D000230,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Alzheimer Disease,MESH:D000544,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Autoimmune Lymphoproliferative Syndrome,MESH:D056735,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Brain Ischemia,MESH:D002545,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Breast Neoplasms,MESH:D001943,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Calcinosis,MESH:D002114,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Carcinoma, Hepatocellular",MESH:D006528,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Cerebral Hemorrhage,MESH:D002543,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Cerebral Hemorrhage,MESH:D002543,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Colitis, Ulcerative",MESH:D003093,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Colorectal Neoplasms,MESH:D015179,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Copper-Overload Cirrhosis,MESH:C566858,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Cryptorchidism,MESH:D003456,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Dermatitis, Allergic Contact",MESH:D017449,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Dermatitis, Contact",MESH:D003877,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Diabetes Mellitus, Experimental",MESH:D003921,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Diabetes Mellitus, Type 2",MESH:D003924,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Diabetes Mellitus, Type 2",MESH:D003924,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Diabetic Angiopathies,MESH:D003925,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Diabetic Neuropathies,MESH:D003929,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Diabetic Retinopathy,MESH:D003930,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Edema,MESH:D004487,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Edema,MESH:D004487,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Esophageal Neoplasms,MESH:D004938,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Heart Valve Diseases,MESH:D006349,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Hepatitis, Chronic",MESH:D006521,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Lung Neoplasms,MESH:D008175,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Melanoma,MESH:D008545,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Mitochondrial Diseases,MESH:D028361,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Mycoplasma Infections,MESH:D009175,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Myocardial Infarction,MESH:D009203,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Myocardial Reperfusion Injury,MESH:D015428,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Myocardial Reperfusion Injury,MESH:D015428,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Nerve Degeneration,MESH:D009410,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Nervous System Diseases,MESH:D009422,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Neurotoxicity Syndromes,MESH:D020258,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Papillomavirus Infections,MESH:D030361,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Precursor Cell Lymphoblastic Leukemia-Lymphoma,MESH:D054198,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,"Prostate cancer, familial",MESH:C537243,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Reperfusion Injury,MESH:D015427,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Reperfusion Injury,MESH:D015427,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Retinal Detachment,MESH:D012163,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Sepsis,MESH:D018805,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Skin Neoplasms,MESH:D012878,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Spinal Cord Injuries,MESH:D013119,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Squamous Cell Carcinoma of Head and Neck,MESH:D000077195,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Status Epilepticus,MESH:D013226,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Status Epilepticus,MESH:D013226,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Stomach Neoplasms,MESH:D013274,,CASP8
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Subarachnoid Hemorrhage,MESH:D013345,,CASP3
+10-(2-pyrazolylethoxy)camptothecin,C534422,,Uterine Cervical Neoplasms,MESH:D002583,,CASP8
+103D5R,C496879,,Acute Kidney Injury,MESH:D058186,,VEGFA
+103D5R,C496879,,Adenocarcinoma,MESH:D000230,,AKT1
+103D5R,C496879,,Adenocarcinoma,MESH:D000230,,VEGFA
+103D5R,C496879,,Adenomatous Polyposis Coli,MESH:D011125,,AKT1
+103D5R,C496879,,Alzheimer Disease,MESH:D000544,,VEGFA
+103D5R,C496879,,Amphetamine-Related Disorders,MESH:D019969,,AKT1
+103D5R,C496879,,Anaplasia,MESH:D000708,,HIF1A
+103D5R,C496879,,"Aortic Valve, Calcification of",MESH:C562942,,AKT1
+103D5R,C496879,,"Arthritis, Experimental",MESH:D001169,,VEGFA
+103D5R,C496879,,"Arthritis, Juvenile",MESH:D001171,,MAPK1
+103D5R,C496879,,"Arthritis, Rheumatoid",MESH:D001172,,VEGFA
+103D5R,C496879,,Asthma,MESH:D001249,,VEGFA
+103D5R,C496879,,Astrocytoma,MESH:D001254,,HIF1A
+103D5R,C496879,,Ataxia,MESH:D001259,,SLC2A1
+103D5R,C496879,,Atherosclerosis,MESH:D050197,,VEGFA
+103D5R,C496879,,Atrophy,MESH:D001284,,MAPK3
+103D5R,C496879,,Autistic Disorder,MESH:D001321,,MAPK3
+103D5R,C496879,,Brain Injuries,MESH:D001930,,VEGFA
+103D5R,C496879,,Brain Ischemia,MESH:D002545,,HIF1A
+103D5R,C496879,,Brain Ischemia,MESH:D002545,,MAPK1
+103D5R,C496879,,Brain Ischemia,MESH:D002545,,MAPK3
+103D5R,C496879,,Brain Neoplasms,MESH:D001932,,VEGFA
+103D5R,C496879,,Breast Neoplasms,MESH:D001943,,AKT1
+103D5R,C496879,,Breast Neoplasms,MESH:D001943,,HIF1A
+103D5R,C496879,,Breast Neoplasms,MESH:D001943,,SLC2A1
+103D5R,C496879,,"Bronchitis, Chronic",MESH:D029481,,VEGFA
+103D5R,C496879,,Carcinogenesis,MESH:D063646,,AKT1
+103D5R,C496879,,Carcinoma,MESH:D002277,,HIF1A
+103D5R,C496879,,"Carcinoma, Ductal",MESH:D044584,,HIF1A
+103D5R,C496879,,"Carcinoma, Ductal",MESH:D044584,,SLC2A1
+103D5R,C496879,,"Carcinoma, Hepatocellular",MESH:D006528,,AKT1
+103D5R,C496879,,"Carcinoma, Hepatocellular",MESH:D006528,,SLC2A1
+103D5R,C496879,,"Carcinoma, Intraductal, Noninfiltrating",MESH:D002285,,HIF1A
+103D5R,C496879,,"Carcinoma, Intraductal, Noninfiltrating",MESH:D002285,,SLC2A1
+103D5R,C496879,,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,,HIF1A
+103D5R,C496879,,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,,VEGFA
+103D5R,C496879,,"Carcinoma, Pancreatic Ductal",MESH:D021441,,VEGFA
+103D5R,C496879,,"Carcinoma, Renal Cell",MESH:D002292,,SLC2A1
+103D5R,C496879,,"Carcinoma, Squamous Cell",MESH:D002294,,AKT1
+103D5R,C496879,,"Carcinoma, Squamous Cell",MESH:D002294,,MAPK1
+103D5R,C496879,,"Carcinoma, Squamous Cell",MESH:D002294,,MAPK3
+103D5R,C496879,,"Carcinoma, Squamous Cell",MESH:D002294,,VEGFA
+103D5R,C496879,,Cardiomegaly,MESH:D006332,,AKT1
+103D5R,C496879,,Cardiomegaly,MESH:D006332,,HIF1A
+103D5R,C496879,,Cardiomyopathies,MESH:D009202,,AKT1
+103D5R,C496879,,Cardiomyopathies,MESH:D009202,,MAPK1
+103D5R,C496879,,Cardiomyopathies,MESH:D009202,,MAPK3
+103D5R,C496879,,"Cell Transformation, Neoplastic",MESH:D002471,,HIF1A
+103D5R,C496879,,"Cell Transformation, Neoplastic",MESH:D002471,,MAPK8
+103D5R,C496879,,"Cell Transformation, Neoplastic",MESH:D002471,,SLC2A1
+103D5R,C496879,,"Cell Transformation, Neoplastic",MESH:D002471,,VEGFA
+103D5R,C496879,,Cerebral Hemorrhage,MESH:D002543,,VEGFA
+103D5R,C496879,,"Ceroid Lipofuscinosis, Neuronal, 6",MESH:C566627,,MAPK1
+103D5R,C496879,,"Ceroid Lipofuscinosis, Neuronal, 6",MESH:C566627,,MAPK3
+103D5R,C496879,,Chemical and Drug Induced Liver Injury,MESH:D056486,,VEGFA
+103D5R,C496879,,"Cholangitis, Sclerosing",MESH:D015209,,HIF1A
+103D5R,C496879,,"Cholestasis, Extrahepatic",MESH:D001651,,MAPK1
+103D5R,C496879,,"Cholestasis, Extrahepatic",MESH:D001651,,MAPK3
+103D5R,C496879,,"Cholestasis, Extrahepatic",MESH:D001651,,MAPK8
+103D5R,C496879,,"Choreoathetosis-Spasticity, Episodic",MESH:C563401,,SLC2A1
+103D5R,C496879,,Choroidal Neovascularization,MESH:D020256,,VEGFA
+103D5R,C496879,,Clear-cell metastatic renal cell carcinoma,MESH:C538445,,VEGFA
+103D5R,C496879,,Cocaine-Related Disorders,MESH:D019970,,MAPK1
+103D5R,C496879,,Cocaine-Related Disorders,MESH:D019970,,MAPK3
+103D5R,C496879,,Colonic Neoplasms,MESH:D003110,,SLC2A1
+103D5R,C496879,,Colonic Neoplasms,MESH:D003110,,VEGFA
+103D5R,C496879,,Colorectal Neoplasms,MESH:D015179,,AKT1
+103D5R,C496879,,Corneal Neovascularization,MESH:D016510,,VEGFA
+103D5R,C496879,,Coronary Artery Disease,MESH:D003324,,VEGFA
+103D5R,C496879,,Coronavirus Infections,MESH:D018352,,MAPK1
+103D5R,C496879,,Coronavirus Infections,MESH:D018352,,MAPK3
+103D5R,C496879,,COWDEN SYNDROME 6,OMIM:615109,,AKT1
+103D5R,C496879,,"Cryohydrocytosis, Stomatin-Deficient, with Mental Retardation, Seizures, Cataracts, and Massive Hepatosplenomegaly",MESH:C563840,,SLC2A1
+103D5R,C496879,,"Dermatitis, Atopic",MESH:D003876,,MAPK8
+103D5R,C496879,,"Dermatitis, Contact",MESH:D003877,,VEGFA
+103D5R,C496879,,Developmental Disabilities,MESH:D002658,,MAPK3
+103D5R,C496879,,Developmental Disabilities,MESH:D002658,,SLC2A1
+103D5R,C496879,,Diabetes Complications,MESH:D048909,,HIF1A
+103D5R,C496879,,Diabetes Complications,MESH:D048909,,VEGFA
+103D5R,C496879,,"Diabetes Mellitus, Experimental",MESH:D003921,,VEGFA
+103D5R,C496879,,"Diabetes Mellitus, Type 2",MESH:D003924,,AKT1
+103D5R,C496879,,"Diabetes Mellitus, Type 2",MESH:D003924,,SLC2A1
+103D5R,C496879,,Diabetic Nephropathies,MESH:D003928,,VEGFA
+103D5R,C496879,,Diabetic Retinopathy,MESH:D003930,,VEGFA
+103D5R,C496879,,"Disease Models, Animal",MESH:D004195,,AKT1
+103D5R,C496879,,"Disease Models, Animal",MESH:D004195,,MAPK1
+103D5R,C496879,,"Disease Models, Animal",MESH:D004195,,MAPK3
+103D5R,C496879,,"Disease Models, Animal",MESH:D004195,,MAPK8
+103D5R,C496879,,Disease Progression,MESH:D018450,,HIF1A
+103D5R,C496879,,Drug-Related Side Effects and Adverse Reactions,MESH:D064420,,VEGFA
+103D5R,C496879,,Endometrial Neoplasms,MESH:D016889,,VEGFA
+103D5R,C496879,,Epilepsy,MESH:D004827,,AKT1
+103D5R,C496879,,"Epilepsy, Temporal Lobe",MESH:D004833,,VEGFA
+103D5R,C496879,,Erectile Dysfunction,MESH:D007172,,VEGFA
+103D5R,C496879,,Esophageal Squamous Cell Carcinoma,MESH:D000077277,,HIF1A
+103D5R,C496879,,Fatty Liver,MESH:D005234,,AKT1
+103D5R,C496879,,Fibrosis,MESH:D005355,,AKT1
+103D5R,C496879,,Glioblastoma,MESH:D005909,,HIF1A
+103D5R,C496879,,Glioblastoma,MESH:D005909,,VEGFA
+103D5R,C496879,,Gliosarcoma,MESH:D018316,,VEGFA
+103D5R,C496879,,Gliosis,MESH:D005911,,MAPK1
+103D5R,C496879,,Gliosis,MESH:D005911,,MAPK3
+103D5R,C496879,,Glut1 Deficiency Syndrome,MESH:C536830,,SLC2A1
+103D5R,C496879,,GLUT1 DEFICIENCY SYNDROME 2,OMIM:612126,,SLC2A1
+103D5R,C496879,,Head and Neck Neoplasms,MESH:D006258,,MAPK1
+103D5R,C496879,,Head and Neck Neoplasms,MESH:D006258,,MAPK3
+103D5R,C496879,,Head and Neck Neoplasms,MESH:D006258,,VEGFA
+103D5R,C496879,,"Heart Defects, Congenital",MESH:D006330,,HIF1A
+103D5R,C496879,,"Heart Defects, Congenital",MESH:D006330,,VEGFA
+103D5R,C496879,,Heart Diseases,MESH:D006331,,VEGFA
+103D5R,C496879,,Heart Failure,MESH:D006333,,HIF1A
+103D5R,C496879,,Heart Failure,MESH:D006333,,VEGFA
+103D5R,C496879,,Hemangioblastoma,MESH:D018325,,HIF1A
+103D5R,C496879,,Hemangiosarcoma,MESH:D006394,,VEGFA
+103D5R,C496879,,Hemorrhage,MESH:D006470,,VEGFA
+103D5R,C496879,,Hepatomegaly,MESH:D006529,,AKT1
+103D5R,C496879,,Hodgkin Disease,MESH:D006689,,MAPK1
+103D5R,C496879,,Hyperalgesia,MESH:D006930,,MAPK1
+103D5R,C496879,,Hyperalgesia,MESH:D006930,,MAPK3
+103D5R,C496879,,Hyperalgesia,MESH:D006930,,MAPK8
+103D5R,C496879,,Hyperplasia,MESH:D006965,,AKT1
+103D5R,C496879,,Hyperplasia,MESH:D006965,,HIF1A
+103D5R,C496879,,Hypertension,MESH:D006973,,HIF1A
+103D5R,C496879,,"Hypertension, Portal",MESH:D006975,,VEGFA
+103D5R,C496879,,"Hypertension, Pulmonary",MESH:D006976,,HIF1A
+103D5R,C496879,,Hypertriglyceridemia,MESH:D015228,,AKT1
+103D5R,C496879,,Hypertrophy,MESH:D006984,,MAPK1
+103D5R,C496879,,Hypertrophy,MESH:D006984,,MAPK3
+103D5R,C496879,,"Hypoxia-Ischemia, Brain",MESH:D020925,,HIF1A
+103D5R,C496879,,"Hypoxia-Ischemia, Brain",MESH:D020925,,VEGFA
+103D5R,C496879,,Idiopathic Pulmonary Fibrosis,MESH:D054990,,HIF1A
+103D5R,C496879,,"Infertility, Female",MESH:D007247,,MAPK1
+103D5R,C496879,,"Infertility, Female",MESH:D007247,,MAPK3
+103D5R,C496879,,Inflammation,MESH:D007249,,AKT1
+103D5R,C496879,,Inflammation,MESH:D007249,,VEGFA
+103D5R,C496879,,Intellectual Disability,MESH:D008607,,SLC2A1
+103D5R,C496879,,Kidney Neoplasms,MESH:D007680,,MAPK1
+103D5R,C496879,,Kidney Neoplasms,MESH:D007680,,MAPK3
+103D5R,C496879,,Learning Disabilities,MESH:D007859,,VEGFA
+103D5R,C496879,,"Leukemia, Myeloid",MESH:D007951,,VEGFA
+103D5R,C496879,,"Leukemia, Promyelocytic, Acute",MESH:D015473,,AKT1
+103D5R,C496879,,Liver Cirrhosis,MESH:D008103,,HIF1A
+103D5R,C496879,,Liver Cirrhosis,MESH:D008103,,VEGFA
+103D5R,C496879,,"Liver Cirrhosis, Biliary",MESH:D008105,,HIF1A
+103D5R,C496879,,"Liver Cirrhosis, Experimental",MESH:D008106,,VEGFA
+103D5R,C496879,,Liver Failure,MESH:D017093,,VEGFA
+103D5R,C496879,,"Liver Failure, Acute",MESH:D017114,,MAPK8
+103D5R,C496879,,Liver Neoplasms,MESH:D008113,,SLC2A1
+103D5R,C496879,,"Liver Neoplasms, Experimental",MESH:D008114,,MAPK1
