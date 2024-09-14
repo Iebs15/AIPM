@@ -129,7 +129,7 @@ function ProteinStability() {
                         <div className="mb-4">
                             <Input
                                 className="mb-4"
-                                placeholder="Enter initial sequence"
+                                placeholder="Enter intial amino acid sequence"
                                 value={inputSequence}
                                 onChange={(e) => setInputSequence(e.target.value)}
                             />
@@ -145,11 +145,11 @@ function ProteinStability() {
                     <div className="space-y-4 mb-4">
                         <Input
                             className="mb-4"
-                            placeholder="Enter initial sequence"
+                            placeholder="Enter initial amino acid sequence"
                             value={inputSequence}
                         />
                         <Input
-                            placeholder="Enter mutated sequence"
+                            placeholder="Enter mutated amino acid sequence"
                             value={mutatedSequence}
                             onChange={(e) => setMutatedSequence(e.target.value)}
                         />
@@ -176,17 +176,17 @@ function ProteinStability() {
                             </TabsList>
                             <TabsContent value="replace" className="space-y-4">
                                 <Input
-                                    placeholder="Start index"
+                                    placeholder="Start locus"
                                     value={replaceSequence.start}
                                     onChange={(e) => setReplaceSequence({ ...replaceSequence, start: e.target.value })}
                                 />
                                 <Input
-                                    placeholder="End index"
+                                    placeholder="End locus"
                                     value={replaceSequence.end}
                                     onChange={(e) => setReplaceSequence({ ...replaceSequence, end: e.target.value })}
                                 />
                                 <Input
-                                    placeholder="New sequence"
+                                    placeholder="New amino acid sequence"
                                     value={replaceSequence.new}
                                     onChange={(e) => setReplaceSequence({ ...replaceSequence, new: e.target.value })}
                                 />
@@ -194,7 +194,7 @@ function ProteinStability() {
                             </TabsContent>
                             <TabsContent value="add" className="space-y-4">
                                 <Input
-                                    placeholder="Index"
+                                    placeholder="Locus"
                                     value={addSequence.index}
                                     onChange={(e) => setAddSequence({ ...addSequence, index: e.target.value })}
                                 />
@@ -207,7 +207,7 @@ function ProteinStability() {
                             </TabsContent>
                             <TabsContent value="delete" className="space-y-4">
                                 <Input
-                                    placeholder="Start index"
+                                    placeholder="Start locus"
                                     value={deleteSequence.start}
                                     onChange={(e) => setDeleteSequence({ ...deleteSequence, start: e.target.value })}
                                 />
@@ -226,14 +226,14 @@ function ProteinStability() {
                     <div className="space-y-4 mt-4">
                         <div className="mb-4">
                             <Input
-                                placeholder="Enter initial sequence"
+                                placeholder="Enter initial amino acid sequence"
                                 value={inputSequence}
                                 onChange={(e) => setInputSequence(e.target.value)}
                             />
                         </div>
                         <div className="mb-4">
                             <Input
-                                placeholder="Enter mutated sequence"
+                                placeholder="Enter mutated amino acid sequence"
                                 value={mutatedSequence}
                                 onChange={(e) => setMutatedSequence(e.target.value)}
                             />
