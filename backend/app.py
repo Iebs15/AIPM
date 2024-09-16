@@ -129,8 +129,8 @@ def getscore():
     base_path = os.path.dirname(os.path.abspath(__file__))
 
     # Construct absolute paths
-    model_path = os.path.join(base_path, '../backend/drugrepurposing/Drug-Repurposing-v1.0/results/Graph/drug_protein_network_trial.gpickle')
-    drug_disease_path = os.path.join(base_path, '../backend/drugrepurposing/Drug-Repurposing-v1.0/data/Cleansed_CTD_chemicals_diseases.csv')
+    model_path = os.path.join(base_path, 'drugrepurposing/Drug-Repurposing-v1.0/results/Graph/drug_protein_network_trial.gpickle')
+    drug_disease_path = os.path.join(base_path, 'drugrepurposing/Drug-Repurposing-v1.0/data/Cleansed_CTD_chemicals_diseases.csv')
 
     # Read the CSV file using the constructed path
     drug_disease = pd.read_csv(drug_disease_path)
