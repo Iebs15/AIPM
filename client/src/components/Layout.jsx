@@ -18,7 +18,7 @@ function Layout({ children }) {
         </div>
 
         {/* Vertical Separator */}
-        <Separator orientation="vertical" className="bg-black" />
+        <Separator orientation="vertical" className="bg-black py-4" />
 
         {/* Main Content Area */}
         <div className="flex-1 overflow-auto p-4">
