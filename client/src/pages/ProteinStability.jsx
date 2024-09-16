@@ -38,7 +38,7 @@ function ProteinStability() {
     const predictStability = async () => {
         try {
             setLoading(true);
-            const response = await fetch('http://3.91.33.92:5000/check_score', {
+            const response = await fetch('http://52.91.54.146:5000/check_score', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
