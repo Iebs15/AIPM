@@ -10,6 +10,7 @@ import ProteinStability from './pages/ProteinStability.jsx'
 import DrugRepurposing from './pages/DrugRepurposing.jsx'
 import PrivateRoute from './PrivateRoute.jsx'
 import Home from './pages/Home.jsx'
+import CTO from './pages/CTO.jsx'
 
 
 const router = createBrowserRouter([
@@ -47,6 +48,16 @@ const router = createBrowserRouter([
       <PrivateRoute>
         <Layout>
           <DrugRepurposing />
+        </Layout>
+      </PrivateRoute>
+    )
+  },
+  {
+    path: "/cto",
+    element: (
+      <PrivateRoute>
+        <Layout>
+          <CTO />
         </Layout>
       </PrivateRoute>
     )

@@ -14,6 +14,8 @@ from werkzeug.security import generate_password_hash, check_password_hash
 # Import get_esm2_embedding from utils.py
 from proteinstability.models import get_esm2_embedding
 import drugrepurposing.Utilities as ut
+from CTO.inference import embed_single_row, xgb_classifier
+
 
 app = Flask(__name__)
 CORS(app)
@@ -136,5 +138,48 @@ def getscore():
     print(drug_ranking)
     return jsonify(drug_ranking)
 
+
+# Load the Excel data
+toy_df = pd.read_excel('./CTO/train_df.xlsx')
+
+# API to get trial data by NCTID
+@app.route('/get-trial-data/<nctid>', methods=['GET'])
+def get_trial_data(nctid):
+    row = toy_df[toy_df['nctid'] == nctid]
+    if row.empty:
+        return jsonify({"error": "NCTID not found"}), 404
+    row_data = row.iloc[0].to_dict()
+
+    # Convert NaN values to None for valid JSON response
+    row_data = {k: (None if pd.isna(v) else v) for k, v in row_data.items()}
+
+    return jsonify(row_data)
+
+# API to predict the outcome
+@app.route('/predict-outcome', methods=['POST'])
+def predict_outcome():
+    data = request.json
+    example_row = {
+        'nctid': data['nctid'],
+        'lead_sponsor': data['lead_sponsor'],
+        'enrollment': int(data['enrollment']),
+        'enrollment_mean': toy_df['enrollment'].mean(),
+        'enrollment_std': toy_df['enrollment'].std(),
+    }
+
+    # Run the prediction
+    input_data = embed_single_row(example_row).reshape(1, -1)
+    prediction = xgb_classifier.predict_proba(input_data)[:, 1]
+    
+    # Convert probability to percentage
+    probability = prediction[0] * 100
+    
+    # Return "Yes" or "No" based on the prediction
+    result = "Yes" if probability > 50 else "No"
+    
+    return jsonify({"prediction": result, "probability": probability})
+
+
 if __name__ == '__main__':
     app.run(debug=True)
+

@@ -73,15 +73,15 @@ function Sidebar() {
                                         </a>
                                     </li>
                                     <li>
+                                        <a href="/cto" className="flex items-center text-white  ">
+                                            Clinical Outcome Prediciton
+                                        </a>
+                                    </li>
+                                    {/* <li>
                                         <a href="#" className="flex items-center text-white  ">
                                             Protein Stability Predictor
                                         </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" className="flex items-center text-white  ">
-                                            Protein Stability Predictor
-                                        </a>
-                                    </li>
+                                    </li> */}
                                 </ul>
 
                             )}
