@@ -1,4 +1,4 @@
-import  BlurFade  from "@/components/magicui/blur-fade";
+import BlurFade from "@/components/magicui/blur-fade";
 import ShimmerButton from "@/components/magicui/shimmer-button"; // Assuming this is the preferred button component
 
 export default function ToolsSection() {
@@ -14,19 +14,19 @@ export default function ToolsSection() {
             pharmaceutical and healthcare industries. Our innovative solutions transform raw data into actionable insights,
             driving growth and improving patient outcomes.
           </p>
-          
+
           <div className="grid md:grid-cols-2 gap-8">
             <ToolCard
               title="Protein Stability"
               description="Leverage advanced algorithms to predict and analyze protein stability, crucial for drug development and optimization."
               offerings={["Stability Prediction", "Mutation Analysis"]}
-              href='http://127.0.0.1:5175/protein-stability'
+              href='/protein-stability'
             />
             <ToolCard
               title="Drug Repurposing"
               description="Identify new therapeutic applications for existing drugs, accelerating the drug discovery process and reducing development costs."
               offerings={["Compound Screening", "Target Identification"]}
-               href='http://127.0.0.1:5175/drug-repurposing'
+              href='/drug-repurposing'
             />
           </div>
         </div>
@@ -56,14 +56,15 @@ function ToolCard({ title, description, offerings, href }) {
         ))}
       </ul>
       <div className="flex flex-row justify-center gap-8 mt-8">
-      <a href={href}/>
-      <ShimmerButton
-      className="shadow-2xl" background="darkBlue" borderRadius="4px"
-      >
-        <span className="whitespace-pre-wrap text-center text-sm font-medium leading-none tracking-tight text-white lg:text-lg">
-          Learn More
-        </span>
-      </ShimmerButton>
+        <a href={href}>
+          <ShimmerButton
+            className="shadow-2xl" background="darkBlue" borderRadius="4px"
+          >
+            <span className="whitespace-pre-wrap text-center text-sm font-medium leading-none tracking-tight text-white lg:text-lg">
+              Learn More
+            </span>
+          </ShimmerButton>
+        </a>
       </div>
     </div>
   );

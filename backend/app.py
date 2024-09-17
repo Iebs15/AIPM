@@ -128,8 +128,14 @@ def getscore():
 
     # No need to extract ChemicalID again, since it's already a list of IDs
     # Path to your model and CSV file
-    model_path = '../backend/drugrepurposing/Drug-Repurposing-v1.0/results/Graph/drug_protein_network_trial.gpickle'
-    drug_disease = pd.read_csv(r'../backend/drugrepurposing/Drug-Repurposing-v1.0/data/Cleansed_CTD_chemicals_diseases.csv')
+    base_path = os.path.dirname(os.path.abspath(__file__))
+
+    # Construct absolute paths
+    model_path = os.path.join(base_path, 'drugrepurposing/Drug-Repurposing-v1.0/results/Graph/drug_protein_network_trial.gpickle')
+    drug_disease_path = os.path.join(base_path, 'drugrepurposing/Drug-Repurposing-v1.0/data/Cleansed_CTD_chemicals_diseases.csv')
+
+    # Read the CSV file using the constructed path
+    drug_disease = pd.read_csv(drug_disease_path)
 
     # Use the utility function to calculate the drug scores
     drug_ranking = ut.drug_scoring(target_disease, known_drugs, model_path, drug_disease)
