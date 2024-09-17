@@ -29,7 +29,7 @@ export default function CTO() {
   const handleSubmit = async (e) => {
     e.preventDefault()
     try {
-      const response = await fetch(`http://127.0.0.1:5000/get-trial-data/${input}`)
+      const response = await fetch(`http://52.91.54.146:5000/get-trial-data/${input}`)
       if (!response.ok) {
         setManualEntry(true) // If no data, enable manual entry
         setTrialData({
@@ -65,7 +65,7 @@ export default function CTO() {
   // Call the backend API for prediction
   const handlePredict = async () => {
     try {
-      const response = await fetch("http://127.0.0.1:5000/predict-outcome", {
+      const response = await fetch("http://52.91.54.146:5000/predict-outcome", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
