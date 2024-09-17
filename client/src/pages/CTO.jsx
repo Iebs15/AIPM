@@ -20,7 +20,7 @@ export default function CTO() {
 
     // Reset the trial data, result, and probability when NCTID changes
     setTrialData(null)
-    setResult(null)
+    // setResult(null)
     setProbability(null)
     setManualEntry(false)
   }
@@ -194,7 +194,7 @@ export default function CTO() {
       )}
 
       {/* Display the prediction result with probability */}
-      {result && probability && (
+      {probability && (
         <div className="w-full mt-4"> {/* Changed max-w-4xl to w-full */}
           <div
             className={`p-6 rounded-md text-center text-white font-semibold text-xl ${
