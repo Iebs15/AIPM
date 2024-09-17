@@ -177,13 +177,12 @@ def predict_outcome():
     input_data = embed_single_row(example_row).reshape(1, -1)
     prediction = xgb_classifier.predict_proba(input_data)[:, 1]
     
-    # Convert probability to percentage
-    probability = prediction[0] * 100
+    # Convert probability to percentage and cast to Python float
+    probability = float(prediction[0] * 100)
     
-    # Return "Yes" or "No" based on the prediction
-    # result = "Yes" if probability > 50 else "No"
-    
+    # Return the probability as JSON
     return jsonify({"probability": probability})
+
 
 
 if __name__ == '__main__':
