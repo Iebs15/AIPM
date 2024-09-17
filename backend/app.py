@@ -146,7 +146,7 @@ def getscore():
 
 
 # Load the Excel data
-toy_df = pd.read_excel('./CTO/train_df.xlsx')
+toy_df = pd.read_excel('./CTO/all_trials_df.xlsx')
 
 # API to get trial data by NCTID
 @app.route('/get-trial-data/<nctid>', methods=['GET'])
