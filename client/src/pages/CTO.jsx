@@ -9,7 +9,7 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter }
 export default function CTO() {
   const [input, setInput] = useState("")
   const [trialData, setTrialData] = useState(null)
-  const [result, setResult] = useState(null)
+//   const [result, setResult] = useState(null)
   const [probability, setProbability] = useState(null) // Store the probability value
   const [manualEntry, setManualEntry] = useState(false) // To track if manual data entry is needed
 
@@ -75,7 +75,7 @@ export default function CTO() {
         }),
       })
       const data = await response.json()
-      setResult(data.prediction)
+    //   setResult(data.prediction)
       setProbability(data.probability.toFixed(2)) // Set probability to 2 decimal places
     } catch (error) {
       alert("Prediction failed!")

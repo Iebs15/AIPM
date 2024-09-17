@@ -181,9 +181,9 @@ def predict_outcome():
     probability = prediction[0] * 100
     
     # Return "Yes" or "No" based on the prediction
-    result = "Yes" if probability > 50 else "No"
+    # result = "Yes" if probability > 50 else "No"
     
-    return jsonify({"prediction": result, "probability": probability})
+    return jsonify({"probability": probability})
 
 
 if __name__ == '__main__':
