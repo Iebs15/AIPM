@@ -35,6 +35,7 @@ export default function DrugRepurposing() {
 
     try {
       const response = await fetch('http://52.91.54.146:5000/getscore', {
+      // const response = await fetch('http://localhost:5000/getscore', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -47,6 +48,7 @@ export default function DrugRepurposing() {
       }
 
       const resultData = await response.json()
+      console.log(resultData);
       const filteredResults = Object.entries(resultData).filter(([drugID]) =>
         !selectedDrugs.some((drug) => drug.ChemicalID === drugID)
       )
@@ -116,7 +118,7 @@ export default function DrugRepurposing() {
                       label: d.DiseaseName,
                     }))}
                     onChange={(selectedOption) =>
-                      setSelectedDisease(selectedOption ? selectedOption.value : null)
+                      setSelectedDisease(selectedOption.value.DiseaseName ? selectedOption.value.DiseaseName : null)
                     }
                     isSearchable
                     placeholder="Search or enter a disease"
@@ -166,11 +168,11 @@ export default function DrugRepurposing() {
                         </TableHeader>
                         <TableBody>
                           {results
-                            .filter(result => result.score !== 0)
+                            .filter(result => result.score !== '0%')
                             .map((result) => (
                               <TableRow key={result.name}>
                                 <TableCell>{result.name}</TableCell>
-                                <TableCell>{(result.score * 10000000000000)}</TableCell>
+                                <TableCell>{(result.score)}</TableCell>
                               </TableRow>
                             ))}
                         </TableBody>

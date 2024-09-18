@@ -54,7 +54,7 @@ new_column_names_gene = [
 # For Phenoterm
 new_column_names_Phenoterm = [
     "ChemicalName", "ChemicalID", "PhenotypeName", "PhenotypeID", "CoMentionedTerms", "Organism",
-    "OrganismID","Interaction","InteractionActionsAnatomyTerms","InferenceGeneSymbols"
+    "OrganismID","Interaction","InteractionActions","AnatomyTerms","InferenceGeneSymbols"
 ]
 
 # To Store result
