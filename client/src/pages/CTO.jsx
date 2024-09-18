@@ -29,7 +29,7 @@
 //   const handleSubmit = async (e) => {
 //     e.preventDefault()
 //     try {
-//       const response = await fetch(`http://52.91.54.146:5000/get-trial-data/${input}`)
+//       const response = await fetch(`http://54.174.211.13:5000/get-trial-data/${input}`)
 //       if (!response.ok) {
 //         setManualEntry(true) // If no data, enable manual entry
 //         setTrialData({
@@ -65,7 +65,7 @@
 //   // Call the backend API for prediction
 //   const handlePredict = async () => {
 //     try {
-//       const response = await fetch("http://52.91.54.146:5000/predict-outcome", {
+//       const response = await fetch("http://54.174.211.13:5000/predict-outcome", {
 //         method: "POST",
 //         headers: { "Content-Type": "application/json" },
 //         body: JSON.stringify({
@@ -237,7 +237,7 @@ export default function CTO() {
     e.preventDefault()
     try {
       // Convert the input to uppercase internally before sending to the backend
-      const response = await fetch(`http://52.91.54.146:5000/get-trial-data/${input.toUpperCase()}`)
+      const response = await fetch(`http://54.174.211.13:5000/get-trial-data/${input.toUpperCase()}`)
       if (!response.ok) {
         setManualEntry(true) // If no data, enable manual entry
         setTrialData({
@@ -274,7 +274,7 @@ export default function CTO() {
   const handlePredict = async () => {
     try {
       // Convert the NCTID to uppercase internally before sending the request
-      const response = await fetch("http://52.91.54.146:5000/predict-outcome", {
+      const response = await fetch("http://54.174.211.13:5000/predict-outcome", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

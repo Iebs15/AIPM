@@ -34,7 +34,7 @@ export default function DrugRepurposing() {
     }
 
     try {
-      const response = await fetch('http://52.91.54.146:5000/getscore', {
+      const response = await fetch('http://54.174.211.13:5000/getscore', {
       // const response = await fetch('http://localhost:5000/getscore', {
         method: 'POST',
         headers: {
