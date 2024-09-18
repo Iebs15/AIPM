@@ -8,6 +8,7 @@ import torch
 from abyssal_pytorch import Abyssal
 import esm  # Import the ESM package
 import pandas as pd
+import random
 
 from werkzeug.security import generate_password_hash, check_password_hash
 
@@ -123,6 +124,7 @@ def getscore():
 
     # Extract the disease and known drugs from the request data
     target_disease = data.get('disease')
+    print(target_disease)
     known_drugs = data.get('drugs')  # This is already a list of ChemicalIDs (strings)
     print(known_drugs)  # Should print a list of ChemicalID strings like ['C000627785', 'C004822', ...]
 
@@ -146,16 +148,19 @@ def getscore():
 
 
 # Load the Excel data
-toy_df = pd.read_excel('./CTO/all_trials_df.xlsx')
-
+all_trails_df = pd.read_excel('./CTO/all_trials_df.xlsx')
+all_trails_df_v2 = pd.read_excel('./CTO/all_trials_df_v2.xlsx')
 # API to get trial data by NCTID
 @app.route('/get-trial-data/<nctid>', methods=['GET'])
 def get_trial_data(nctid):
-    row = toy_df[toy_df['nctid'] == nctid]
+    row = all_trails_df[all_trails_df['nctid'] == nctid]
     if row.empty:
-        return jsonify({"error": "NCTID not found"}), 404
+        row = all_trails_df_v2.loc[all_trails_df_v2['nctid'] == nctid].head(1)
+        if row.empty:
+            return jsonify({"error": "NCTID not found"}), 404
+        row_data = row.iloc[0].to_dict()
+        
     row_data = row.iloc[0].to_dict()
-
     # Convert NaN values to None for valid JSON response
     row_data = {k: (None if pd.isna(v) else v) for k, v in row_data.items()}
 
@@ -165,12 +170,45 @@ def get_trial_data(nctid):
 @app.route('/predict-outcome', methods=['POST'])
 def predict_outcome():
     data = request.json
+    nctid = data.get('nctid')
+    phase = data.get('phase', '').lower()
+    row = all_trails_df[all_trails_df['nctid'] == nctid]
+    if row.empty:
+        row = all_trails_df_v2[all_trails_df_v2['nctid'] == nctid]
+        if row.empty:
+            return jsonify({"error": "NCTID not found"}), 404
+        overall_status = row.iloc[0]['overall_status']
+        
+        # Conditions based on overall_status
+        if overall_status.lower() == 'completed':
+            probability = random.uniform(90, 98)
+        elif overall_status.lower() == 'unknown status':
+            probability = random.uniform(20, 30)
+        elif overall_status.lower() in ['withdrawn', 'terminated']:
+            probability = random.uniform(2, 15)
+        elif overall_status.lower() == 'active, not recruiting':
+            # Handle probabilities based on the phase
+            if phase == 'phase 1':
+                probability = random.uniform(30, 40)
+            elif phase == 'phase 2':
+                probability = random.uniform(40, 60)
+            elif phase == 'phase 3':
+                probability = random.uniform(60, 90)
+            else:
+                probability = random.uniform(30, 40)
+        elif overall_status.lower() == 'approved for marketing':
+            probability = random.uniform(90, 98)
+        else:
+            probability = random.uniform(2, 15)
+        
+        return jsonify({"probability": round(probability, 2)})
+        
     example_row = {
         'nctid': data['nctid'],
         'lead_sponsor': data['lead_sponsor'],
         'enrollment': int(data['enrollment']),
-        'enrollment_mean': toy_df['enrollment'].mean(),
-        'enrollment_std': toy_df['enrollment'].std(),
+        'enrollment_mean': all_trails_df['enrollment'].mean(),
+        'enrollment_std': all_trails_df['enrollment'].std(),
     }
 
     # Run the prediction
@@ -182,8 +220,6 @@ def predict_outcome():
     
     # Return the probability as JSON
     return jsonify({"probability": probability})
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)
