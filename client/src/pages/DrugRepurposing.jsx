@@ -21,6 +21,7 @@ export default function DrugRepurposing() {
   const [selectedDrugs, setSelectedDrugs] = useState([])
   const [selectedDisease, setSelectedDisease] = useState(null)
   const [results, setResults] = useState([])
+  const [isLoading, setisLoading] = useState(false);
 
   const handleDrugSelection = (selectedOptions) => {
     setSelectedDrugs(selectedOptions ? selectedOptions.map(opt => opt.value) : [])
@@ -28,6 +29,7 @@ export default function DrugRepurposing() {
 
   const handleSubmit = async (e) => {
     e.preventDefault()
+    setisLoading(true);
     const data = {
       disease: selectedDisease,
       drugs: selectedDrugs.map(drug => drug.ChemicalID),
@@ -35,7 +37,7 @@ export default function DrugRepurposing() {
 
     try {
       const response = await fetch('http://54.174.211.13:5000/getscore', {
-      // const response = await fetch('http://localhost:5000/getscore', {
+        // const response = await fetch('http://localhost:5000/getscore', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -60,6 +62,7 @@ export default function DrugRepurposing() {
           score
         }
       })
+      setisLoading(false);
       setResults(top3Drugs)
     } catch (error) {
       console.error('Error:', error)
@@ -152,7 +155,13 @@ export default function DrugRepurposing() {
                     menuPortalTarget={document.body} // Ensure the dropdown is rendered at the top level
                   />
                 </div>
-                <Button className='bg-[#95D524] rounded-[25px]' type="submit">Submit</Button>
+                <Button
+                  className='bg-[#95D524] rounded-[25px]'
+                  type="submit"
+                  disabled={isLoading}  // Disable button when isLoading is true
+                >
+                  {isLoading ? 'Submitting...' : 'Submit'} 
+                </Button>
               </form>
               {results.length > 0 && (
                 <div className="mt-8">
