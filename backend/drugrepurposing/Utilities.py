@@ -266,10 +266,10 @@ def drug_scoring(disease, known_drugs, model_path, drug_disease, device='cpu'):
     threshold = 70
 
     # Filter out drugs below the threshold
-    # filtered_drug_scores = {drug: score for drug, score in drug_scores.items() if score >= threshold}
+    filtered_drug_scores = {drug: score for drug, score in drug_scores.items() if score >= threshold}
 
     # Sort the filtered drugs
-    sorted_drugs = sorted(drug_scores.items(), key=lambda item: item[1], reverse=True)
+    sorted_drugs = sorted(filtered_drug_scores.items(), key=lambda item: item[1], reverse=True)
 
     # Format the scores as percentages
     formatted_drug_scores = {drug: f"{int(score)}%" for drug, score in sorted_drugs}
