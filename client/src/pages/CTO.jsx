@@ -29,7 +29,7 @@ export default function CTO() {
     try {
       // Convert the input to uppercase internally before sending to the backend
       
-      const response = await fetch(`http://54.174.211.13:5000/get-trial-data/${input.toUpperCase()}`)
+      const response = await fetch(`http://54.242.63.182:5000/get-trial-data/${input.toUpperCase()}`)
       if (!response.ok) {
         setManualEntry(true) // If no data, enable manual entry
         setTrialData({
@@ -69,7 +69,7 @@ export default function CTO() {
     setLoadingPredict(true) // Enable loading state for prediction
     try {
       // Convert the NCTID to uppercase internally before sending the request
-      const response = await fetch("http://54.174.211.13:5000/predict-outcome", {
+      const response = await fetch("http://54.242.63.182:5000/predict-outcome", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

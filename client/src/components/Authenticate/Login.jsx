@@ -18,7 +18,7 @@ function Login({ onSwitchToSignup }) {
 
         try {
             // Send a POST request to the backend
-            const response = await fetch('http://54.174.211.13:5000/login', {
+            const response = await fetch('http://54.242.63.182:5000/login', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
