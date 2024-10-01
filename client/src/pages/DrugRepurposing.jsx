@@ -11,7 +11,6 @@ import {
   TableRow,
 } from "@/components/ui/table"
 import { Badge } from "@/components/ui/badge"
-import { Lock } from "lucide-react"
 import { diseases } from "@/components/data/Unique_Diseases"
 import { drugs } from "@/components/data/Unique_Chemicals"
 import Select from "react-select"
@@ -21,7 +20,11 @@ export default function DrugRepurposing() {
   const [selectedDrugs, setSelectedDrugs] = useState([])
   const [selectedDisease, setSelectedDisease] = useState(null)
   const [results, setResults] = useState([])
-  const [isLoading, setisLoading] = useState(false);
+  const [targetDrug, setTargetDrug] = useState(null)
+  const [relatedDiseases, setRelatedDiseases] = useState([])
+  const [relatedDrugs, setRelatedDrugs] = useState([])
+  const [selectedRelatedDisease, setSelectedRelatedDisease] = useState(null)
+  const [allRelatedDrugs, setAllRelatedDrugs] = useState([])
 
   const handleDrugSelection = (selectedOptions) => {
     setSelectedDrugs(selectedOptions ? selectedOptions.map(opt => opt.value) : [])
@@ -29,15 +32,13 @@ export default function DrugRepurposing() {
 
   const handleSubmit = async (e) => {
     e.preventDefault()
-    setisLoading(true);
     const data = {
       disease: selectedDisease,
       drugs: selectedDrugs.map(drug => drug.ChemicalID),
     }
 
     try {
-      const response = await fetch('http://54.242.63.182:5000/getscore', {
-        // const response = await fetch('http://localhost:5000/getscore', {
+      const response = await fetch(`${import.meta.env.VITE_SERVER_URL}/getscore`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -50,7 +51,6 @@ export default function DrugRepurposing() {
       }
 
       const resultData = await response.json()
-      console.log(resultData);
       const filteredResults = Object.entries(resultData).filter(([drugID]) =>
         !selectedDrugs.some((drug) => drug.ChemicalID === drugID)
       )
@@ -62,10 +62,110 @@ export default function DrugRepurposing() {
           score
         }
       })
-      setisLoading(false);
       setResults(top3Drugs)
     } catch (error) {
       console.error('Error:', error)
+    }
+  }
+
+  const handleListRelatedDiseases = async () => {
+    if (!targetDrug) return;
+
+    try {
+      const response = await fetch(`${import.meta.env.VITE_SERVER}/getrelateddiseases`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ drug: targetDrug }),
+      })
+
+      if (!response.ok) {
+        throw new Error('Failed to fetch related diseases')
+      }
+
+      const data = await response.json()
+      if (data.error) {
+        throw new Error(data.error)
+      }
+
+      // Set the related diseases received from the backend
+      setRelatedDiseases(data.diseases)
+
+    } catch (error) {
+      console.error('Error fetching related diseases:', error)
+    }
+  }
+
+  const handleFindDrug = async (disease) => {
+    setSelectedRelatedDisease(disease);
+
+    try {
+      const response = await fetch(`${import.meta.env.VITE_SERVER_URL}/getdrugsfordisease`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ disease: disease.DiseaseName }),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to fetch related drugs');
+      }
+
+      const data = await response.json();
+
+      const drugsArray = Object.entries(data).map(([chemicalID, score]) => {
+        const drug = drugs.find((d) => d.ChemicalID === chemicalID);
+        return {
+          ChemicalName: drug ? drug.ChemicalName : chemicalID,
+          Score: score,
+        };
+      });
+
+      setRelatedDrugs(drugsArray);
+
+    } catch (error) {
+      console.error('Error fetching related drugs:', error);
+    }
+  }
+
+  const handleFindAllDrugs = async () => {
+    try {
+      const allDrugsPromises = relatedDiseases.map(async (disease) => {
+        const response = await fetch(`${import.meta.env.VITE_SERVER_URL}/getdrugsfordisease`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ disease: disease.DiseaseName }),
+        });
+
+        if (!response.ok) {
+          throw new Error(`Failed to fetch related drugs for ${disease.DiseaseName}`);
+        }
+
+        const data = await response.json();
+
+        const drugsArray = Object.entries(data).map(([chemicalID, score]) => {
+          const drug = drugs.find((d) => d.ChemicalID === chemicalID);
+          return {
+            ChemicalName: drug ? drug.ChemicalName : chemicalID,
+            Score: score,
+          };
+        });
+
+        return {
+          disease: disease.DiseaseName,
+          drugs: drugsArray,
+        };
+      });
+
+      const allDrugs = await Promise.all(allDrugsPromises);
+      setAllRelatedDrugs(allDrugs);
+
+    } catch (error) {
+      console.error('Error fetching all related drugs:', error);
     }
   }
 
@@ -76,12 +176,12 @@ export default function DrugRepurposing() {
     }),
     menu: (provided) => ({
       ...provided,
-      zIndex: 9999, // Ensure dropdown is on top
-      position: 'absolute', // Make sure it's not constrained by parent elements
+      zIndex: 9999,
+      position: 'absolute',
     }),
     menuPortal: (provided) => ({
       ...provided,
-      zIndex: 9999, // Extra safety for portal
+      zIndex: 9999,
     }),
     multiValue: (provided) => ({
       ...provided,
@@ -104,12 +204,10 @@ export default function DrugRepurposing() {
           <Tabs defaultValue="disease-wise">
             <TabsList className="grid w-full grid-cols-2">
               <TabsTrigger value="disease-wise">Disease-wise Approach</TabsTrigger>
-              <TabsTrigger value="drug-wise" disabled>
-                Drug-wise Approach
-                <Lock className="ml-2 h-4 w-4" />
-              </TabsTrigger>
+              <TabsTrigger value="drug-wise">Drug-wise Approach</TabsTrigger>
             </TabsList>
             <TabsContent value="disease-wise">
+              {/* Disease-wise Approach */}
               <form onSubmit={handleSubmit} className="space-y-6">
                 <div>
                   <label className="block text-sm font-medium mb-2" htmlFor="targetDisease">
@@ -121,13 +219,13 @@ export default function DrugRepurposing() {
                       label: d.DiseaseName,
                     }))}
                     onChange={(selectedOption) =>
-                      setSelectedDisease(selectedOption.value.DiseaseName ? selectedOption.value.DiseaseName : null)
+                      setSelectedDisease(selectedOption ? selectedOption.value : null)
                     }
                     isSearchable
                     placeholder="Search or enter a disease"
                     isClearable
                     styles={customStyles}
-                    menuPortalTarget={document.body} // Ensure the dropdown is rendered at the top level
+                    menuPortalTarget={document.body}
                   />
                 </div>
                 <div>
@@ -152,16 +250,10 @@ export default function DrugRepurposing() {
                     isMulti
                     isClearable
                     styles={customStyles}
-                    menuPortalTarget={document.body} // Ensure the dropdown is rendered at the top level
+                    menuPortalTarget={document.body}
                   />
                 </div>
-                <Button
-                  className='bg-[#95D524] rounded-[25px]'
-                  type="submit"
-                  disabled={isLoading}  // Disable button when isLoading is true
-                >
-                  {isLoading ? 'Submitting...' : 'Submit'} 
-                </Button>
+                <Button className='bg-[#95D524] rounded-[25px]' type="submit">Submit</Button>
               </form>
               {results.length > 0 && (
                 <div className="mt-8">
@@ -177,11 +269,11 @@ export default function DrugRepurposing() {
                         </TableHeader>
                         <TableBody>
                           {results
-                            .filter(result => result.score !== '0%')
+                            .filter(result => result.score !== 0)
                             .map((result) => (
                               <TableRow key={result.name}>
                                 <TableCell>{result.name}</TableCell>
-                                <TableCell>{(result.score)}</TableCell>
+                                <TableCell>{(result.score * 10000000000000).toFixed(2)}</TableCell>
                               </TableRow>
                             ))}
                         </TableBody>
@@ -194,8 +286,123 @@ export default function DrugRepurposing() {
               )}
             </TabsContent>
             <TabsContent value="drug-wise">
-              <div className="flex items-center justify-center h-64">
-                <p className="text-gray-500">Drug-wise approach is currently unavailable</p>
+              {/* Drug-wise Approach */}
+              <div className="space-y-6">
+                <div>
+                  <label className="block text-sm font-medium mb-2" htmlFor="targetDrug">
+                    Target Drug
+                  </label>
+                  <Select
+                    options={drugs.map((d) => ({
+                      value: d,
+                      label: `${d.ChemicalName} - (${d.ChemicalID})`,
+                    }))}
+                    onChange={(selectedOption) =>
+                      setTargetDrug(selectedOption ? selectedOption.value : null)
+                    }
+                    isSearchable
+                    placeholder="Search or enter a drug"
+                    isClearable
+                    styles={customStyles}
+                    menuPortalTarget={document.body}
+                  />
+                </div>
+                <Button
+                  className='bg-[#95D524] rounded-[25px]'
+                  onClick={handleListRelatedDiseases}
+                  disabled={!targetDrug}
+                >
+                  List Related Diseases
+                </Button>
+                {relatedDiseases.length > 0 && (
+                  <div className="mt-8">
+                    <fieldset className="border border-[#2AC4F7] p-4 rounded-lg bg-[#2AC4F70D]">
+                      <legend><Badge className='text-xl bg-[#2AC4F7]'>Related Diseases</Badge></legend>
+                      <Table>
+                        <TableHeader>
+                          <TableRow>
+                            <TableHead>Disease Name</TableHead>
+                            <TableHead>Action</TableHead>
+                          </TableRow>
+                        </TableHeader>
+                        <TableBody>
+                          {relatedDiseases.map((disease) => (
+                            <TableRow key={disease.DiseaseID}>
+                              <TableCell>{disease.DiseaseName}</TableCell>
+                              <TableCell>
+                                <Button
+                                  onClick={() => handleFindDrug(disease)}
+                                  className='bg-[#95D524] rounded-[25px] text-xs py-1 px-2'
+                                >
+                                  Find Drug
+                                </Button>
+                              </TableCell>
+                            </TableRow>
+                          ))}
+                        </TableBody>
+                      </Table>
+                      <div className="mt-4">
+                        <Button
+                          onClick={handleFindAllDrugs}
+                          className='bg-[#95D524] rounded-[25px]'
+                        >
+                          Find for All Diseases
+                        </Button>
+                      </div>
+                    </fieldset>
+                  </div>
+                )}
+                {selectedRelatedDisease && relatedDrugs.length > 0 && (
+                  <div className="mt-8">
+                    <fieldset className="border border-[#2AC4F7] p-4 rounded-lg bg-[#2AC4F70D]">
+                      <legend><Badge className='text-xl bg-[#2AC4F7]'>Drugs Related to {selectedRelatedDisease.DiseaseName}</Badge></legend>
+                      <Table>
+                        <TableHeader>
+                          <TableRow>
+                            <TableHead>Drug Name</TableHead>
+                            <TableHead>Score</TableHead>
+                          </TableRow>
+                        </TableHeader>
+                        <TableBody>
+                          {relatedDrugs.map((drug) => (
+                            <TableRow key={drug.ChemicalName}>
+                              <TableCell>{drug.ChemicalName}</TableCell>
+                              <TableCell>{(drug.Score * 10000000000000).toFixed(2)}</TableCell>
+                            </TableRow>
+                          ))}
+                        </TableBody>
+                      </Table>
+                    </fieldset>
+                  </div>
+                )}
+                {allRelatedDrugs.length > 0 && (
+                  <div className="mt-8">
+                    <fieldset className="border border-[#2AC4F7] p-4 rounded-lg bg-[#2AC4F70D]">
+                      <legend><Badge className='text-xl bg-[#2AC4F7]'>All Related Drugs</Badge></legend>
+                      {allRelatedDrugs.map((diseaseData) => (
+                        <div key={diseaseData.disease} className="mb-4">
+                          <h3 className="text-lg font-semibold mb-2">{diseaseData.disease}</h3>
+                          <Table>
+                            <TableHeader>
+                              <TableRow>
+                                <TableHead>Drug Name</TableHead>
+                                <TableHead>Score</TableHead>
+                              </TableRow>
+                            </TableHeader>
+                            <TableBody>
+                              {diseaseData.drugs.map((drug) => (
+                                <TableRow key={drug.ChemicalName}>
+                                  <TableCell>{drug.ChemicalName}</TableCell>
+                                  <TableCell>{(drug.Score * 10000000000000).toFixed(2)}</TableCell>
+                                </TableRow>
+                              ))}
+                            </TableBody>
+                          </Table>
+                        </div>
+                      ))}
+                    </fieldset>
+                  </div>
+                )}
               </div>
             </TabsContent>
           </Tabs>

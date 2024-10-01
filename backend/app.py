@@ -16,6 +16,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from proteinstability.models import get_esm2_embedding
 import drugrepurposing.Utilities as ut
 from CTO.inference import embed_single_row, xgb_classifier
+from drugrepurposing.drv1.Inference import find_drug_disease_association2
 
 
 app = Flask(__name__)
@@ -147,6 +148,54 @@ def getscore():
     return jsonify(drug_ranking)
 
 
+@app.route('/getrelateddiseases', methods=['POST'])
+def get_related_diseases():
+    data = request.get_json()
+    target_drug = data.get('drug')  # This should be a dict with 'ChemicalID' and 'ChemicalName'
+
+    chemical_id = target_drug.get('ChemicalID')
+    chemical_name = target_drug.get('ChemicalName')
+
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    drug_disease_path = os.path.join(base_path, 'drugrepurposing/data/Cleansed_CTD_chemicals_diseases.csv')
+
+    try:
+        disease_drug_dict, unique_diseases, unique_drugs = find_drug_disease_association2(
+            drug_disease_path, target_drug_name=chemical_name, target_drug_id=chemical_id)
+
+        df = pd.read_csv(drug_disease_path)
+        disease_id_to_name = dict(zip(df['DiseaseID'], df['DiseaseName']))
+
+        diseases = []
+        for disease_id in unique_diseases:
+            disease_name = disease_id_to_name.get(disease_id, disease_id)
+            diseases.append({'DiseaseID': disease_id, 'DiseaseName': disease_name})
+
+        return jsonify({'diseases': diseases})
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+# Endpoint to get drugs for a selected disease
+@app.route('/getdrugsfordisease', methods=['POST'])
+def get_drugs_for_disease():
+    data = request.get_json()
+    target_disease = data.get('disease')
+    known_drugs = []  # Adjust as necessary
+
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    model_path = os.path.join(base_path, 'drugrepurposing/drug_protein_network_enhanced.gpickle')
+    drug_disease_path = os.path.join(base_path, 'drugrepurposing/Cleansed_CTD_chemicals_diseases.csv')
+
+    drug_disease = pd.read_csv(drug_disease_path)
+
+    try:
+        drug_ranking = ut.drug_scoring(target_disease, known_drugs, model_path, drug_disease)
+        return jsonify(drug_ranking)
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+#CTO
 # Load the Excel data
 all_trails_df = pd.read_excel('./CTO/all_trials_df.xlsx')
 all_trails_df_v2 = pd.read_excel('./CTO/all_trials_df_v2.xlsx')

@@ -27,7 +27,7 @@ function Signup({ onSwitchToLogin }) {
         setError('');  // Clear error if no issues
         try {
             // Send a POST request to the backend
-            const response = await fetch('http://54.242.63.182:5000/signup', {
+            const response = await fetch(`${import.meta.env.VITE_SERVER}/signup`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
